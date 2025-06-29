@@ -1,0 +1,1001 @@
+[
+  {
+    "category": "세무기장대행",
+    "items": [
+      {
+        "title": "01 주요 세법의 세율 및 가산세·감면",
+        "url": "http://sootax.co.kr/3505"
+      },
+      {
+        "title": "02 사업자 등록 신청시 과세유형 선택과 인허가 업종의 확인",
+        "url": "http://sootax.co.kr/3506"
+      },
+      {
+        "title": "03 사업자의 세금 신고납부의무, 성실신고확인제도",
+        "url": "http://sootax.co.kr/3507"
+      },
+      {
+        "title": "04 원천징수 및 지급명세서 제출기한",
+        "url": "http://sootax.co.kr/3508"
+      },
+      {
+        "title": "05 복식부기의무자와 간편장부대상자, 기준경비율제도",
+        "url": "http://sootax.co.kr/3509"
+      },
+      {
+        "title": "06 4대보험료율과 가입대상자, 보수총액신고",
+        "url": "http://sootax.co.kr/3510"
+      },
+      {
+        "title": "07 홈택스 회원가입과 홈택스를 통한 사업자등록신청 방법",
+        "url": "http://sootax.co.kr/3511"
+      },
+      {
+        "title": "08 홈택스를 통한 현금영수증전용카드 발급/수취에 따른 혜택",
+        "url": "http://sootax.co.kr/3518"
+      },
+      {
+        "title": "09 홈택스에 사업용 신용카드 등록하기",
+        "url": "http://sootax.co.kr/3521"
+      },
+      {
+        "title": "10 홈택스에 사업용계좌 등록하기와 사업용계좌제도의 주요내용",
+        "url": "http://sootax.co.kr/3524"
+      },
+      {
+        "title": "11 현금영수증가맹점 가입방법과 현금영수증 발행방법",
+        "url": "http://sootax.co.kr/3526"
+      },
+      {
+        "title": "12 홈택스를 통한 국세증명 발급방법",
+        "url": "http://sootax.co.kr/3527"
+      },
+      {
+        "title": "13 사업자가 알아야 할 월별 세무일정표",
+        "url": "http://sootax.co.kr/3528"
+      },
+      {
+        "title": "14 홈택스에 세무대리 수임동의하기 / 수임해지하기",
+        "url": "http://sootax.co.kr/3530"
+      },
+      {
+        "title": "15 지방세 납부기한 및 월별 지방세 납부 일정",
+        "url": "http://sootax.co.kr/3586"
+      },
+      {
+        "title": "16 주민세 균등분, 재산분, 종업원분의 신고납부",
+        "url": "http://sootax.co.kr/3590"
+      },
+      {
+        "title": "17 홈택스를 통한 전자세금계산서 발급방법",
+        "url": "http://sootax.co.kr/3615"
+      },
+      {
+        "title": "18 홈택스를 통한 세금/신고납부방법",
+        "url": "http://sootax.co.kr/3616"
+      },
+      {
+        "title": "19 홈택스를 통한 원천세 반기별 납부 신청하기",
+        "url": "http://sootax.co.kr/3618"
+      },
+      {
+        "title": "20 휴가와 휴직 시 4대보험의 처리",
+        "url": "http://sootax.co.kr/3621"
+      },
+      {
+        "title": "21 가산세 요약정리 - ① 국세기본법상 가산세",
+        "url": "http://sootax.co.kr/3751"
+      },
+      {
+        "title": "22 가산세 요약정리 - ② 법인세법상 가산세",
+        "url": "http://sootax.co.kr/3752"
+      },
+      {
+        "title": "23 가산세 요약정리 - ③ 소득세법상 가산세",
+        "url": "http://sootax.co.kr/3755"
+      },
+      {
+        "title": "24 가산세 요약정리 - ④ 부가가치세법상 가산세",
+        "url": "http://sootax.co.kr/3756"
+      },
+      {
+        "title": "25 4대보험공단 관할지사 찾아보기",
+        "url": "http://sootax.co.kr/3764"
+      },
+      {
+        "title": "26 간이과세자와 일반과세자의 과세유형전환 시기",
+        "url": "http://sootax.co.kr/3765"
+      },
+      {
+        "title": "27 간이과세자와 일반과세자의 과세방식 비교",
+        "url": "http://sootax.co.kr/3766"
+      },
+      {
+        "title": "28 두루누리 제도 알아보기",
+        "url": "http://sootax.co.kr/3780"
+      },
+      {
+        "title": "29 사업장현황신고 안내",
+        "url": "http://sootax.co.kr/3792"
+      },
+      {
+        "title": "30 종합소득세 중간예납 안내",
+        "url": "http://sootax.co.kr/3793"
+      },
+      {
+        "title": "31 세무조사 진행 절차와 납세자 권리구제 제도",
+        "url": "http://sootax.co.kr/3991"
+      },
+      {
+        "title": "32 해외금융계좌 신고제도 안내",
+        "url": "http://sootax.co.kr/3994"
+      },
+      {
+        "title": "33 해외주식 투자 시 발생되는 세금문제",
+        "url": "http://sootax.co.kr/3995"
+      },
+      {
+        "title": "34 해외부동산 투자 시 발생되는 세금문제",
+        "url": "http://sootax.co.kr/3996"
+      },
+      {
+        "title": "35 주식 양도시 세율과 대주주의 범위, 증권거래세 세율",
+        "url": "http://sootax.co.kr/4089"
+      },
+      {
+        "title": "36 법인세 중간예납 안내",
+        "url": "http://sootax.co.kr/4237"
+      },
+      {
+        "title": "37 4대보험별 보험료 산정과 부과방식 요약",
+        "url": "http://sootax.co.kr/4346"
+      },
+      {
+        "title": "38 4대보험별 기준금액의 산정과 적용기간 요약",
+        "url": "http://sootax.co.kr/4347"
+      },
+      {
+        "title": "39 4대보험별 보험료의 정산과 소득총액(보수총액)신고",
+        "url": "http://sootax.co.kr/4369"
+      },
+      {
+        "title": "40 4대보험 체크사항: 직원을 신규로 채용하는 경우",
+        "url": "http://sootax.co.kr/4376"
+      },
+      {
+        "title": "41 4대보험 체크사항: 직원이 퇴사하는 경우",
+        "url": "http://sootax.co.kr/4384"
+      },
+      {
+        "title": "42 4대보험 체크사항: 일용근로자인 경우",
+        "url": "http://sootax.co.kr/4385"
+      },
+      {
+        "title": "43 4대보험 체크사항: 단시간 근로자인 경우",
+        "url": "http://sootax.co.kr/4386"
+      },
+      {
+        "title": "44 4대보험 체크사항: 외국인 근로자인 경우",
+        "url": "http://sootax.co.kr/4399"
+      },
+      {
+        "title": "45 세법상 근로소득와 일용근로소득의 구분",
+        "url": "http://sootax.co.kr/4410"
+      },
+      {
+        "title": "46 두루누리 사회보험과 일자리안정자금 지원사업 안내(2019년)",
+        "url": "https://sootax.co.kr/4508"
+      },
+      {
+        "title": "47 청년 추가고용 장려금 지원사업 안내(2019년)",
+        "url": "https://sootax.co.kr/4516"
+      },
+      {
+        "title": "48 청년내일채움공제 지원사업안내(2019년)",
+        "url": "https://sootax.co.kr/4525"
+      },
+      {
+        "title": "49 노란우산공제 제도안내(2019년)",
+        "url": "https://sootax.co.kr/4603"
+      },
+      {
+        "title": "50 건강보험 직장가입자의 피부양자 등록 요건 안내",
+        "url": "https://sootax.co.kr/4608"
+      },
+      {
+        "title": "51 연말정산시기와 신고방법(2019년 귀속)",
+        "url": "https://sootax.co.kr/4652"
+      },
+      {
+        "title": "52 연말정산 인적공제 대상자 요건 정리(2019년 귀속)",
+        "url": "https://sootax.co.kr/4653"
+      },
+      {
+        "title": "53 연말정산 소득공제 요건 및 한도 정리(2019년 귀속)",
+        "url": "https://sootax.co.kr/4654"
+      },
+      {
+        "title": "54 연말정산 세액공제 요건 및 한도 정리(2019년 귀속)",
+        "url": "https://sootax.co.kr/4655"
+      },
+      {
+        "title": "55 세무기장 대행 시 필요한 절차 안내",
+        "url": "https://sootax.co.kr/4700"
+      },
+      {
+        "title": "56 원천세(소득세/지방소득세) 납부하는 방법 안내",
+        "url": "https://sootax.co.kr/4706"
+      },
+      {
+        "title": "57 종합소득세 신고안내문 유형 비교정리",
+        "url": "https://sootax.co.kr/4711"
+      },
+      {
+        "title": "58 종합소득세 신고시 필요한 서류 안내",
+        "url": "https://sootax.co.kr/4712"
+      },
+      {
+        "title": "59 종합소득세 신고서 읽어보기 ━ 산출세액, 결정세액",
+        "url": "https://sootax.co.kr/4723"
+      },
+      {
+        "title": "60 비상장주식 평가 의뢰 시 필요서류 안내",
+        "url": "https://sootax.co.kr/4740"
+      },
+      {
+        "title": "61 소득세법상 기장의무의 판정 ━ 복식부기와 간편장부의 구분",
+        "url": "https://sootax.co.kr/4763"
+      },
+      {
+        "title": "62 부가가치세 신고 시 필요한 서류 안내",
+        "url": "https://sootax.co.kr/4765"
+      },
+      {
+        "title": "63 업무용 승용차 관련 법인과 개인사업자의 비교",
+        "url": "https://sootax.co.kr/4768"
+      },
+      {
+        "title": "64 비상장 법인의 주식을 양수도하는 경우 처리방법 정리",
+        "url": "https://sootax.co.kr/4771"
+      },
+      {
+        "title": "65 사업용계좌신고제도의 이해: 신고대상과 신고기한, 등록방법",
+        "url": "https://sootax.co.kr/4786"
+      },
+      {
+        "title": "66 법인세 중간예납 신고 및 납부 안내",
+        "url": "https://sootax.co.kr/4791"
+      },
+      {
+        "title": "67 부동산 법인의 성신실고확인 제도 안내",
+        "url": "https://sootax.co.kr/4823"
+      },
+      {
+        "title": "68 사업자가 챙겨야하는 지출증빙의 종류",
+        "url": "https://sootax.co.kr/4830"
+      },
+      {
+        "title": "69 사업자가 챙겨야하는 지출증빙의 관리방법",
+        "url": "https://sootax.co.kr/4831"
+      },
+      {
+        "title": "70 사업자가 챙겨야하는 인건비 항목(급여와 복리후생비)",
+        "url": "https://sootax.co.kr/4844"
+      },
+      {
+        "title": "71 종합소득세 중간예납세액 납부 안내",
+        "url": "https://sootax.co.kr/4849"
+      },
+      {
+        "title": "72 2021년 사회보험 요율표 및 4대보험 관련 사항 요약",
+        "url": "https://sootax.co.kr/4867"
+      },
+      {
+        "title": "73 종합소득세 신고시 필요한 서류 안내(2020년 귀속)",
+        "url": "https://sootax.co.kr/4904"
+      },
+      {
+        "title": "74 부가가치세법상 간이과세 제도 요약(2021년 7월 이후)",
+        "url": "https://sootax.co.kr/5366"
+      },
+      {
+        "title": "75 부가가치세가 면세되는 인적용역 정리",
+        "url": "https://sootax.co.kr/5380"
+      },
+      {
+        "title": "76 부가가치세 신용카드 매입세액 공제시 유의사항",
+        "url": "https://sootax.co.kr/5391"
+      },
+      {
+        "title": "77 현금영수증 의무발행업종 정리",
+        "url": "https://sootax.co.kr/5399"
+      },
+      {
+        "title": "78 지출증명서류 수취 및 보관의무 정리",
+        "url": "https://sootax.co.kr/5422"
+      },
+      {
+        "title": "79 법인세·소득세의 세액공제와 세액감면이 모두 적용될 때",
+        "url": "https://sootax.co.kr/5435"
+      },
+      {
+        "title": "80 근로소득이 비과세되는 식대 20만원 상향 안내",
+        "url": "https://sootax.co.kr/5503"
+      },
+      {
+        "title": "81 업무용승용차 손금불산입 제도 안내",
+        "url": "https://sootax.co.kr/5626"
+      },
+      {
+        "title": "82 조세특례제한법 상 청년의 연령 및 감면 사항 정리",
+        "url": "https://sootax.co.kr/5823"
+      }
+    ]
+  },
+  {
+    "category": "부동산 기초세금",
+    "items": [
+      {
+        "title": "01 취득세의 취득가액 산정방법과 세율",
+        "url": "http://sootax.co.kr/3532"
+      },
+      {
+        "title": "02 취득세 시가표준액 조회하는 방법",
+        "url": "http://sootax.co.kr/3533"
+      },
+      {
+        "title": "03 무주택 상속자의 취득세 특례세율의 적용",
+        "url": "http://sootax.co.kr/3534"
+      },
+      {
+        "title": "04 취득세와 재산세 비과세와 감면제도",
+        "url": "http://sootax.co.kr/3535"
+      },
+      {
+        "title": "05 종합부동산세 산정방법과 세율",
+        "url": "http://sootax.co.kr/3538"
+      },
+      {
+        "title": "06 재산세 산정방법과 세율",
+        "url": "http://sootax.co.kr/3539"
+      },
+      {
+        "title": "07 양도소득세 계산구조 및 세율",
+        "url": "http://sootax.co.kr/3542"
+      },
+      {
+        "title": "08 양도소득세 필요경비로 공제되는 자본적 지출과 입증서류",
+        "url": "http://sootax.co.kr/3543"
+      },
+      {
+        "title": "09 장기보유특별공제 적용대상 자산과 1세대 1주택 특례공제율",
+        "url": "http://sootax.co.kr/3546"
+      },
+      {
+        "title": "10 양도소득세 신고납부기한",
+        "url": "http://sootax.co.kr/3547"
+      },
+      {
+        "title": "11 상속받은 자산을 양도시 적용되는 양도소득세 규정 정리",
+        "url": "http://sootax.co.kr/3553"
+      },
+      {
+        "title": "12 1세대 1주택에 대한 양도소득세 비과세",
+        "url": "http://sootax.co.kr/3554"
+      },
+      {
+        "title": "13 1세대 2주택 특례규정이 적용되는 주택",
+        "url": "http://sootax.co.kr/3556"
+      },
+      {
+        "title": "14 농지에 대한 양도소득세 감면 및 비과세",
+        "url": "http://sootax.co.kr/3562"
+      },
+      {
+        "title": "15 과점주주의 취득세 납세의무",
+        "url": "http://sootax.co.kr/3600"
+      },
+      {
+        "title": "16 양도세 비과세·감면 제도 정리",
+        "url": "http://sootax.co.kr/3610"
+      },
+      {
+        "title": "17 유형별 양도·취득시기 요약",
+        "url": "http://sootax.co.kr/3611"
+      },
+      {
+        "title": "18 양도소득세 이월과세와 부당행위계산부인",
+        "url": "http://sootax.co.kr/3614"
+      },
+      {
+        "title": "19 양도차손익이 있는 경우 통산방법",
+        "url": "http://sootax.co.kr/3676"
+      },
+      {
+        "title": "20 주택 1채를 소유한 상황에서 추가로 주택을 구입한 후 종전주택 양도시 비과세 조건",
+        "url": "http://sootax.co.kr/3677"
+      },
+      {
+        "title": "21 부동산에 대한 포괄사업양수도 계약",
+        "url": "http://sootax.co.kr/3678"
+      },
+      {
+        "title": "22 주택임대업 - 비과세 주택임대소득의 범위, 주택의 범위 및 주택의 계산",
+        "url": "http://sootax.co.kr/3688"
+      },
+      {
+        "title": "23 주택임대업 - 임대주택사업자의 거주용 자가주택에 대한 특례",
+        "url": "http://sootax.co.kr/3689"
+      },
+      {
+        "title": "24 주택임대업 - 주택임대사업자와 관련된 세금 정리",
+        "url": "http://sootax.co.kr/3693"
+      },
+      {
+        "title": "25 주택임대업 - 준공공임대주택 양도소득세 세제혜택",
+        "url": "http://sootax.co.kr/3694"
+      },
+      {
+        "title": "26 상가임대업 - 부동산임대소득의 총수입금액계산",
+        "url": "http://sootax.co.kr/3695"
+      },
+      {
+        "title": "27 상가임대업 - 업무용 오피스텔과 주거용 오피스텔의 세금 비교",
+        "url": "http://sootax.co.kr/3696"
+      },
+      {
+        "title": "28 부동산의 취득·임대·양도시 부가가치세가 과세되는 경우",
+        "url": "http://sootax.co.kr/3698"
+      },
+      {
+        "title": "29 결손금과 이월결손금의 공제",
+        "url": "http://sootax.co.kr/3699"
+      },
+      {
+        "title": "30 공동사업에 대한 소득금액 계산",
+        "url": "http://sootax.co.kr/3703"
+      },
+      {
+        "title": "31 공동사업 합산과세와 공동사업의 특례",
+        "url": "http://sootax.co.kr/3704"
+      },
+      {
+        "title": "32 재건축·재개발주택 - 01 1세대 1주택 비과세 규정 개요",
+        "url": "http://sootax.co.kr/3707"
+      },
+      {
+        "title": "33 재건축·재개발주택 - 02 부동산 및 부동산을 취득할 수 있는 권리의 변환시기",
+        "url": "http://sootax.co.kr/3708"
+      },
+      {
+        "title": "34 재건축·재개발주택 - 03 주택수에 포함되는 조합원 입주권",
+        "url": "http://sootax.co.kr/3709"
+      },
+      {
+        "title": "35 재건축·재개발주택 - 04 조합원입주권 비과세 특례 규정",
+        "url": "http://sootax.co.kr/3710"
+      },
+      {
+        "title": "36 재건축·재개발주택 - 05 실수요목적으로 취득한 조합원입주권 비과세 특례",
+        "url": "http://sootax.co.kr/3712"
+      },
+      {
+        "title": "37 재건축·재개발주택 - 06 준공 후 재건축한 신축주택을 양도하는 경우 1세대 1주택 비과세 판정",
+        "url": "http://sootax.co.kr/3713"
+      },
+      {
+        "title": "38 재건축·재개발주택 - 07 1세대 2주택 중 1주택이 주택재개발사업이 시행된 경우",
+        "url": "http://sootax.co.kr/3715"
+      },
+      {
+        "title": "39 재건축·재개발주택 - 08 1주택자가 재개발 사업 시행 기간 중 1주택을 취득하여 양도한 경우",
+        "url": "http://sootax.co.kr/3716"
+      },
+      {
+        "title": "40 임대주택 등록절차와 임대사업자의 종류",
+        "url": "http://sootax.co.kr/3778"
+      },
+      {
+        "title": "41 주택과 관련된 조세특례제한법상 비과세·감면 제도",
+        "url": "http://sootax.co.kr/3791"
+      },
+      {
+        "title": "42 1세대 3주택자가 비과세규정을 적용받는 경우",
+        "url": "http://sootax.co.kr/3794"
+      },
+      {
+        "title": "43 고가주택의 양도차익 계산방법",
+        "url": "http://sootax.co.kr/3798"
+      },
+      {
+        "title": "44 다가구주택의 양도시 과세방법",
+        "url": "http://sootax.co.kr/3807"
+      },
+      {
+        "title": "45 주택임대사업자의 사업장현황신고와 소득세 신고",
+        "url": "http://sootax.co.kr/3808"
+      },
+      {
+        "title": "46 주택임대사업자와 장부의 비치·기장의무",
+        "url": "http://sootax.co.kr/3816"
+      },
+      {
+        "title": "47 양도세 중과제도 - 1세대 2주택 이상의 양도주택에 대한 장기보유특별공제 배제 및 중과세율",
+        "url": "http://sootax.co.kr/3924"
+      },
+      {
+        "title": "48 양도세 중과제도 - 2018. 4. 1. 이후 양도분부터 적용대상인 1세대 3주택의 적용기준",
+        "url": "http://sootax.co.kr/3925"
+      },
+      {
+        "title": "49 양도세 중과제도 - 2018. 4. 1. 이후 양도분부터 적용대상인 1세대 2주택의 적용기준",
+        "url": "http://sootax.co.kr/3926"
+      },
+      {
+        "title": "50 양도세 중과제도 - 양도소득세율 및 중과세율 표",
+        "url": "http://sootax.co.kr/4236"
+      },
+      {
+        "title": "51 양도세 중과제도 - 조정대상지역 정리",
+        "url": "http://sootax.co.kr/4277"
+      },
+      {
+        "title": "52 8년 자경농지에 대한 양도소득세 감면사항 정리",
+        "url": "http://sootax.co.kr/4356"
+      },
+      {
+        "title": "53 농어촌주택 등 취득자에 대한 양도소득세 과세특례",
+        "url": "http://sootax.co.kr/4375"
+      },
+      {
+        "title": "54 주택임대사업자와 다주택자를 위한 세법정리",
+        "url": "https://sootax.co.kr/4485"
+      },
+      {
+        "title": "55 「18.9.13 주택시장 안정대책」 관련 소득세법 등 개정 사항 정리",
+        "url": "https://sootax.co.kr/4486"
+      },
+      {
+        "title": "56 2019년 개정세법 중 주택 관련 개정 사항 정리",
+        "url": "https://sootax.co.kr/4487"
+      },
+      {
+        "title": "57 2019년 후속 시행령 중 주택 관련 사항 정리-1",
+        "url": "https://sootax.co.kr/4488"
+      },
+      {
+        "title": "58 2019년 후속 시행령 중 주택 관련 사항 정리-2",
+        "url": "https://sootax.co.kr/4492"
+      },
+      {
+        "title": "59 양도소득세율과 장기보유특별공제 및 중과세율(2019년)",
+        "url": "https://sootax.co.kr/4493"
+      },
+      {
+        "title": "60 취득세, 재산세, 종합부동산 세율(2019년)",
+        "url": "https://sootax.co.kr/4497"
+      },
+      {
+        "title": "61 조정대상지역 지정·해제 현황(2018.12.31 현재)",
+        "url": "https://sootax.co.kr/4499"
+      },
+      {
+        "title": "62 민간임대주택에 관한 특별법상 임대주택의 구분",
+        "url": "https://sootax.co.kr/4500"
+      },
+      {
+        "title": "63 지자체 임대사업자 등록에 따른 의무사항 정리",
+        "url": "https://sootax.co.kr/4502"
+      },
+      {
+        "title": "64 2019년 개편·시행되는 부동산 관련 세법해설",
+        "url": "https://sootax.co.kr/4503"
+      },
+      {
+        "title": "65 중과세가 배제되는 소득세법상 장기임대주택(소령 제167조의3)의 유형",
+        "url": "https://sootax.co.kr/4504"
+      },
+      {
+        "title": "66 중과세가 배제되는 조특법 상 감면대상 미분양주택 또는 신축주택의 유형",
+        "url": "https://sootax.co.kr/4505"
+      },
+      {
+        "title": "67 주택임대사업자 등록시 세제 혜택 종합 정리표",
+        "url": "https://sootax.co.kr/4510"
+      },
+      {
+        "title": "68 임대사업자의 주택임대소득에 대한 종합소득세",
+        "url": "https://sootax.co.kr/4512"
+      },
+      {
+        "title": "69 임대주택에 관한 양도소득세 세제 혜택 정리",
+        "url": "https://sootax.co.kr/4515"
+      },
+      {
+        "title": "70 임대사업자의 거주용 자가주택 1세대 1주택 비과세 규정",
+        "url": "https://sootax.co.kr/4518"
+      },
+      {
+        "title": "71 임대사업자의 취득세·재산세 감면과 종부세 합산배제 정리",
+        "url": "https://sootax.co.kr/4526"
+      },
+      {
+        "title": "72 다주택자의 양도소득 중과세 여부의 판단방법",
+        "url": "https://sootax.co.kr/4527"
+      },
+      {
+        "title": "73 다주택자의 보유주택 판정시 주택 유형별 주택수의 계산방법",
+        "url": "https://sootax.co.kr/4537"
+      },
+      {
+        "title": "74 다주택자의 보유주택 판정 시 1세대의 의미",
+        "url": "https://sootax.co.kr/4540"
+      },
+      {
+        "title": "75 다주택자의 보유주택 판정 시 조합원 입주권을 보유한 경우",
+        "url": "https://sootax.co.kr/4541"
+      },
+      {
+        "title": "76 조정대상지역 내의 1세대 1주택 비과세 요건(2년 거주 요건 추가) 해설",
+        "url": "https://sootax.co.kr/4543"
+      },
+      {
+        "title": "77 조정대상지역 내의 1세대가 일시적으로 2주택을 보유하게 되는 경우 해설",
+        "url": "https://sootax.co.kr/4544"
+      },
+      {
+        "title": "78 중과세 판단사례: 조정대상지역과 비조정대상지역에 주택을 보유한 경우 1",
+        "url": "https://sootax.co.kr/4546"
+      },
+      {
+        "title": "79 중과세 판단사례: 조정대상지역과 비조정대상지역에 주택을 보유한 경우 2",
+        "url": "https://sootax.co.kr/4547"
+      },
+      {
+        "title": "80 중과세 판단사례: 조정대상지역에 장기임대주택을 보유한 경우 1",
+        "url": "https://sootax.co.kr/4552"
+      },
+      {
+        "title": "81 중과세 판단사례: 조정대상지역에 장기임대주택을 보유한 경우 2",
+        "url": "https://sootax.co.kr/4553"
+      },
+      {
+        "title": "82 19.12.16 부동산 대책 중 양도소득세와 관련된 사항 정리",
+        "url": "https://sootax.co.kr/4627"
+      },
+      {
+        "title": "83 2020년부터 적용되는 주택 매매시 취득세 개정사항 정리",
+        "url": "https://sootax.co.kr/4629"
+      },
+      {
+        "title": "84 19.12.16 부동산 대책 중 종합부동산세와 관련된 사항 정리",
+        "url": "https://sootax.co.kr/4632"
+      },
+      {
+        "title": "85 2020년부터 적용되는 양도소득세 주요 개정 사항 정리",
+        "url": "https://sootax.co.kr/4633"
+      },
+      {
+        "title": "86 해외이주 등으로 인해 보유기간 및 거주기간의 제한을 받지 아니한 경우(1세대 1주택 비과세)",
+        "url": "https://sootax.co.kr/4669"
+      },
+      {
+        "title": "87 실수요 목적으로 취득한 수도권 밖의 주택에 대한 과세특례(1세대 1주택 비과세)",
+        "url": "https://sootax.co.kr/4678"
+      },
+      {
+        "title": "88 재개발 및 재건축 관련 1세대1주택 비과세 규정 정리(비교표)",
+        "url": "https://sootax.co.kr/4687"
+      },
+      {
+        "title": "89 상속으로 인한 1세대 2주택의 사례별 판단",
+        "url": "https://sootax.co.kr/4697"
+      },
+      {
+        "title": "90 조세특례제한법상 장기임대주택(조특법 97조, 97조의 2) 요약표",
+        "url": "https://sootax.co.kr/4701"
+      },
+      {
+        "title": "91 조세특례제한법상 미분양주택(조특법 98조, 98조의 2, 98조의 3, 98조의 5) 요약표",
+        "url": "https://sootax.co.kr/4722"
+      },
+      {
+        "title": "92 세법상 부동산매매업과 임대업의 구분, 사업장 소재지",
+        "url": "https://sootax.co.kr/4728"
+      },
+      {
+        "title": "93 부동산법인의 법인설립등기 시 고려해야 할 사항",
+        "url": "https://sootax.co.kr/4732"
+      },
+      {
+        "title": "94 부동산법인의 과세유형과 사업자등록 절차, 지점의 설치",
+        "url": "https://sootax.co.kr/4738"
+      },
+      {
+        "title": "95 조세특례제한법상 미분양주택(조특법 98조의 6, 98조의 7, 98조의 8, 99조의 2) 요약표",
+        "url": "https://sootax.co.kr/4742"
+      },
+      {
+        "title": "96 조세특례제한법상 신축주택 및 농어촌주택 취득자에 대한 과세특례 요약표",
+        "url": "https://sootax.co.kr/4749"
+      },
+      {
+        "title": "97 조정대상지역 지정·해제 현황(2020.06.19 현재)",
+        "url": "https://sootax.co.kr/4753"
+      },
+      {
+        "title": "98 부동산매매업자의 세액계산과 예정신고 안내",
+        "url": "https://sootax.co.kr/4759"
+      },
+      {
+        "title": "99 6.17, 7.10 부동산 대책에 따른 부동산 법인의 세제 개편안 정리",
+        "url": "https://sootax.co.kr/4806"
+      },
+      {
+        "title": "100 다주택자의 양도소득 중과배제 주택 정리(1세대 3주택)",
+        "url": "https://sootax.co.kr/4810"
+      },
+      {
+        "title": "101 다주택자의 양도소득 중과배제 주택 정리(1세대 2주택)",
+        "url": "https://sootax.co.kr/4817"
+      },
+      {
+        "title": "102 비거주자의 양도소득세 과세방법과 비과세ㆍ감면 적용",
+        "url": "https://sootax.co.kr/4840"
+      },
+      {
+        "title": "103 조정대상지역 지정에 따른 양도소득세 비과세와 중과세 요건 정리",
+        "url": "https://sootax.co.kr/4850"
+      },
+      {
+        "title": "104 주택 취득 시 세금: 개인과 법인의 취득세 세율 정리(2021년)",
+        "url": "https://sootax.co.kr/4870"
+      },
+      {
+        "title": "105 조정대상지역 지정·해제 현황(2020.12.18 현재)",
+        "url": "https://sootax.co.kr/4872"
+      },
+      {
+        "title": "106 1세대 1주택 비과세 적용 시 보유기간의 기산일 판단",
+        "url": "https://sootax.co.kr/4989"
+      },
+      {
+        "title": "107 일자별로 정리한 1세대 1주택 비과세 2년 거주요건 요약표",
+        "url": "https://sootax.co.kr/4994"
+      },
+      {
+        "title": "108 주택 분양권이 취득세와 양도소득세 주택수에 포함되는 경우",
+        "url": "https://sootax.co.kr/5050"
+      },
+      {
+        "title": "109 공동상속주택의 1주택 비과세 규정과 다주택 중과 규정의 차이점",
+        "url": "https://sootax.co.kr/5054"
+      },
+      {
+        "title": "110 다주택자 양도소득세 중과 한시 배제 등 「소득세법 시행령」 개정사항 정리",
+        "url": "https://sootax.co.kr/5368"
+      },
+      {
+        "title": "111 기획재정부 '6.21 부동산 대책 중 세제 혜택요약",
+        "url": "https://sootax.co.kr/5371"
+      },
+      {
+        "title": "112 조정대상지역 지정·해제 현황(2022.11.14 현재)과 양도소득세 적용사항",
+        "url": "https://sootax.co.kr/5468"
+      },
+      {
+        "title": "113 기획재정부의 ｢2023년 경제정책방향｣ 중 부동산 세제 정리",
+        "url": "https://sootax.co.kr/5510"
+      },
+      {
+        "title": "114 기획재정부의 \"일시적 2주택자의 종전주택 처분기한 연장\" 내용 정리",
+        "url": "https://sootax.co.kr/5537"
+      },
+      {
+        "title": "115 부담부증여 시 채무액에 대한 소득세법과 지방세법 상 차이 정리",
+        "url": "https://sootax.co.kr/5642"
+      },
+      {
+        "title": "116 2023년 부동산 등 양도소득세 세율 정리",
+        "url": "https://sootax.co.kr/5653"
+      },
+      {
+        "title": "117 2023년 부동산 취득세율, 재산세율, 종합부동산세율 정리",
+        "url": "https://sootax.co.kr/5654"
+      },
+      {
+        "title": "118 2023년 부동산 세제 주요 개정사항 정리",
+        "url": "https://sootax.co.kr/5681"
+      },
+      {
+        "title": "119 일시적 2주택 비과세 특례 정리(주택과 조합원입주권, 분양권)",
+        "url": "https://sootax.co.kr/5780"
+      },
+      {
+        "title": "120 상생임대주택 1세대1주택 특례 정리",
+        "url": "https://sootax.co.kr/5847"
+      },
+      {
+        "title": "121 상속주택 비과세 특례 및 공동상속주택 소수지분 특례 정리",
+        "url": "https://sootax.co.kr/5933"
+      }
+    ]
+  },
+  {
+    "category": "상속세와 증여세",
+    "items": [
+      {
+        "title": "01 상속세 세액계산 흐름도 ━ 피상속인이 거주자인 경우",
+        "url": "http://sootax.co.kr/3564"
+      },
+      {
+        "title": "02 상속세 세액계산 흐름도 ━ 피상속인이 비거주자인 경우",
+        "url": "http://sootax.co.kr/3565"
+      },
+      {
+        "title": "03 상속세 과세대상과 비과세, 상속공제",
+        "url": "http://sootax.co.kr/3566"
+      },
+      {
+        "title": "04 상속세 세율과 신고납부",
+        "url": "http://sootax.co.kr/3567"
+      },
+      {
+        "title": "05 증여세 세액계산 흐름도 ━ 수증자가 거주자인 경우",
+        "url": "http://sootax.co.kr/3573"
+      },
+      {
+        "title": "06 증여세 세액계산 흐름도 ━ 수증자가 비거주자인 경우",
+        "url": "http://sootax.co.kr/3574"
+      },
+      {
+        "title": "07 증여세 과세대상과 비과세, 증여재산공제",
+        "url": "http://sootax.co.kr/3577"
+      },
+      {
+        "title": "08 증여세 세율과 신고납부",
+        "url": "http://sootax.co.kr/3578"
+      },
+      {
+        "title": "09 상속세와 증여세의 납세의무",
+        "url": "http://sootax.co.kr/3587"
+      },
+      {
+        "title": "10 상속세 연대납세의무",
+        "url": "http://sootax.co.kr/3597"
+      },
+      {
+        "title": "11 유사매매사례가액의 정의 및 인정사례",
+        "url": "http://sootax.co.kr/3601"
+      },
+      {
+        "title": "12 상속·증여재산 평가 기준일",
+        "url": "http://sootax.co.kr/3619"
+      },
+      {
+        "title": "13 부담부증여에 따른 양도소득세와 증여세 과세문제",
+        "url": "http://sootax.co.kr/3797"
+      },
+      {
+        "title": "14 상속인의 상속순위와 대습상속",
+        "url": "http://sootax.co.kr/3906"
+      },
+      {
+        "title": "15 상속인의 상속포기와 한정승인",
+        "url": "http://sootax.co.kr/3907"
+      },
+      {
+        "title": "16 상속재산으로 보는 퇴직금과 상속재산으로 보지 않는 연금",
+        "url": "http://sootax.co.kr/3916"
+      },
+      {
+        "title": "17 상속재산으로 보는 보험금 및 상속인이 보험료를 납부한 경우",
+        "url": "http://sootax.co.kr/3917"
+      },
+      {
+        "title": "18 증여재산을 반환하거나 재증여하는 경우",
+        "url": "http://sootax.co.kr/3943"
+      },
+      {
+        "title": "19 차명예금에 대한 증여추정",
+        "url": "http://sootax.co.kr/3944"
+      },
+      {
+        "title": "20 배우자 등에 대한 재산 양도시의 증여추정",
+        "url": "http://sootax.co.kr/3958"
+      },
+      {
+        "title": "21 부동산을 평가할 때 시가가 없는 경우와 저당권 등이 설정된 경우",
+        "url": "http://sootax.co.kr/3959"
+      },
+      {
+        "title": "22 증여세가 비과세되는 재산과 관련 사례",
+        "url": "http://sootax.co.kr/3963"
+      },
+      {
+        "title": "23 유류분 제도의 의의와 유류분 청구대상 자산",
+        "url": "http://sootax.co.kr/3964"
+      },
+      {
+        "title": "24 유언장의 종류와 작성방식 비교",
+        "url": "http://sootax.co.kr/3967"
+      },
+      {
+        "title": "25 상속재산에 포함되는 추정상속 재산",
+        "url": "http://sootax.co.kr/3972"
+      },
+      {
+        "title": "26 영농상속공제의 요건과 한도",
+        "url": "http://sootax.co.kr/4219"
+      },
+      {
+        "title": "27 동거주택 상속공제의 요건과 한도",
+        "url": "http://sootax.co.kr/4220"
+      },
+      {
+        "title": "28 상속세 물납신청의 요건과 신청, 허가",
+        "url": "http://sootax.co.kr/4267"
+      },
+      {
+        "title": "29 세대를 건너뛴 상속에 대한 할증과세 정리",
+        "url": "http://sootax.co.kr/4283"
+      },
+      {
+        "title": "30 단기 재상속에 대한 세액공제 정리",
+        "url": "http://sootax.co.kr/4284"
+      },
+      {
+        "title": "31 등기 등에 의하여 상속재산이 확정된 후 재분할시 증여세 과세문제",
+        "url": "http://sootax.co.kr/4288"
+      },
+      {
+        "title": "32 손자에게 유증하는 경우 과세문제와 상속공제 종합한도",
+        "url": "http://sootax.co.kr/4299"
+      },
+      {
+        "title": "33 금융재산 상속공제액의 계산과 범위",
+        "url": "http://sootax.co.kr/4307"
+      },
+      {
+        "title": "34 현금보다 부동산을 취득하여 상속하는 것이 유리한 경우",
+        "url": "http://sootax.co.kr/4308"
+      },
+      {
+        "title": "35 상속재산이 상속공제액 이하에 해당하여도 상속세를 신고해야 하는 경우",
+        "url": "http://sootax.co.kr/4318"
+      },
+      {
+        "title": "36 증여세 대납액에 대한 재차증여 합산과세",
+        "url": "http://sootax.co.kr/4319"
+      },
+      {
+        "title": "37 주택을 상속받아 1세대 2주택자가 된 경우 비과세 판정",
+        "url": "http://sootax.co.kr/4326"
+      },
+      {
+        "title": "38 연부연납의 요건과 신청, 연부연납 기간",
+        "url": "http://sootax.co.kr/4327"
+      },
+      {
+        "title": "39 동일인으로부터 증여받은 재산 합산과세",
+        "url": "http://sootax.co.kr/4400"
+      },
+      {
+        "title": "40 2020년부터 적용되는 상속·증여세 주요 개정 사항 정리",
+        "url": "https://sootax.co.kr/4640"
+      },
+      {
+        "title": "41 상속재산의 분할과 유류분 제도",
+        "url": "https://sootax.co.kr/5062"
+      },
+      {
+        "title": "42 배우자 상속공제와 상속재산분할",
+        "url": "https://sootax.co.kr/5125"
+      },
+      {
+        "title": "43 상속공제 적용 시 공제한도의 적용",
+        "url": "https://sootax.co.kr/5149"
+      }
+    ]
+  }
+]
