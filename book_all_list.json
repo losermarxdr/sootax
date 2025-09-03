@@ -80,6 +80,26 @@
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/81.jpg"
   },
   {
+    "key": "644",
+    "NO": "10071",
+    "구분NO": "10000",
+    "구분": "강유원 선생님",
+    "저자": "강유원",
+    "도서명": "서구 정치사상 고전읽기",
+    "URL": "https://sootax.co.kr/644",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/644.jpg"
+  },
+  {
+    "key": "1168",
+    "NO": "10072",
+    "구분NO": "10000",
+    "구분": "강유원 선생님",
+    "저자": "강유원",
+    "도서명": "인문 고전 강의 ━ 오래된 지식, 새로운 지혜",
+    "URL": "https://sootax.co.kr/1168",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1168.jpg"
+  },
+  {
     "key": "1452",
     "NO": "10080",
     "구분NO": "10000",
