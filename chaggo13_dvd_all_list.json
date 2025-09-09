@@ -1,5 +1,74 @@
 [
   {
+    "key": 1080,
+    "Genre": "Jazz_Blues",
+    "Title": "Nigel Kennedy Quintet – Live In Paris At The New Morning [DVD]",
+    "URL": "https://changgo13.tistory.com/1080",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1080.jpg",
+    "Tags": [
+      "Nigel Kennedy Quintet"
+    ]
+  },
+  {
+    "key": 1079,
+    "Genre": "Opera",
+    "Title": "Handel: Semele / Christie, Bartoli, Nikiteanu [DVD]",
+    "URL": "https://changgo13.tistory.com/1079",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1079.jpg",
+    "Tags": [
+      "Cecilia Bartoli",
+      "Handel",
+      "Liliana Nikiteanu",
+      "William Christie"
+    ]
+  },
+  {
+    "key": 1078,
+    "Genre": "Classical",
+    "Title": "Wiener Sangerknaben - A Mozart Celebration from the Stephansdom [DVD]",
+    "URL": "https://changgo13.tistory.com/1078",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1078.jpg",
+    "Tags": [
+      "Mozart",
+      "Wiener Sängerknaben"
+    ]
+  },
+  {
+    "key": 1077,
+    "Genre": "Opera",
+    "Title": "Berlioz: La Damnation de Faust / Cambreling, Kasarova, Groves [DVD]",
+    "URL": "https://changgo13.tistory.com/1077",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1077.jpg",
+    "Tags": [
+      "Paul Groves",
+      "Vesselina Kasarova",
+      "berlioz"
+    ]
+  },
+  {
+    "key": 1076,
+    "Genre": "Opera",
+    "Title": "Cilea: Adriana Lecouvreur / Brignoli, Dessì, Larin [DVD]",
+    "URL": "https://changgo13.tistory.com/1076",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1076.jpg",
+    "Tags": [
+      "Cilea"
+    ]
+  },
+  {
+    "key": 1075,
+    "Genre": "Opera",
+    "Title": "Cimarosa: Il matrimonio segreto / Griffiths, Daniels, Feller [DVD]",
+    "URL": "https://changgo13.tistory.com/1075",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1075.jpg",
+    "Tags": [
+      "Barbara Daniels",
+      "Carlos Feller",
+      "Cimarosa",
+      "Claudio Nicolai"
+    ]
+  },
+  {
     "key": 1074,
     "Genre": "Rock_Pop",
     "Title": "Asia – Live In Moscow 1990 [DVD]",
