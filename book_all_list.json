@@ -10678,5 +10678,35 @@
     "도서명": "독일 철학 개론 ─ 칸트에서 하버마스까지",
     "URL": "https://sootax.co.kr/6493",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6493.jpg"
+  },
+  {
+    "key": "6505",
+    "NO": "90620",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "남무성",
+    "도서명": "재즈 잇 업! Jazz It Up! - 출간 15주년 특별 개정증보판",
+    "URL": "https://sootax.co.kr/6505",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6505.jpg"
+  },
+  {
+    "key": "6504",
+    "NO": "42390",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "한스 큉",
+    "도서명": "왜 그리스도인인가?",
+    "URL": "https://sootax.co.kr/6504",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6504.jpg"
+  },
+  {
+    "key": "6503",
+    "NO": "51180",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "이언 커쇼",
+    "도서명": "유럽 1914-1949 - 죽다 겨우 살아나다",
+    "URL": "https://sootax.co.kr/6503",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6503.jpg"
   }
 ]
