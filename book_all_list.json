@@ -10708,5 +10708,35 @@
     "도서명": "유럽 1914-1949 - 죽다 겨우 살아나다",
     "URL": "https://sootax.co.kr/6503",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6503.jpg"
+  },
+  {
+    "key": "6515",
+    "NO": "42400",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "가츠라 쇼류",
+    "도서명": "유식과 유가행",
+    "URL": "https://sootax.co.kr/6515",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6515.jpg"
+  },
+  {
+    "key": "6514",
+    "NO": "42410",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "탁명환",
+    "도서명": "기독교 이단연구",
+    "URL": "https://sootax.co.kr/6514",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6514.jpg"
+  },
+  {
+    "key": "6513",
+    "NO": "51190",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "베티나 슈탕네트",
+    "도서명": "예루살렘 이전의 아이히만",
+    "URL": "https://sootax.co.kr/6513",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6513.jpg"
   }
 ]
