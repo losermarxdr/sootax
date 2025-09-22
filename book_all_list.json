@@ -10738,5 +10738,35 @@
     "도서명": "예루살렘 이전의 아이히만",
     "URL": "https://sootax.co.kr/6513",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6513.jpg"
+  },
+  {
+    "key": "6523",
+    "NO": "42420",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "월터 윙크",
+    "도서명": "성서는 변혁이다",
+    "URL": "https://sootax.co.kr/6523",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6523.jpg"
+  },
+  {
+    "key": "6522",
+    "NO": "31210",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "요한 고트프리트 폰 헤르더",
+    "도서명": "인류의 교육을 위한 새로운 역사철학",
+    "URL": "https://sootax.co.kr/6522",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6522.jpg"
+  },
+  {
+    "key": "6521",
+    "NO": "90630",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "조반니노 과레스키",
+    "도서명": "돈 까밀로와 못생긴 마돈나 - 신부님 우리들의 신부님 2",
+    "URL": "https://sootax.co.kr/6521",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6521.jpg"
   }
 ]
