@@ -10768,5 +10768,35 @@
     "도서명": "돈 까밀로와 못생긴 마돈나 - 신부님 우리들의 신부님 2",
     "URL": "https://sootax.co.kr/6521",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6521.jpg"
+  },
+  {
+    "key": "6532",
+    "NO": "42430",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "신원균",
+    "도서명": "웨스트민스터 다섯 가지 표준 문서",
+    "URL": "https://sootax.co.kr/6532",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6532.jpg"
+  },
+  {
+    "key": "6531",
+    "NO": "90640",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "조반니노 과레스키",
+    "도서명": "돈 까밀로와 뻬뽀네 - 신부님 우리들의 신부님 3",
+    "URL": "https://sootax.co.kr/6531",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6531.jpg"
+  },
+  {
+    "key": "6530",
+    "NO": "51200",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "마이클 스티븐슨",
+    "도서명": "전쟁의 재발견",
+    "URL": "https://sootax.co.kr/6530",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6530.jpg"
   }
 ]
