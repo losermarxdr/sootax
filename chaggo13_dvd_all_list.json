@@ -1,13 +1,125 @@
 [
   {
+    "key": 1091,
+    "Genre": "Rock_Pop",
+    "Title": "Yes – Live In Philadelphia 1979 [DVD]",
+    "URL": "https://changgo13.tistory.com/1091",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1091.jpg",
+    "Tags": [
+      "YES"
+    ]
+  },
+  {
+    "key": 1090,
+    "Genre": "Jazz_Blues",
+    "Title": "Stanley Jordan – Live In Montreal [DVD]",
+    "URL": "https://changgo13.tistory.com/1090",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1090.jpg",
+    "Tags": [
+      "Stanley Jordan"
+    ]
+  },
+  {
+    "key": 1089,
+    "Genre": "Ballets",
+    "Title": "Prokofiev: Peter and the Wolf / Ravel: L'enfant Et Les Sortilèges [DVD]",
+    "URL": "https://changgo13.tistory.com/1089",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1089.jpg",
+    "Tags": [
+      "Ravel",
+      "prokofiev"
+    ]
+  },
+  {
+    "key": 1088,
+    "Genre": "Jazz_Blues",
+    "Title": "Pat Metheny Group – The Way Up Live At Montreal 2005 [DVD]",
+    "URL": "https://changgo13.tistory.com/1088",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1088.jpg",
+    "Tags": [
+      "Pat Metheny"
+    ]
+  },
+  {
+    "key": 1087,
+    "Genre": "Jazz_Blues",
+    "Title": "Oscar Peterson Trio With Ray Brown & Ed Thigpen – London Concert 1964 [DVD]",
+    "URL": "https://changgo13.tistory.com/1087",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1087.jpg",
+    "Tags": [
+      "Ed Thigpen",
+      "Oscar Peterson Trio",
+      "Ray Brown"
+    ]
+  },
+  {
+    "key": 1086,
+    "Genre": "Jazz_Blues",
+    "Title": "Maynard Ferguson Big Band & Tony Scott Quartet - Live In Prague 1968 [DVD]",
+    "URL": "https://changgo13.tistory.com/1086",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1086.jpg",
+    "Tags": [
+      "Maynard Ferguson Big Band",
+      "Tony Scott Quartet"
+    ]
+  },
+  {
+    "key": 1085,
+    "Genre": "Jazz_Blues",
+    "Title": "Herbie Hancock – Future 2 Future - Live [DVD]",
+    "URL": "https://changgo13.tistory.com/1085",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1085.jpg",
+    "Tags": [
+      "Herbie Hancock"
+    ]
+  },
+  {
+    "key": 1084,
+    "Genre": "Rock_Pop",
+    "Title": "Free – Forever [DVD]",
+    "URL": "https://changgo13.tistory.com/1084",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1084.jpg",
+    "Tags": [
+      "Free"
+    ]
+  },
+  {
+    "key": 1083,
+    "Genre": "Rock_Pop",
+    "Title": "Eric Clapton – Sessions For Robert J [DVD]",
+    "URL": "https://changgo13.tistory.com/1083",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1083.jpg",
+    "Tags": [
+      "Eric Clapton"
+    ]
+  },
+  {
+    "key": 1082,
+    "Genre": "Jazz_Blues",
+    "Title": "Charlie Hunter Quintet – Right Now Live [DVD]",
+    "URL": "https://changgo13.tistory.com/1082",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1082.jpg",
+    "Tags": [
+      "Charlie Hunter Quintet"
+    ]
+  },
+  {
+    "key": 1081,
+    "Genre": "Jazz_Blues",
+    "Title": "Buck Clayton's All-Stars – Brussels 1961 / London 1965 [DVD]",
+    "URL": "https://changgo13.tistory.com/1081",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1081.jpg",
+    "Tags": [
+      "Buck Clayton"
+    ]
+  },
+  {
     "key": 1080,
     "Genre": "Jazz_Blues",
     "Title": "Nigel Kennedy Quintet – Live In Paris At The New Morning [DVD]",
     "URL": "https://changgo13.tistory.com/1080",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1080.jpg",
-    "Tags": [
-      "Nigel Kennedy Quintet"
-    ]
+    "Tags": "['Nigel Kennedy Quintet']"
   },
   {
     "key": 1079,
@@ -15,12 +127,7 @@
     "Title": "Handel: Semele / Christie, Bartoli, Nikiteanu [DVD]",
     "URL": "https://changgo13.tistory.com/1079",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1079.jpg",
-    "Tags": [
-      "Cecilia Bartoli",
-      "Handel",
-      "Liliana Nikiteanu",
-      "William Christie"
-    ]
+    "Tags": "['Cecilia Bartoli', 'Handel', 'Liliana Nikiteanu', 'William Christie']"
   },
   {
     "key": 1078,
@@ -28,10 +135,7 @@
     "Title": "Wiener Sangerknaben - A Mozart Celebration from the Stephansdom [DVD]",
     "URL": "https://changgo13.tistory.com/1078",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1078.jpg",
-    "Tags": [
-      "Mozart",
-      "Wiener Sängerknaben"
-    ]
+    "Tags": "['Mozart', 'Wiener Sängerknaben']"
   },
   {
     "key": 1077,
@@ -39,11 +143,7 @@
     "Title": "Berlioz: La Damnation de Faust / Cambreling, Kasarova, Groves [DVD]",
     "URL": "https://changgo13.tistory.com/1077",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1077.jpg",
-    "Tags": [
-      "Paul Groves",
-      "Vesselina Kasarova",
-      "berlioz"
-    ]
+    "Tags": "['Paul Groves', 'Vesselina Kasarova', 'berlioz']"
   },
   {
     "key": 1076,
@@ -51,9 +151,7 @@
     "Title": "Cilea: Adriana Lecouvreur / Brignoli, Dessì, Larin [DVD]",
     "URL": "https://changgo13.tistory.com/1076",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1076.jpg",
-    "Tags": [
-      "Cilea"
-    ]
+    "Tags": "['Cilea']"
   },
   {
     "key": 1075,
@@ -61,12 +159,7 @@
     "Title": "Cimarosa: Il matrimonio segreto / Griffiths, Daniels, Feller [DVD]",
     "URL": "https://changgo13.tistory.com/1075",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1075.jpg",
-    "Tags": [
-      "Barbara Daniels",
-      "Carlos Feller",
-      "Cimarosa",
-      "Claudio Nicolai"
-    ]
+    "Tags": "['Barbara Daniels', 'Carlos Feller', 'Cimarosa', 'Claudio Nicolai']"
   },
   {
     "key": 1074,
