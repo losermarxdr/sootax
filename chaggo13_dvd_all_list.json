@@ -1,13 +1,116 @@
 [
   {
+    "key": 1101,
+    "Genre": "Rock_Pop",
+    "Title": "鄧麗君 - 1985 邓丽君日本东京NHK演唱会卡拉OK [DVD]",
+    "URL": "https://changgo13.tistory.com/1101",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1101.jpg",
+    "Tags": [
+      "鄧麗君"
+    ]
+  },
+  {
+    "key": 1100,
+    "Genre": "Rock_Pop",
+    "Title": "鄧麗君 - 1983 邓丽君十五周年香港巡迴演唱会卡拉OK [DVD]",
+    "URL": "https://changgo13.tistory.com/1100",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1100.jpg",
+    "Tags": [
+      "鄧麗君"
+    ]
+  },
+  {
+    "key": 1099,
+    "Genre": "Rock_Pop",
+    "Title": "鄧麗君 - 1982香港伊麗莎白體育館演唱會 [DVD]",
+    "URL": "https://changgo13.tistory.com/1099",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1099.jpg",
+    "Tags": [
+      "鄧麗君"
+    ]
+  },
+  {
+    "key": 1098,
+    "Genre": "Rock_Pop",
+    "Title": "New Order - 316 [DVD]",
+    "URL": "https://changgo13.tistory.com/1098",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1098.jpg",
+    "Tags": [
+      "New Order"
+    ]
+  },
+  {
+    "key": 1097,
+    "Genre": "Jazz_Blues",
+    "Title": "Monterey Jazz Festival 1975 [DVD]",
+    "URL": "https://changgo13.tistory.com/1097",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1097.jpg",
+    "Tags": [
+      "Monterey Jazz Festival"
+    ]
+  },
+  {
+    "key": 1096,
+    "Genre": "",
+    "Title": "Lynyrd Skynyrd & 38 Special - Double Bill [DVD]",
+    "URL": "https://changgo13.tistory.com/1096",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1096.jpg",
+    "Tags": [
+      "38 Special",
+      "Lynyrd Skynyrd"
+    ]
+  },
+  {
+    "key": 1095,
+    "Genre": "",
+    "Title": "Live 8 - One Day, One Concert, One World [DVD]",
+    "URL": "https://changgo13.tistory.com/1095",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1095.jpg",
+    "Tags": [
+      "Live 8"
+    ]
+  },
+  {
+    "key": 1094,
+    "Genre": "Rock_Pop",
+    "Title": "Hiromi – Live In Concert [DVD]",
+    "URL": "https://changgo13.tistory.com/1094",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1094.jpg",
+    "Tags": [
+      "Hiromi"
+    ]
+  },
+  {
+    "key": 1093,
+    "Genre": "Opera",
+    "Title": "Casella: La donna serpente / Noseda, Remigio, Grimaldi [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1093",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1093.jpg",
+    "Tags": [
+      "Carmela Remigio",
+      "Casella",
+      "Erika Grimaldi",
+      "Francesca Sassu",
+      "Gianandrea Noseda"
+    ]
+  },
+  {
+    "key": 1092,
+    "Genre": "Rock_Pop",
+    "Title": "Amuro Namie – So Crazy Tour Featuring Best Singles 2003-2004 [DVD]",
+    "URL": "https://changgo13.tistory.com/1092",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1092.jpg",
+    "Tags": [
+      "Amuro Namie"
+    ]
+  },
+  {
     "key": 1091,
     "Genre": "Rock_Pop",
     "Title": "Yes – Live In Philadelphia 1979 [DVD]",
     "URL": "https://changgo13.tistory.com/1091",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1091.jpg",
-    "Tags": [
-      "YES"
-    ]
+    "Tags": "['YES']"
   },
   {
     "key": 1090,
@@ -15,9 +118,7 @@
     "Title": "Stanley Jordan – Live In Montreal [DVD]",
     "URL": "https://changgo13.tistory.com/1090",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1090.jpg",
-    "Tags": [
-      "Stanley Jordan"
-    ]
+    "Tags": "['Stanley Jordan']"
   },
   {
     "key": 1089,
@@ -25,10 +126,7 @@
     "Title": "Prokofiev: Peter and the Wolf / Ravel: L'enfant Et Les Sortilèges [DVD]",
     "URL": "https://changgo13.tistory.com/1089",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1089.jpg",
-    "Tags": [
-      "Ravel",
-      "prokofiev"
-    ]
+    "Tags": "['Ravel', 'prokofiev']"
   },
   {
     "key": 1088,
@@ -36,9 +134,7 @@
     "Title": "Pat Metheny Group – The Way Up Live At Montreal 2005 [DVD]",
     "URL": "https://changgo13.tistory.com/1088",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1088.jpg",
-    "Tags": [
-      "Pat Metheny"
-    ]
+    "Tags": "['Pat Metheny']"
   },
   {
     "key": 1087,
@@ -46,11 +142,7 @@
     "Title": "Oscar Peterson Trio With Ray Brown & Ed Thigpen – London Concert 1964 [DVD]",
     "URL": "https://changgo13.tistory.com/1087",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1087.jpg",
-    "Tags": [
-      "Ed Thigpen",
-      "Oscar Peterson Trio",
-      "Ray Brown"
-    ]
+    "Tags": "['Ed Thigpen', 'Oscar Peterson Trio', 'Ray Brown']"
   },
   {
     "key": 1086,
@@ -58,10 +150,7 @@
     "Title": "Maynard Ferguson Big Band & Tony Scott Quartet - Live In Prague 1968 [DVD]",
     "URL": "https://changgo13.tistory.com/1086",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1086.jpg",
-    "Tags": [
-      "Maynard Ferguson Big Band",
-      "Tony Scott Quartet"
-    ]
+    "Tags": "['Maynard Ferguson Big Band', 'Tony Scott Quartet']"
   },
   {
     "key": 1085,
@@ -69,9 +158,7 @@
     "Title": "Herbie Hancock – Future 2 Future - Live [DVD]",
     "URL": "https://changgo13.tistory.com/1085",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1085.jpg",
-    "Tags": [
-      "Herbie Hancock"
-    ]
+    "Tags": "['Herbie Hancock']"
   },
   {
     "key": 1084,
@@ -79,9 +166,7 @@
     "Title": "Free – Forever [DVD]",
     "URL": "https://changgo13.tistory.com/1084",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1084.jpg",
-    "Tags": [
-      "Free"
-    ]
+    "Tags": "['Free']"
   },
   {
     "key": 1083,
@@ -89,9 +174,7 @@
     "Title": "Eric Clapton – Sessions For Robert J [DVD]",
     "URL": "https://changgo13.tistory.com/1083",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1083.jpg",
-    "Tags": [
-      "Eric Clapton"
-    ]
+    "Tags": "['Eric Clapton']"
   },
   {
     "key": 1082,
@@ -99,9 +182,7 @@
     "Title": "Charlie Hunter Quintet – Right Now Live [DVD]",
     "URL": "https://changgo13.tistory.com/1082",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1082.jpg",
-    "Tags": [
-      "Charlie Hunter Quintet"
-    ]
+    "Tags": "['Charlie Hunter Quintet']"
   },
   {
     "key": 1081,
@@ -109,9 +190,7 @@
     "Title": "Buck Clayton's All-Stars – Brussels 1961 / London 1965 [DVD]",
     "URL": "https://changgo13.tistory.com/1081",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1081.jpg",
-    "Tags": [
-      "Buck Clayton"
-    ]
+    "Tags": "['Buck Clayton']"
   },
   {
     "key": 1080,
