@@ -1,13 +1,45 @@
 [
   {
+    "key": 1104,
+    "Genre": "Opera",
+    "Title": "Stravinsky: Oedipus Rex / Ozawa, Terfel, Norman [DVD]",
+    "URL": "https://changgo13.tistory.com/1104",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1104.jpg",
+    "Tags": [
+      "Bryn Terfel",
+      "Jessye Norman",
+      "Seiji Ozawa",
+      "Stravinsky"
+    ]
+  },
+  {
+    "key": 1103,
+    "Genre": "Rock_Pop",
+    "Title": "Nana Mouskouri – Live At Herod Atticus [DVD]",
+    "URL": "https://changgo13.tistory.com/1103",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1103.jpg",
+    "Tags": [
+      "Nana Mouskouri"
+    ]
+  },
+  {
+    "key": 1102,
+    "Genre": "Classical",
+    "Title": "Janine Jansen, Neeme Järvi – Sheherazade. An Oriental Night With the Berliner Philharmoniker [DVD]",
+    "URL": "https://changgo13.tistory.com/1102",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1102.jpg",
+    "Tags": [
+      "Janine Jansen",
+      "Neeme Jarvi"
+    ]
+  },
+  {
     "key": 1101,
     "Genre": "Rock_Pop",
     "Title": "鄧麗君 - 1985 邓丽君日本东京NHK演唱会卡拉OK [DVD]",
     "URL": "https://changgo13.tistory.com/1101",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1101.jpg",
-    "Tags": [
-      "鄧麗君"
-    ]
+    "Tags": "['鄧麗君']"
   },
   {
     "key": 1100,
@@ -15,9 +47,7 @@
     "Title": "鄧麗君 - 1983 邓丽君十五周年香港巡迴演唱会卡拉OK [DVD]",
     "URL": "https://changgo13.tistory.com/1100",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1100.jpg",
-    "Tags": [
-      "鄧麗君"
-    ]
+    "Tags": "['鄧麗君']"
   },
   {
     "key": 1099,
@@ -25,9 +55,7 @@
     "Title": "鄧麗君 - 1982香港伊麗莎白體育館演唱會 [DVD]",
     "URL": "https://changgo13.tistory.com/1099",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1099.jpg",
-    "Tags": [
-      "鄧麗君"
-    ]
+    "Tags": "['鄧麗君']"
   },
   {
     "key": 1098,
@@ -35,9 +63,7 @@
     "Title": "New Order - 316 [DVD]",
     "URL": "https://changgo13.tistory.com/1098",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1098.jpg",
-    "Tags": [
-      "New Order"
-    ]
+    "Tags": "['New Order']"
   },
   {
     "key": 1097,
@@ -45,30 +71,23 @@
     "Title": "Monterey Jazz Festival 1975 [DVD]",
     "URL": "https://changgo13.tistory.com/1097",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1097.jpg",
-    "Tags": [
-      "Monterey Jazz Festival"
-    ]
+    "Tags": "['Monterey Jazz Festival']"
   },
   {
     "key": 1096,
-    "Genre": "",
+    "Genre": "Rock_Pop",
     "Title": "Lynyrd Skynyrd & 38 Special - Double Bill [DVD]",
     "URL": "https://changgo13.tistory.com/1096",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1096.jpg",
-    "Tags": [
-      "38 Special",
-      "Lynyrd Skynyrd"
-    ]
+    "Tags": "['38 Special', 'Lynyrd Skynyrd']"
   },
   {
     "key": 1095,
-    "Genre": "",
+    "Genre": "Rock_Pop",
     "Title": "Live 8 - One Day, One Concert, One World [DVD]",
     "URL": "https://changgo13.tistory.com/1095",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1095.jpg",
-    "Tags": [
-      "Live 8"
-    ]
+    "Tags": "['Live 8']"
   },
   {
     "key": 1094,
@@ -76,9 +95,7 @@
     "Title": "Hiromi – Live In Concert [DVD]",
     "URL": "https://changgo13.tistory.com/1094",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1094.jpg",
-    "Tags": [
-      "Hiromi"
-    ]
+    "Tags": "['Hiromi']"
   },
   {
     "key": 1093,
@@ -86,13 +103,7 @@
     "Title": "Casella: La donna serpente / Noseda, Remigio, Grimaldi [Blu-ray]",
     "URL": "https://changgo13.tistory.com/1093",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1093.jpg",
-    "Tags": [
-      "Carmela Remigio",
-      "Casella",
-      "Erika Grimaldi",
-      "Francesca Sassu",
-      "Gianandrea Noseda"
-    ]
+    "Tags": "['Carmela Remigio', 'Casella', 'Erika Grimaldi', 'Francesca Sassu', 'Gianandrea Noseda']"
   },
   {
     "key": 1092,
@@ -100,9 +111,7 @@
     "Title": "Amuro Namie – So Crazy Tour Featuring Best Singles 2003-2004 [DVD]",
     "URL": "https://changgo13.tistory.com/1092",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1092.jpg",
-    "Tags": [
-      "Amuro Namie"
-    ]
+    "Tags": "['Amuro Namie']"
   },
   {
     "key": 1091,
