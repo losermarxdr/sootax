@@ -10798,5 +10798,35 @@
     "도서명": "전쟁의 재발견",
     "URL": "https://sootax.co.kr/6530",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6530.jpg"
+  },
+  {
+    "key": "6541",
+    "NO": "31220",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "피오나 휴즈",
+    "도서명": "칸트의 『미적 판단력 비판』 입문",
+    "URL": "https://sootax.co.kr/6541",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6541.jpg"
+  },
+  {
+    "key": "6540",
+    "NO": "31230",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "A. 베일리, D. 오브리언",
+    "도서명": "흄의 <인간 오성에 관한 탐구> 입문",
+    "URL": "https://sootax.co.kr/6540",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6540.jpg"
+  },
+  {
+    "key": "6539",
+    "NO": "42440",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "마르틴 루터",
+    "도서명": "대교리문답",
+    "URL": "https://sootax.co.kr/6539",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6539.jpg"
   }
 ]
