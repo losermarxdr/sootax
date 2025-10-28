@@ -1,16 +1,67 @@
 [
   {
+    "key": 1108,
+    "Genre": "Opera",
+    "Title": "Wagner: Ring des Nibelungen - Götterdämmerung / Boulez, Jones, Jung [DVD]",
+    "URL": "https://changgo13.tistory.com/1108",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1108.jpg",
+    "Tags": [
+      "Gwyneth Jones",
+      "Manfred Jung",
+      "Pierre Boulez",
+      "Wagner"
+    ]
+  },
+  {
+    "key": 1107,
+    "Genre": "Opera",
+    "Title": "Wagner: Ring des Nibelungen - Siegfried / Boulez, Jones, Jung [DVD]",
+    "URL": "https://changgo13.tistory.com/1107",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1107.jpg",
+    "Tags": [
+      "Donald McIntyre",
+      "Gwyneth Jones",
+      "Manfred Jung",
+      "Pierre Boulez",
+      "Wagner"
+    ]
+  },
+  {
+    "key": 1106,
+    "Genre": "Opera",
+    "Title": "Wagner: Ring des Nibelungen - Die Walküre / Boulez, Jones, Altmeyer [DVD]",
+    "URL": "https://changgo13.tistory.com/1106",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1106.jpg",
+    "Tags": [
+      "Gwyneth Jones",
+      "Hanna Schwarz",
+      "Jeannine Altmeyer",
+      "Pierre Boulez",
+      "Wagner"
+    ]
+  },
+  {
+    "key": 1105,
+    "Genre": "Opera",
+    "Title": "Wagner: Ring des Nibelungen - Das Rheingold / Boulez, McIntyre, Zednik [DVD]",
+    "URL": "https://changgo13.tistory.com/1105",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1105.jpg",
+    "Tags": [
+      "Donald McIntyre",
+      "Heinz Zednik",
+      "Hermann Becht",
+      "Pierre Boulez",
+      "Siegfried Jerusalem",
+      "Wagner"
+    ]
+  },
+  {
     "key": 1104,
     "Genre": "Opera",
     "Title": "Stravinsky: Oedipus Rex / Ozawa, Terfel, Norman [DVD]",
     "URL": "https://changgo13.tistory.com/1104",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1104.jpg",
-    "Tags": [
-      "Bryn Terfel",
-      "Jessye Norman",
-      "Seiji Ozawa",
-      "Stravinsky"
-    ]
+    "Tags": "['Bryn Terfel', 'Jessye Norman', 'Seiji Ozawa', 'Stravinsky']"
   },
   {
     "key": 1103,
@@ -18,9 +69,7 @@
     "Title": "Nana Mouskouri – Live At Herod Atticus [DVD]",
     "URL": "https://changgo13.tistory.com/1103",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1103.jpg",
-    "Tags": [
-      "Nana Mouskouri"
-    ]
+    "Tags": "['Nana Mouskouri']"
   },
   {
     "key": 1102,
@@ -28,10 +77,7 @@
     "Title": "Janine Jansen, Neeme Järvi – Sheherazade. An Oriental Night With the Berliner Philharmoniker [DVD]",
     "URL": "https://changgo13.tistory.com/1102",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1102.jpg",
-    "Tags": [
-      "Janine Jansen",
-      "Neeme Jarvi"
-    ]
+    "Tags": "['Janine Jansen', 'Neeme Jarvi']"
   },
   {
     "key": 1101,
