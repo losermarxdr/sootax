@@ -1,16 +1,19 @@
 [
   {
+    "key": 1109,
+    "Genre": "Rock_Pop",
+    "Title": "王菲(Faye Wong) ‎– The Best Of Faye Wong [DVD]",
+    "URL": "https://changgo13.tistory.com/1109",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1109.jpg",
+    "Tags": "['Faye Wong', '王菲']"
+  },
+  {
     "key": 1108,
     "Genre": "Opera",
     "Title": "Wagner: Ring des Nibelungen - Götterdämmerung / Boulez, Jones, Jung [DVD]",
     "URL": "https://changgo13.tistory.com/1108",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1108.jpg",
-    "Tags": [
-      "Gwyneth Jones",
-      "Manfred Jung",
-      "Pierre Boulez",
-      "Wagner"
-    ]
+    "Tags": "['Gwyneth Jones', 'Manfred Jung', 'Pierre Boulez', 'Wagner']"
   },
   {
     "key": 1107,
@@ -18,13 +21,7 @@
     "Title": "Wagner: Ring des Nibelungen - Siegfried / Boulez, Jones, Jung [DVD]",
     "URL": "https://changgo13.tistory.com/1107",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1107.jpg",
-    "Tags": [
-      "Donald McIntyre",
-      "Gwyneth Jones",
-      "Manfred Jung",
-      "Pierre Boulez",
-      "Wagner"
-    ]
+    "Tags": "['Donald McIntyre', 'Gwyneth Jones', 'Manfred Jung', 'Pierre Boulez', 'Wagner']"
   },
   {
     "key": 1106,
@@ -32,13 +29,7 @@
     "Title": "Wagner: Ring des Nibelungen - Die Walküre / Boulez, Jones, Altmeyer [DVD]",
     "URL": "https://changgo13.tistory.com/1106",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1106.jpg",
-    "Tags": [
-      "Gwyneth Jones",
-      "Hanna Schwarz",
-      "Jeannine Altmeyer",
-      "Pierre Boulez",
-      "Wagner"
-    ]
+    "Tags": "['Gwyneth Jones', 'Hanna Schwarz', 'Jeannine Altmeyer', 'Pierre Boulez', 'Wagner']"
   },
   {
     "key": 1105,
@@ -46,14 +37,7 @@
     "Title": "Wagner: Ring des Nibelungen - Das Rheingold / Boulez, McIntyre, Zednik [DVD]",
     "URL": "https://changgo13.tistory.com/1105",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1105.jpg",
-    "Tags": [
-      "Donald McIntyre",
-      "Heinz Zednik",
-      "Hermann Becht",
-      "Pierre Boulez",
-      "Siegfried Jerusalem",
-      "Wagner"
-    ]
+    "Tags": "['Donald McIntyre', 'Heinz Zednik', 'Hermann Becht', 'Pierre Boulez', 'Siegfried Jerusalem', 'Wagner']"
   },
   {
     "key": 1104,
