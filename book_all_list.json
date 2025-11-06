@@ -10888,5 +10888,35 @@
     "도서명": "바울과 로마제국",
     "URL": "https://sootax.co.kr/6556",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6556.jpg"
+  },
+  {
+    "key": "6567",
+    "NO": "42470",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "마커스 J. 보그",
+    "도서명": "성서 제대로 다시 읽기",
+    "URL": "https://sootax.co.kr/6567",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6567.jpg"
+  },
+  {
+    "key": "6566",
+    "NO": "31240",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "게오르그 빌헬름 프리드리히 헤겔",
+    "도서명": "미학 강의 - 베를린 1820/21년",
+    "URL": "https://sootax.co.kr/6566",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6566.jpg"
+  },
+  {
+    "key": "6565",
+    "NO": "42480",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "마커스 J. 보그",
+    "도서명": "마커스 보그의 고백",
+    "URL": "https://sootax.co.kr/6565",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6565.jpg"
   }
 ]
