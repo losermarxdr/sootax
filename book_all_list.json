@@ -10918,5 +10918,35 @@
     "도서명": "마커스 보그의 고백",
     "URL": "https://sootax.co.kr/6565",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6565.jpg"
+  },
+  {
+    "key": "6575",
+    "NO": "51230",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "리처드 오버리",
+    "도서명": "피와 폐허 2",
+    "URL": "https://sootax.co.kr/6575",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6575.jpg"
+  },
+  {
+    "key": "6574",
+    "NO": "51240",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "리처드 오버리",
+    "도서명": "피와 폐허 1",
+    "URL": "https://sootax.co.kr/6574",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6574.jpg"
+  },
+  {
+    "key": "6573",
+    "NO": "31250",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "미셸 푸코",
+    "도서명": "말과 사물",
+    "URL": "https://sootax.co.kr/6573",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6573.jpg"
   }
 ]
