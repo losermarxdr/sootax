@@ -12076,5 +12076,38 @@
     "URL": "https://sootax.co.kr/6582",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6582.jpg",
     "DateAdded": "2025-11-21"
+  },
+  {
+    "key": "6593",
+    "NO": "42490",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "고익진",
+    "도서명": "현대한국불교의 방향",
+    "URL": "https://sootax.co.kr/6593",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6593.jpg",
+    "DateAdded": "2025-11-27"
+  },
+  {
+    "key": "6592",
+    "NO": "42500",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "요한네스 칼빈",
+    "도서명": "제네바 교회의 교리문답",
+    "URL": "https://sootax.co.kr/6592",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6592.jpg",
+    "DateAdded": "2025-11-27"
+  },
+  {
+    "key": "6591",
+    "NO": "42510",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "마르틴 루터",
+    "도서명": "마르틴 루터 95개 논제 (라한대역/해제/역주본)",
+    "URL": "https://sootax.co.kr/6591",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6591.jpg",
+    "DateAdded": "2025-11-27"
   }
 ]
