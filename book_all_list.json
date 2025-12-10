@@ -12142,5 +12142,38 @@
     "URL": "https://sootax.co.kr/6597",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6597.jpg",
     "DateAdded": "2025-12-05"
+  },
+  {
+    "key": "6606",
+    "NO": "71240",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "후지이 다케시",
+    "도서명": "파시즘과 제3세계주의 사이에서",
+    "URL": "https://sootax.co.kr/6606",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6606.jpg",
+    "DateAdded": "2025-12-11"
+  },
+  {
+    "key": "6605",
+    "NO": "90690",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "리하르트 바그너",
+    "도서명": "니벨룽의 반지 세트",
+    "URL": "https://sootax.co.kr/6605",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6605.jpg",
+    "DateAdded": "2025-12-11"
+  },
+  {
+    "key": "6604",
+    "NO": "90700",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "조반니노 과레스키",
+    "도서명": "돈 까밀로의 양떼들 - 신부님 우리들의 신부님 6",
+    "URL": "https://sootax.co.kr/6604",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6604.jpg",
+    "DateAdded": "2025-12-11"
   }
 ]
