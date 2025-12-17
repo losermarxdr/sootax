@@ -12175,5 +12175,38 @@
     "URL": "https://sootax.co.kr/6604",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6604.jpg",
     "DateAdded": "2025-12-11"
+  },
+  {
+    "key": "6612",
+    "NO": "51250",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "니콜라스 스타가르트",
+    "도서명": "독일인의 전쟁 1939-1945",
+    "URL": "https://sootax.co.kr/6612",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6612.jpg",
+    "DateAdded": "2025-12-18"
+  },
+  {
+    "key": "6611",
+    "NO": "42530",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "마커스 J. 보그, 톰 라이트",
+    "도서명": "예수의 의미",
+    "URL": "https://sootax.co.kr/6611",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6611.jpg",
+    "DateAdded": "2025-12-18"
+  },
+  {
+    "key": "6610",
+    "NO": "51260",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "펠리페 페르난데스아르메스토",
+    "도서명": "생각의 역사",
+    "URL": "https://sootax.co.kr/6610",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6610.jpg",
+    "DateAdded": "2025-12-18"
   }
 ]
