@@ -12208,5 +12208,38 @@
     "URL": "https://sootax.co.kr/6610",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6610.jpg",
     "DateAdded": "2025-12-18"
+  },
+  {
+    "key": "6620",
+    "NO": "51270",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "이리에 아키라",
+    "도서명": "하버드-C.H.베크 세계사 : 1945 이후",
+    "URL": "https://sootax.co.kr/6620",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6620.jpg",
+    "DateAdded": "2025-12-26"
+  },
+  {
+    "key": "6619",
+    "NO": "31260",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "레셰크 코와코프스키",
+    "도서명": "마르크스주의의 주요 흐름 3 ─ 황혼기",
+    "URL": "https://sootax.co.kr/6619",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6619.jpg",
+    "DateAdded": "2025-12-26"
+  },
+  {
+    "key": "6618",
+    "NO": "42540",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "대니얼B.클린데닌",
+    "도서명": "동방 정교회 신학",
+    "URL": "https://sootax.co.kr/6618",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6618.jpg",
+    "DateAdded": "2025-12-26"
   }
 ]
