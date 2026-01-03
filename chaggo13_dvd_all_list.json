@@ -1,16 +1,179 @@
 [
   {
+    "key": 1130,
+    "Genre": "Rock_Pop",
+    "Title": "Miles Davis With Quincy Jones & The Gil Evans Orchestra – Live At Montreux 1991 [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1130",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1130.jpg",
+    "Tags": [
+      "Miles Davis",
+      "Quincy Jones"
+    ],
+    "DateAdded": "2026-01-04"
+  },
+  {
+    "key": 1129,
+    "Genre": "Rock_Pop",
+    "Title": "Journey – Live In Manila [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1129",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1129.jpg",
+    "Tags": [
+      "Journey"
+    ],
+    "DateAdded": "2026-01-04"
+  },
+  {
+    "key": 1128,
+    "Genre": "Opera",
+    "Title": "Verdi: Il Corsaro / Montanaro, Ribeiro, Papi [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1128",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1128.jpg",
+    "Tags": [
+      "Andrea Papi",
+      "Carlo Montanaro",
+      "Verdi"
+    ],
+    "DateAdded": "2026-01-04"
+  },
+  {
+    "key": 1127,
+    "Genre": "Rock_Pop",
+    "Title": "Black Stone Cherry – Thank You, Livin' Live, Birmingham, UK [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1127",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1127.jpg",
+    "Tags": [
+      "Black Stone Cherry"
+    ],
+    "DateAdded": "2026-01-04"
+  },
+  {
+    "key": 1126,
+    "Genre": "Rock_Pop",
+    "Title": "Joe Cocker – Mad Dog With Soul [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1126",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1126.jpg",
+    "Tags": [
+      "Joe Cocker"
+    ],
+    "DateAdded": "2026-01-04"
+  },
+  {
+    "key": 1125,
+    "Genre": "Opera",
+    "Title": "Verdi: Nabucco / Oren, Gagnidze, Pelizzari [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1125",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1125.jpg",
+    "Tags": [
+      "George Gagnidze",
+      "Rafał Siwek",
+      "Rubens Pelizzari",
+      "Verdi",
+      "daniel oren"
+    ],
+    "DateAdded": "2026-01-04"
+  },
+  {
+    "key": 1124,
+    "Genre": "Opera",
+    "Title": "Rossini: Il barbiere di Siviglia / Oren, Nucci, Machaidze [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1124",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1124.jpg",
+    "Tags": [
+      "Carlo Lepore",
+      "Dmitry Korchak",
+      "daniel oren",
+      "rossini"
+    ],
+    "DateAdded": "2026-01-04"
+  },
+  {
+    "key": 1123,
+    "Genre": "Opera",
+    "Title": "Bizet: Carmen / Nánási, Semenchuk, Lungu [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1123",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1123.jpg",
+    "Tags": [
+      "Bizet",
+      "Henrik Nánási",
+      "Irina Lungu",
+      "ekaterina semenchuk"
+    ],
+    "DateAdded": "2026-01-04"
+  },
+  {
+    "key": 1122,
+    "Genre": "Classical",
+    "Title": "Bach: Christmas Oratorio, BWV248 / Herreweghe, Mields, Guillon [DVD]",
+    "URL": "https://changgo13.tistory.com/1122",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1122.jpg",
+    "Tags": [
+      "Bach",
+      "Damien Guillon",
+      "Dorothee Mields",
+      "Philippe Herreweghe"
+    ],
+    "DateAdded": "2026-01-04"
+  },
+  {
+    "key": 1121,
+    "Genre": "Classical",
+    "Title": "Belcea Quartet - Beethoven: The Complete String Quartets [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1121",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1121.jpg",
+    "Tags": [
+      "Beethoven",
+      "Belcea Quartet"
+    ],
+    "DateAdded": "2026-01-04"
+  },
+  {
+    "key": 1120,
+    "Genre": "Classical",
+    "Title": "Seong-Jin Cho - Chopin: Piano Concerto No. 1 & Fantasy [DVD]",
+    "URL": "https://changgo13.tistory.com/1120",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1120.jpg",
+    "Tags": [
+      "Seong-jin Cho",
+      "chopin"
+    ],
+    "DateAdded": "2026-01-04"
+  },
+  {
+    "key": 1119,
+    "Genre": "Opera",
+    "Title": "Rossini: Il Signor Bruschino / Rustioni, Candia, Lepore [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1119",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1119.jpg",
+    "Tags": [
+      "Carlo Lepore",
+      "Daniele Rustioni",
+      "Maria Aleida",
+      "Roberto De Candia",
+      "rossini"
+    ],
+    "DateAdded": "2026-01-04"
+  },
+  {
+    "key": 1118,
+    "Genre": "Opera",
+    "Title": "Rossini: Mose in Egitto / Abbadol, Esposito, Amaltea [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1118",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1118.jpg",
+    "Tags": [
+      "Alex Esposito",
+      "Olga Senderskaya",
+      "roberto abbado",
+      "rossini"
+    ],
+    "DateAdded": "2026-01-04"
+  },
+  {
     "key": 1117,
     "Genre": "Opera",
     "Title": "Johann Strauss: Eine Nacht in Venedig / Eichhorn, Ridder, Geszty [DVD]",
     "URL": "https://changgo13.tistory.com/1117",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1117.jpg",
-    "Tags": [
-      "Anton de Ridder",
-      "Erich Kunz",
-      "Johann Strauss:",
-      "Kurt Eichhorn"
-    ],
+    "Tags": "['Anton de Ridder', 'Erich Kunz', 'Johann Strauss:', 'Kurt Eichhorn']",
     "DateAdded": "2025-11-11"
   },
   {
