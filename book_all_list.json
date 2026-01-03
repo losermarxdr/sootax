@@ -12241,5 +12241,38 @@
     "URL": "https://sootax.co.kr/6618",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6618.jpg",
     "DateAdded": "2025-12-26"
+  },
+  {
+    "key": "6625",
+    "NO": "51270",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "크리스토퍼 클라크",
+    "도서명": "혁명의 봄",
+    "URL": "https://sootax.co.kr/6625",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6625.jpg",
+    "DateAdded": "2026-01-04"
+  },
+  {
+    "key": "6624",
+    "NO": "42530",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "고익진",
+    "도서명": "불교 이야기",
+    "URL": "https://sootax.co.kr/6624",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6624.jpg",
+    "DateAdded": "2026-01-04"
+  },
+  {
+    "key": "6623",
+    "NO": "42540",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "로버트 젠슨",
+    "도서명": "종교개혁의 표어들",
+    "URL": "https://sootax.co.kr/6623",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6623.jpg",
+    "DateAdded": "2026-01-04"
   }
 ]
