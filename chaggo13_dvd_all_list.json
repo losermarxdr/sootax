@@ -1,14 +1,94 @@
 [
   {
+    "key": 1139,
+    "Genre": "Rock_Pop",
+    "Title": "Rory Gallagher – Irish Tour 1974 [DVD]",
+    "URL": "https://changgo13.tistory.com/1139",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1139.jpg",
+    "Tags": [
+      "rory gallagher"
+    ],
+    "DateAdded": "2026-01-08"
+  },
+  {
+    "key": 1138,
+    "Genre": "Ballets",
+    "Title": "Tchaikovsky: The Nutcracker, Op. 71 / Gergiev, Golub, Sarafanov [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1138",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1138.jpg",
+    "Tags": [
+      "Anton Adasinsky",
+      "Irina Golub",
+      "Leonid Sarafanov",
+      "Mikhail Chemiakin",
+      "Tchaikovsky",
+      "Valery Gergiev"
+    ],
+    "DateAdded": "2026-01-08"
+  },
+  {
+    "key": 1137,
+    "Genre": "Rock_Pop",
+    "Title": "Supershow - The Last Great Jam Of The 60's! [DVD]",
+    "URL": "https://changgo13.tistory.com/1137",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1137.jpg",
+    "Tags": [
+      "Supershow"
+    ],
+    "DateAdded": "2026-01-08"
+  },
+  {
+    "key": 1136,
+    "Genre": "Rock_Pop",
+    "Title": "Larry Carlton, Steve Lukather Band – The Paris Concert [DVD]",
+    "URL": "https://changgo13.tistory.com/1136",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1136.jpg",
+    "Tags": [
+      "Larry Carlton",
+      "Steve Lukather Band"
+    ],
+    "DateAdded": "2026-01-08"
+  },
+  {
+    "key": 1135,
+    "Genre": "Rock_Pop",
+    "Title": "Eric Clapton & Friends – In Concert (A Benefit For The Crossroads Centre At Antigua) [DVD]",
+    "URL": "https://changgo13.tistory.com/1135",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1135.jpg",
+    "Tags": [
+      "Eric Clapton"
+    ],
+    "DateAdded": "2026-01-08"
+  },
+  {
+    "key": 1134,
+    "Genre": "Rock_Pop",
+    "Title": "Joe Cocker – Live At Montreux 1987 [DVD]",
+    "URL": "https://changgo13.tistory.com/1134",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1134.jpg",
+    "Tags": [
+      "Joe Cocker"
+    ],
+    "DateAdded": "2026-01-08"
+  },
+  {
+    "key": 1133,
+    "Genre": "Rock_Pop",
+    "Title": "Depeche Mode – Devotional (A Performance Filmed By Anton Corbijn) [DVD]",
+    "URL": "https://changgo13.tistory.com/1133",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1133.jpg",
+    "Tags": [
+      "Depeche Mode"
+    ],
+    "DateAdded": "2026-01-08"
+  },
+  {
     "key": 1132,
     "Genre": "Classical",
     "Title": "Karl Böhm – Mozart: Requiem [DVD]",
     "URL": "https://changgo13.tistory.com/1132",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1132.jpg",
-    "Tags": [
-      "Karl Böhm",
-      "Mozart"
-    ],
+    "Tags": "['Karl Böhm', 'Mozart']",
     "DateAdded": "2026-01-04"
   },
   {
@@ -17,11 +97,7 @@
     "Title": "Wolfgang Sawallisch Conducts Dvorák And Tchaikovsky [DVD]",
     "URL": "https://changgo13.tistory.com/1131",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1131.jpg",
-    "Tags": [
-      "Dvorak",
-      "Tchaikovsky",
-      "Wolfgang Sawallisch"
-    ],
+    "Tags": "['Dvorak', 'Tchaikovsky', 'Wolfgang Sawallisch']",
     "DateAdded": "2026-01-04"
   },
   {
