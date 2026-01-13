@@ -1,16 +1,5 @@
 [
   {
-    "key": "81",
-    "NO": "10070",
-    "구분NO": "10000",
-    "구분": "강유원 선생님",
-    "저자": "강유원",
-    "도서명": "강유원의 고전강의 공산당 선언",
-    "URL": "https://sootax.co.kr/81",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/81.jpg",
-    "DateAdded": "2010-01-11"
-  },
-  {
     "key": "80",
     "NO": "10270",
     "구분NO": "10000",
@@ -19,6 +8,17 @@
     "도서명": "르네상스의 마지막 날들",
     "URL": "https://sootax.co.kr/80",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/80.jpg",
+    "DateAdded": "2010-01-11"
+  },
+  {
+    "key": "81",
+    "NO": "10070",
+    "구분NO": "10000",
+    "구분": "강유원 선생님",
+    "저자": "강유원",
+    "도서명": "강유원의 고전강의 공산당 선언",
+    "URL": "https://sootax.co.kr/81",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/81.jpg",
     "DateAdded": "2010-01-11"
   },
   {
@@ -220,17 +220,6 @@
     "DateAdded": "2012-06-11"
   },
   {
-    "key": "1452",
-    "NO": "10080",
-    "구분NO": "10000",
-    "구분": "강유원 선생님",
-    "저자": "강유원",
-    "도서명": "역사 고전 강의 ━ 전진하는 세계 성찰하는 인간",
-    "URL": "https://sootax.co.kr/1452",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1452.jpg",
-    "DateAdded": "2012-06-28"
-  },
-  {
     "key": "1451",
     "NO": "50720",
     "구분NO": "50000",
@@ -239,6 +228,17 @@
     "도서명": "전쟁과 우리가 사는 세상",
     "URL": "https://sootax.co.kr/1451",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1451.jpg",
+    "DateAdded": "2012-06-28"
+  },
+  {
+    "key": "1452",
+    "NO": "10080",
+    "구분NO": "10000",
+    "구분": "강유원 선생님",
+    "저자": "강유원",
+    "도서명": "역사 고전 강의 ━ 전진하는 세계 성찰하는 인간",
+    "URL": "https://sootax.co.kr/1452",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1452.jpg",
     "DateAdded": "2012-06-28"
   },
   {
@@ -251,17 +251,6 @@
     "URL": "https://sootax.co.kr/1458",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1458.jpg",
     "DateAdded": "2012-07-10"
-  },
-  {
-    "key": "1467",
-    "NO": "40070",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "아우구스티누스",
-    "도서명": "고백록(옮긴이 선한용)",
-    "URL": "https://sootax.co.kr/1467",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1467.jpg",
-    "DateAdded": "2012-07-14"
   },
   {
     "key": "1465",
@@ -286,6 +275,17 @@
     "DateAdded": "2012-07-14"
   },
   {
+    "key": "1467",
+    "NO": "40070",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "아우구스티누스",
+    "도서명": "고백록(옮긴이 선한용)",
+    "URL": "https://sootax.co.kr/1467",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1467.jpg",
+    "DateAdded": "2012-07-14"
+  },
+  {
     "key": "1481",
     "NO": "20180",
     "구분NO": "20000",
@@ -297,17 +297,6 @@
     "DateAdded": "2012-07-30"
   },
   {
-    "key": "1492",
-    "NO": "60860",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "로자 룩셈부르크",
-    "도서명": "사회 개혁이냐 혁명이냐",
-    "URL": "https://sootax.co.kr/1492",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1492.jpg",
-    "DateAdded": "2012-08-07"
-  },
-  {
     "key": "1487",
     "NO": "80250",
     "구분NO": "80000",
@@ -316,6 +305,17 @@
     "도서명": "지상의 양식",
     "URL": "https://sootax.co.kr/1487",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1487.jpg",
+    "DateAdded": "2012-08-07"
+  },
+  {
+    "key": "1492",
+    "NO": "60860",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "로자 룩셈부르크",
+    "도서명": "사회 개혁이냐 혁명이냐",
+    "URL": "https://sootax.co.kr/1492",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1492.jpg",
     "DateAdded": "2012-08-07"
   },
   {
@@ -484,6 +484,17 @@
     "DateAdded": "2012-11-27"
   },
   {
+    "key": "1610",
+    "NO": "40610",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "헨리 채드윅",
+    "도서명": "초대교회사 ━ 펭귄 교회사 시리즈1",
+    "URL": "https://sootax.co.kr/1610",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1610.jpg",
+    "DateAdded": "2023-07-26"
+  },
+  {
     "key": "1613",
     "NO": "70120",
     "구분NO": "70000",
@@ -638,17 +649,6 @@
     "DateAdded": "2013-02-12"
   },
   {
-    "key": "1756",
-    "NO": "20340",
-    "구분NO": "20000",
-    "구분": "고전",
-    "저자": "프랜시스 베이컨",
-    "도서명": "새로운 아틀란티스",
-    "URL": "https://sootax.co.kr/1756",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1756.jpg",
-    "DateAdded": "2013-02-22"
-  },
-  {
     "key": "1754",
     "NO": "30420",
     "구분NO": "30000",
@@ -671,15 +671,15 @@
     "DateAdded": "2013-02-27"
   },
   {
-    "key": "1771",
-    "NO": "30750",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "루이 앙드레 도리옹",
-    "도서명": "소크라테스",
-    "URL": "https://sootax.co.kr/1771",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1771.jpg",
-    "DateAdded": "2013-03-06"
+    "key": "1756",
+    "NO": "20340",
+    "구분NO": "20000",
+    "구분": "고전",
+    "저자": "프랜시스 베이컨",
+    "도서명": "새로운 아틀란티스",
+    "URL": "https://sootax.co.kr/1756",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1756.jpg",
+    "DateAdded": "2013-02-22"
   },
   {
     "key": "1770",
@@ -690,6 +690,17 @@
     "도서명": "한권으로 읽는 그리스 고전",
     "URL": "https://sootax.co.kr/1770",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1770.jpg",
+    "DateAdded": "2013-03-06"
+  },
+  {
+    "key": "1771",
+    "NO": "30750",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "루이 앙드레 도리옹",
+    "도서명": "소크라테스",
+    "URL": "https://sootax.co.kr/1771",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1771.jpg",
     "DateAdded": "2013-03-06"
   },
   {
@@ -748,17 +759,6 @@
     "DateAdded": "2013-03-25"
   },
   {
-    "key": "1816",
-    "NO": "40830",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "그루노브",
-    "도서명": "칼 바르트의 신학묵상",
-    "URL": "https://sootax.co.kr/1816",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1816.jpg",
-    "DateAdded": "2013-03-26"
-  },
-  {
     "key": "1815",
     "NO": "70472",
     "구분NO": "70000",
@@ -767,6 +767,17 @@
     "도서명": "사기 열전 1",
     "URL": "https://sootax.co.kr/1815",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1815.jpg",
+    "DateAdded": "2013-03-26"
+  },
+  {
+    "key": "1816",
+    "NO": "40830",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "그루노브",
+    "도서명": "칼 바르트의 신학묵상",
+    "URL": "https://sootax.co.kr/1816",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1816.jpg",
     "DateAdded": "2013-03-26"
   },
   {
@@ -779,6 +790,17 @@
     "URL": "https://sootax.co.kr/1819",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1819.jpg",
     "DateAdded": "2013-04-08"
+  },
+  {
+    "key": "1822",
+    "NO": "20110",
+    "구분NO": "20000",
+    "구분": "고전",
+    "저자": "아이스퀼로스",
+    "도서명": "아이스퀼로스 비극 전집",
+    "URL": "https://sootax.co.kr/1822",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1822.jpg",
+    "DateAdded": "2017-09-12"
   },
   {
     "key": "1826",
@@ -825,15 +847,15 @@
     "DateAdded": "2013-04-22"
   },
   {
-    "key": "1851",
-    "NO": "61380",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "피터 디어",
-    "도서명": "과학혁명",
-    "URL": "https://sootax.co.kr/1851",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1851.jpg",
-    "DateAdded": "2013-04-29"
+    "key": "1844",
+    "NO": "20570",
+    "구분NO": "20000",
+    "구분": "고전",
+    "저자": "장 자크 루소",
+    "도서명": "인간 불평등 기원론",
+    "URL": "https://sootax.co.kr/1844",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1844.jpg",
+    "DateAdded": "2018-05-31"
   },
   {
     "key": "1850",
@@ -844,6 +866,17 @@
     "도서명": "시지프 신화",
     "URL": "https://sootax.co.kr/1850",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1850.jpg",
+    "DateAdded": "2013-04-29"
+  },
+  {
+    "key": "1851",
+    "NO": "61380",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "피터 디어",
+    "도서명": "과학혁명",
+    "URL": "https://sootax.co.kr/1851",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1851.jpg",
     "DateAdded": "2013-04-29"
   },
   {
@@ -858,17 +891,6 @@
     "DateAdded": "2013-05-02"
   },
   {
-    "key": "1881",
-    "NO": "30480",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "스피노자",
-    "도서명": "에티카",
-    "URL": "https://sootax.co.kr/1881",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1881.jpg",
-    "DateAdded": "2013-05-07"
-  },
-  {
     "key": "1880",
     "NO": "50170",
     "구분NO": "50000",
@@ -877,6 +899,17 @@
     "도서명": "전쟁의 세계사",
     "URL": "https://sootax.co.kr/1880",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1880.jpg",
+    "DateAdded": "2013-05-07"
+  },
+  {
+    "key": "1881",
+    "NO": "30480",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "스피노자",
+    "도서명": "에티카",
+    "URL": "https://sootax.co.kr/1881",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1881.jpg",
     "DateAdded": "2013-05-07"
   },
   {
@@ -990,17 +1023,6 @@
     "DateAdded": "2013-06-21"
   },
   {
-    "key": "1947",
-    "NO": "50040",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "수요역사연구회",
-    "도서명": "곁에 두는 세계사",
-    "URL": "https://sootax.co.kr/1947",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1947.jpg",
-    "DateAdded": "2013-06-25"
-  },
-  {
     "key": "1944",
     "NO": "80510",
     "구분NO": "80000",
@@ -1012,15 +1034,15 @@
     "DateAdded": "2013-06-25"
   },
   {
-    "key": "1953",
-    "NO": "30520",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "임마누엘 칸트",
-    "도서명": "판단력 비판 서문",
-    "URL": "https://sootax.co.kr/1953",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1953.jpg",
-    "DateAdded": "2013-07-02"
+    "key": "1947",
+    "NO": "50040",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "수요역사연구회",
+    "도서명": "곁에 두는 세계사",
+    "URL": "https://sootax.co.kr/1947",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1947.jpg",
+    "DateAdded": "2013-06-25"
   },
   {
     "key": "1952",
@@ -1031,6 +1053,17 @@
     "도서명": "만(卍), 시게모토 소장의 어머니",
     "URL": "https://sootax.co.kr/1952",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1952.jpg",
+    "DateAdded": "2013-07-02"
+  },
+  {
+    "key": "1953",
+    "NO": "30520",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "임마누엘 칸트",
+    "도서명": "판단력 비판 서문",
+    "URL": "https://sootax.co.kr/1953",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1953.jpg",
     "DateAdded": "2013-07-02"
   },
   {
@@ -1089,17 +1122,6 @@
     "DateAdded": "2013-08-12"
   },
   {
-    "key": "2006",
-    "NO": "60850",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "에르네스트 르낭",
-    "도서명": "민족이란 무엇인가",
-    "URL": "https://sootax.co.kr/2006",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2006.jpg",
-    "DateAdded": "2013-08-12"
-  },
-  {
     "key": "2005",
     "NO": "61110",
     "구분NO": "60000",
@@ -1108,6 +1130,17 @@
     "도서명": "불안한 현대사회",
     "URL": "https://sootax.co.kr/2005",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2005.jpg",
+    "DateAdded": "2013-08-12"
+  },
+  {
+    "key": "2006",
+    "NO": "60850",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "에르네스트 르낭",
+    "도서명": "민족이란 무엇인가",
+    "URL": "https://sootax.co.kr/2006",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2006.jpg",
     "DateAdded": "2013-08-12"
   },
   {
@@ -1188,17 +1221,6 @@
     "DateAdded": "2013-08-29"
   },
   {
-    "key": "2043",
-    "NO": "61090",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "존 산본마쓰",
-    "도서명": "탈근대 군주론",
-    "URL": "https://sootax.co.kr/2043",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2043.jpg",
-    "DateAdded": "2013-09-02"
-  },
-  {
     "key": "2042",
     "NO": "80470",
     "구분NO": "80000",
@@ -1207,6 +1229,17 @@
     "도서명": "천일야화 3",
     "URL": "https://sootax.co.kr/2042",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2042.jpg",
+    "DateAdded": "2013-09-02"
+  },
+  {
+    "key": "2043",
+    "NO": "61090",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "존 산본마쓰",
+    "도서명": "탈근대 군주론",
+    "URL": "https://sootax.co.kr/2043",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2043.jpg",
     "DateAdded": "2013-09-02"
   },
   {
@@ -1221,17 +1254,6 @@
     "DateAdded": "2013-09-06"
   },
   {
-    "key": "2062",
-    "NO": "50680",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "칼 쇼르스케",
-    "도서명": "비엔나 천재들의 붉은노을(세기말 비엔나의 개정판)",
-    "URL": "https://sootax.co.kr/2062",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2062.jpg",
-    "DateAdded": "2013-09-10"
-  },
-  {
     "key": "2061",
     "NO": "80480",
     "구분NO": "80000",
@@ -1240,6 +1262,17 @@
     "도서명": "천일야화 4",
     "URL": "https://sootax.co.kr/2061",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2061.jpg",
+    "DateAdded": "2013-09-10"
+  },
+  {
+    "key": "2062",
+    "NO": "50680",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "칼 쇼르스케",
+    "도서명": "비엔나 천재들의 붉은노을(세기말 비엔나의 개정판)",
+    "URL": "https://sootax.co.kr/2062",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2062.jpg",
     "DateAdded": "2013-09-10"
   },
   {
@@ -1254,6 +1287,17 @@
     "DateAdded": "2013-09-17"
   },
   {
+    "key": "2066",
+    "NO": "80490",
+    "구분NO": "80000",
+    "구분": "문학",
+    "저자": "앙투안 갈랑",
+    "도서명": "천일야화 5",
+    "URL": "https://sootax.co.kr/2066",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2066.jpg",
+    "DateAdded": "2013-09-28"
+  },
+  {
     "key": "2067",
     "NO": "20560",
     "구분NO": "20000",
@@ -1262,17 +1306,6 @@
     "도서명": "우신예찬",
     "URL": "https://sootax.co.kr/2067",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2067.jpg",
-    "DateAdded": "2013-09-24"
-  },
-  {
-    "key": "2088",
-    "NO": "50260",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "이영림, 주경철, 최갑수",
-    "도서명": "근대 유럽의 형성: 16~18세기",
-    "URL": "https://sootax.co.kr/2088",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2088.jpg",
     "DateAdded": "2013-09-24"
   },
   {
@@ -1287,15 +1320,15 @@
     "DateAdded": "2013-09-24"
   },
   {
-    "key": "2066",
-    "NO": "80490",
-    "구분NO": "80000",
-    "구분": "문학",
-    "저자": "앙투안 갈랑",
-    "도서명": "천일야화 5",
-    "URL": "https://sootax.co.kr/2066",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2066.jpg",
-    "DateAdded": "2013-09-28"
+    "key": "2088",
+    "NO": "50260",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "이영림, 주경철, 최갑수",
+    "도서명": "근대 유럽의 형성: 16~18세기",
+    "URL": "https://sootax.co.kr/2088",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2088.jpg",
+    "DateAdded": "2013-09-24"
   },
   {
     "key": "2096",
@@ -1309,25 +1342,14 @@
     "DateAdded": "2013-09-30"
   },
   {
-    "key": "2104",
-    "NO": "50130",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "슈테파니 펭크",
-    "도서명": "아틀라스 서양미술사",
-    "URL": "https://sootax.co.kr/2104",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2104.jpg",
-    "DateAdded": "2013-10-14"
-  },
-  {
-    "key": "2100",
-    "NO": "60640",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "요한 하위징아",
-    "도서명": "에라스뮈스",
-    "URL": "https://sootax.co.kr/2100",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2100.jpg",
+    "key": "2098",
+    "NO": "80340",
+    "구분NO": "80000",
+    "구분": "문학",
+    "저자": "마크 트웨인",
+    "도서명": "허클베리 핀의 모험",
+    "URL": "https://sootax.co.kr/2098",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2098.jpg",
     "DateAdded": "2013-10-14"
   },
   {
@@ -1342,14 +1364,14 @@
     "DateAdded": "2013-10-14"
   },
   {
-    "key": "2098",
-    "NO": "80340",
-    "구분NO": "80000",
-    "구분": "문학",
-    "저자": "마크 트웨인",
-    "도서명": "허클베리 핀의 모험",
-    "URL": "https://sootax.co.kr/2098",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2098.jpg",
+    "key": "2100",
+    "NO": "60640",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "요한 하위징아",
+    "도서명": "에라스뮈스",
+    "URL": "https://sootax.co.kr/2100",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2100.jpg",
     "DateAdded": "2013-10-14"
   },
   {
@@ -1364,6 +1386,17 @@
     "DateAdded": "2013-10-14"
   },
   {
+    "key": "2104",
+    "NO": "50130",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "슈테파니 펭크",
+    "도서명": "아틀라스 서양미술사",
+    "URL": "https://sootax.co.kr/2104",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2104.jpg",
+    "DateAdded": "2013-10-14"
+  },
+  {
     "key": "2105",
     "NO": "90200",
     "구분NO": "90000",
@@ -1375,17 +1408,6 @@
     "DateAdded": "2013-10-14"
   },
   {
-    "key": "2118",
-    "NO": "61050",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "프란츠 파농",
-    "도서명": "대지의 저주받은 사람들",
-    "URL": "https://sootax.co.kr/2118",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2118.jpg",
-    "DateAdded": "2013-10-21"
-  },
-  {
     "key": "2117",
     "NO": "80410",
     "구분NO": "80000",
@@ -1394,6 +1416,17 @@
     "도서명": "무엇을 할 것인가 (상)",
     "URL": "https://sootax.co.kr/2117",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2117.jpg",
+    "DateAdded": "2013-10-21"
+  },
+  {
+    "key": "2118",
+    "NO": "61050",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "프란츠 파농",
+    "도서명": "대지의 저주받은 사람들",
+    "URL": "https://sootax.co.kr/2118",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2118.jpg",
     "DateAdded": "2013-10-21"
   },
   {
@@ -1540,6 +1573,17 @@
     "DateAdded": "2014-01-15"
   },
   {
+    "key": "2328",
+    "NO": "60170",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "클리프턴 패디먼",
+    "도서명": "평생독서계획",
+    "URL": "https://sootax.co.kr/2328",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2328.jpg",
+    "DateAdded": "2014-01-20"
+  },
+  {
     "key": "2329",
     "NO": "81040",
     "구분NO": "80000",
@@ -1551,15 +1595,15 @@
     "DateAdded": "2014-01-15"
   },
   {
-    "key": "2328",
-    "NO": "60170",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "클리프턴 패디먼",
-    "도서명": "평생독서계획",
-    "URL": "https://sootax.co.kr/2328",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2328.jpg",
-    "DateAdded": "2014-01-20"
+    "key": "2331",
+    "NO": "20010",
+    "구분NO": "20000",
+    "구분": "고전",
+    "저자": "김산해",
+    "도서명": "최초의 신화 길가메쉬 서사시",
+    "URL": "https://sootax.co.kr/2331",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2331.jpg",
+    "DateAdded": "2017-07-19"
   },
   {
     "key": "2334",
@@ -1584,17 +1628,6 @@
     "DateAdded": "2014-01-27"
   },
   {
-    "key": "2380",
-    "NO": "70510",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "공자",
-    "도서명": "논어 ━ 미야자키 이치사다 해석",
-    "URL": "https://sootax.co.kr/2380",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2380.jpg",
-    "DateAdded": "2014-02-07"
-  },
-  {
     "key": "2378",
     "NO": "80360",
     "구분NO": "80000",
@@ -1614,6 +1647,17 @@
     "도서명": "모두를 위한 서양음악사 1",
     "URL": "https://sootax.co.kr/2379",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2379.jpg",
+    "DateAdded": "2014-02-07"
+  },
+  {
+    "key": "2380",
+    "NO": "70510",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "공자",
+    "도서명": "논어 ━ 미야자키 이치사다 해석",
+    "URL": "https://sootax.co.kr/2380",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2380.jpg",
     "DateAdded": "2014-02-07"
   },
   {
@@ -1716,17 +1760,6 @@
     "DateAdded": "2014-03-21"
   },
   {
-    "key": "2449",
-    "NO": "81060",
-    "구분NO": "80000",
-    "구분": "문학",
-    "저자": "허먼 멜빌",
-    "도서명": "모비 딕 (김석희 옮김/작가정신)",
-    "URL": "https://sootax.co.kr/2449",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2449.jpg",
-    "DateAdded": "2014-03-21"
-  },
-  {
     "key": "2448",
     "NO": "90220",
     "구분NO": "90000",
@@ -1735,6 +1768,17 @@
     "도서명": "그래픽 모비 딕",
     "URL": "https://sootax.co.kr/2448",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2448.jpg",
+    "DateAdded": "2014-03-21"
+  },
+  {
+    "key": "2449",
+    "NO": "81060",
+    "구분NO": "80000",
+    "구분": "문학",
+    "저자": "허먼 멜빌",
+    "도서명": "모비 딕 (김석희 옮김/작가정신)",
+    "URL": "https://sootax.co.kr/2449",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2449.jpg",
     "DateAdded": "2014-03-21"
   },
   {
@@ -1749,14 +1793,14 @@
     "DateAdded": "2014-03-24"
   },
   {
-    "key": "2483",
-    "NO": "20100",
-    "구분NO": "20000",
-    "구분": "고전",
-    "저자": "에우리피데스",
-    "도서명": "에우리피데스 비극 전집 2",
-    "URL": "https://sootax.co.kr/2483",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2483.jpg",
+    "key": "2480",
+    "NO": "90210",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "박종호",
+    "도서명": "불멸의 오페라2",
+    "URL": "https://sootax.co.kr/2480",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2480.jpg",
     "DateAdded": "2014-04-07"
   },
   {
@@ -1771,6 +1815,28 @@
     "DateAdded": "2014-04-07"
   },
   {
+    "key": "2482",
+    "NO": "20620",
+    "구분NO": "20000",
+    "구분": "고전",
+    "저자": "셰익스피어",
+    "도서명": "오셀로 | 아침이슬 2",
+    "URL": "https://sootax.co.kr/2482",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2482.jpg",
+    "DateAdded": "2014-04-17"
+  },
+  {
+    "key": "2483",
+    "NO": "20100",
+    "구분NO": "20000",
+    "구분": "고전",
+    "저자": "에우리피데스",
+    "도서명": "에우리피데스 비극 전집 2",
+    "URL": "https://sootax.co.kr/2483",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2483.jpg",
+    "DateAdded": "2014-04-07"
+  },
+  {
     "key": "2484",
     "NO": "61170",
     "구분NO": "60000",
@@ -1779,17 +1845,6 @@
     "도서명": "열린사회와 그 적들 2",
     "URL": "https://sootax.co.kr/2484",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2484.jpg",
-    "DateAdded": "2014-04-07"
-  },
-  {
-    "key": "2480",
-    "NO": "90210",
-    "구분NO": "90000",
-    "구분": "기타",
-    "저자": "박종호",
-    "도서명": "불멸의 오페라2",
-    "URL": "https://sootax.co.kr/2480",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2480.jpg",
     "DateAdded": "2014-04-07"
   },
   {
@@ -1802,17 +1857,6 @@
     "URL": "https://sootax.co.kr/2489",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2489.jpg",
     "DateAdded": "2014-04-16"
-  },
-  {
-    "key": "2482",
-    "NO": "20620",
-    "구분NO": "20000",
-    "구분": "고전",
-    "저자": "셰익스피어",
-    "도서명": "오셀로 | 아침이슬 2",
-    "URL": "https://sootax.co.kr/2482",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2482.jpg",
-    "DateAdded": "2014-04-17"
   },
   {
     "key": "2491",
@@ -1837,17 +1881,6 @@
     "DateAdded": "2014-04-24"
   },
   {
-    "key": "2497",
-    "NO": "61390",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "이안 로버트슨",
-    "도서명": "승자의 뇌",
-    "URL": "https://sootax.co.kr/2497",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2497.jpg",
-    "DateAdded": "2014-04-29"
-  },
-  {
     "key": "2496",
     "NO": "40820",
     "구분NO": "40000",
@@ -1857,6 +1890,17 @@
     "URL": "https://sootax.co.kr/2496",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2496.jpg",
     "DateAdded": "2014-04-30"
+  },
+  {
+    "key": "2497",
+    "NO": "61390",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "이안 로버트슨",
+    "도서명": "승자의 뇌",
+    "URL": "https://sootax.co.kr/2497",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2497.jpg",
+    "DateAdded": "2014-04-29"
   },
   {
     "key": "2506",
@@ -1892,17 +1936,6 @@
     "DateAdded": "2014-05-07"
   },
   {
-    "key": "2520",
-    "NO": "20030",
-    "구분NO": "20000",
-    "구분": "고전",
-    "저자": "호메로스",
-    "도서명": "오뒷세이아(천병희 옮김)",
-    "URL": "https://sootax.co.kr/2520",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2520.jpg",
-    "DateAdded": "2014-05-13"
-  },
-  {
     "key": "2513",
     "NO": "60130",
     "구분NO": "60000",
@@ -1914,15 +1947,15 @@
     "DateAdded": "2014-05-19"
   },
   {
-    "key": "2579",
-    "NO": "20610",
+    "key": "2520",
+    "NO": "20030",
     "구분NO": "20000",
     "구분": "고전",
-    "저자": "셰익스피어",
-    "도서명": "햄릿 | 아침이슬 1",
-    "URL": "https://sootax.co.kr/2579",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2579.jpg",
-    "DateAdded": "2014-06-02"
+    "저자": "호메로스",
+    "도서명": "오뒷세이아(천병희 옮김)",
+    "URL": "https://sootax.co.kr/2520",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2520.jpg",
+    "DateAdded": "2014-05-13"
   },
   {
     "key": "2525",
@@ -1936,14 +1969,25 @@
     "DateAdded": "2014-06-02"
   },
   {
-    "key": "2585",
-    "NO": "20050",
+    "key": "2579",
+    "NO": "20610",
     "구분NO": "20000",
     "구분": "고전",
-    "저자": "소포클레스",
-    "도서명": "오이디푸스왕/안티고네",
-    "URL": "https://sootax.co.kr/2585",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2585.jpg",
+    "저자": "셰익스피어",
+    "도서명": "햄릿 | 아침이슬 1",
+    "URL": "https://sootax.co.kr/2579",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2579.jpg",
+    "DateAdded": "2014-06-02"
+  },
+  {
+    "key": "2580",
+    "NO": "70460",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "리쉐친",
+    "도서명": "중국 청동기의 신비",
+    "URL": "https://sootax.co.kr/2580",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2580.jpg",
     "DateAdded": "2014-06-09"
   },
   {
@@ -1969,15 +2013,26 @@
     "DateAdded": "2014-06-09"
   },
   {
-    "key": "2580",
-    "NO": "70460",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "리쉐친",
-    "도서명": "중국 청동기의 신비",
-    "URL": "https://sootax.co.kr/2580",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2580.jpg",
+    "key": "2585",
+    "NO": "20050",
+    "구분NO": "20000",
+    "구분": "고전",
+    "저자": "소포클레스",
+    "도서명": "오이디푸스왕/안티고네",
+    "URL": "https://sootax.co.kr/2585",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2585.jpg",
     "DateAdded": "2014-06-09"
+  },
+  {
+    "key": "2586",
+    "NO": "50620",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "에릭 홉스봄",
+    "도서명": "만들어진 전통",
+    "URL": "https://sootax.co.kr/2586",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2586.jpg",
+    "DateAdded": "2014-06-16"
   },
   {
     "key": "2587",
@@ -2002,28 +2057,6 @@
     "DateAdded": "2014-06-16"
   },
   {
-    "key": "2586",
-    "NO": "50620",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "에릭 홉스봄",
-    "도서명": "만들어진 전통",
-    "URL": "https://sootax.co.kr/2586",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2586.jpg",
-    "DateAdded": "2014-06-16"
-  },
-  {
-    "key": "2603",
-    "NO": "70150",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "정만조, 정순우, 김종석 외",
-    "도서명": "도산서원과 지식의 탄생",
-    "URL": "https://sootax.co.kr/2603",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2603.jpg",
-    "DateAdded": "2014-06-23"
-  },
-  {
     "key": "2601",
     "NO": "80080",
     "구분NO": "80000",
@@ -2046,15 +2079,15 @@
     "DateAdded": "2014-06-24"
   },
   {
-    "key": "2611",
-    "NO": "50430",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "아르놀트 하우저",
-    "도서명": "문학과 예술의 사회사 1 - 선사시대부터 중세까지",
-    "URL": "https://sootax.co.kr/2611",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2611.jpg",
-    "DateAdded": "2014-06-30"
+    "key": "2603",
+    "NO": "70150",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "정만조, 정순우, 김종석 외",
+    "도서명": "도산서원과 지식의 탄생",
+    "URL": "https://sootax.co.kr/2603",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2603.jpg",
+    "DateAdded": "2014-06-23"
   },
   {
     "key": "2610",
@@ -2068,6 +2101,17 @@
     "DateAdded": "2014-06-30"
   },
   {
+    "key": "2611",
+    "NO": "50430",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "아르놀트 하우저",
+    "도서명": "문학과 예술의 사회사 1 - 선사시대부터 중세까지",
+    "URL": "https://sootax.co.kr/2611",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2611.jpg",
+    "DateAdded": "2014-06-30"
+  },
+  {
     "key": "2612",
     "NO": "50380",
     "구분NO": "50000",
@@ -2077,17 +2121,6 @@
     "URL": "https://sootax.co.kr/2612",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2612.jpg",
     "DateAdded": "2014-07-03"
-  },
-  {
-    "key": "2659",
-    "NO": "50440",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "아르놀트 하우저",
-    "도서명": "문학과 예술의 사회사 2 - 르네쌍스, 매너리즘, 바로끄",
-    "URL": "https://sootax.co.kr/2659",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2659.jpg",
-    "DateAdded": "2014-07-09"
   },
   {
     "key": "2627",
@@ -2110,6 +2143,28 @@
     "URL": "https://sootax.co.kr/2628",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2628.jpg",
     "DateAdded": "2014-07-17"
+  },
+  {
+    "key": "2659",
+    "NO": "50440",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "아르놀트 하우저",
+    "도서명": "문학과 예술의 사회사 2 - 르네쌍스, 매너리즘, 바로끄",
+    "URL": "https://sootax.co.kr/2659",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2659.jpg",
+    "DateAdded": "2014-07-09"
+  },
+  {
+    "key": "2663",
+    "NO": "70710",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "나카츠카 아키라",
+    "도서명": "1894년, 경복궁을 점령하라",
+    "URL": "https://sootax.co.kr/2663",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2663.jpg",
+    "DateAdded": "2017-06-16"
   },
   {
     "key": "2665",
@@ -2145,6 +2200,61 @@
     "DateAdded": "2014-07-28"
   },
   {
+    "key": "2669",
+    "NO": "70940",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "오도릭",
+    "도서명": "오도릭의 동방기행",
+    "URL": "https://sootax.co.kr/2669",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2669.jpg",
+    "DateAdded": "2014-08-11"
+  },
+  {
+    "key": "2670",
+    "NO": "70440",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "김명호",
+    "도서명": "중국인 이야기 1",
+    "URL": "https://sootax.co.kr/2670",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2670.jpg",
+    "DateAdded": "2015-12-18"
+  },
+  {
+    "key": "2672",
+    "NO": "70160",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "하영휘",
+    "도서명": "양반의 사생활",
+    "URL": "https://sootax.co.kr/2672",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2672.jpg",
+    "DateAdded": "2014-08-05"
+  },
+  {
+    "key": "2673",
+    "NO": "60120",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "무라카미 하루키",
+    "도서명": "언더그라운드2 - 약속된 장소에서",
+    "URL": "https://sootax.co.kr/2673",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2673.jpg",
+    "DateAdded": "2014-08-04"
+  },
+  {
+    "key": "2674",
+    "NO": "70110",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "한국교원대학교 역사교육과",
+    "도서명": "아틀라스 한국사",
+    "URL": "https://sootax.co.kr/2674",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2674.jpg",
+    "DateAdded": "2015-09-03"
+  },
+  {
     "key": "2682",
     "NO": "20350",
     "구분NO": "20000",
@@ -2167,28 +2277,6 @@
     "DateAdded": "2014-08-04"
   },
   {
-    "key": "2673",
-    "NO": "60120",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "무라카미 하루키",
-    "도서명": "언더그라운드2 - 약속된 장소에서",
-    "URL": "https://sootax.co.kr/2673",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2673.jpg",
-    "DateAdded": "2014-08-04"
-  },
-  {
-    "key": "2672",
-    "NO": "70160",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "하영휘",
-    "도서명": "양반의 사생활",
-    "URL": "https://sootax.co.kr/2672",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2672.jpg",
-    "DateAdded": "2014-08-05"
-  },
-  {
     "key": "2696",
     "NO": "20360",
     "구분NO": "20000",
@@ -2200,28 +2288,6 @@
     "DateAdded": "2014-08-11"
   },
   {
-    "key": "2669",
-    "NO": "70940",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "오도릭",
-    "도서명": "오도릭의 동방기행",
-    "URL": "https://sootax.co.kr/2669",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2669.jpg",
-    "DateAdded": "2014-08-11"
-  },
-  {
-    "key": "2674",
-    "NO": "70110",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "한국교원대학교 역사교육과",
-    "도서명": "아틀라스 한국사",
-    "URL": "https://sootax.co.kr/2674",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2674.jpg",
-    "DateAdded": "2015-09-03"
-  },
-  {
     "key": "2732",
     "NO": "10200",
     "구분NO": "10000",
@@ -2231,17 +2297,6 @@
     "URL": "https://sootax.co.kr/2732",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2732.jpg",
     "DateAdded": "2015-09-08"
-  },
-  {
-    "key": "2670",
-    "NO": "70440",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "김명호",
-    "도서명": "중국인 이야기 1",
-    "URL": "https://sootax.co.kr/2670",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2670.jpg",
-    "DateAdded": "2015-12-18"
   },
   {
     "key": "2943",
@@ -2365,6 +2420,17 @@
     "DateAdded": "2016-04-12"
   },
   {
+    "key": "2967",
+    "NO": "60210",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "존 H. 아널드",
+    "도서명": "역사 ━ 교유서가 2",
+    "URL": "https://sootax.co.kr/2967",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2967.jpg",
+    "DateAdded": "2016-05-02"
+  },
+  {
     "key": "2968",
     "NO": "60200",
     "구분NO": "60000",
@@ -2384,17 +2450,6 @@
     "도서명": "세상의 모든 철학",
     "URL": "https://sootax.co.kr/2981",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2981.jpg",
-    "DateAdded": "2016-05-02"
-  },
-  {
-    "key": "2967",
-    "NO": "60210",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "존 H. 아널드",
-    "도서명": "역사 ━ 교유서가 2",
-    "URL": "https://sootax.co.kr/2967",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2967.jpg",
     "DateAdded": "2016-05-02"
   },
   {
@@ -2431,14 +2486,14 @@
     "DateAdded": "2016-06-28"
   },
   {
-    "key": "3026",
-    "NO": "20260",
-    "구분NO": "20000",
-    "구분": "고전",
-    "저자": "마키아벨리",
-    "도서명": "군주론(박상섭 번역)",
-    "URL": "https://sootax.co.kr/3026",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3026.jpg",
+    "key": "3017",
+    "NO": "70990",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "양자오",
+    "도서명": "논어를 읽다",
+    "URL": "https://sootax.co.kr/3017",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3017.jpg",
     "DateAdded": "2016-08-13"
   },
   {
@@ -2453,14 +2508,14 @@
     "DateAdded": "2016-08-13"
   },
   {
-    "key": "3017",
-    "NO": "70990",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "양자오",
-    "도서명": "논어를 읽다",
-    "URL": "https://sootax.co.kr/3017",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3017.jpg",
+    "key": "3026",
+    "NO": "20260",
+    "구분NO": "20000",
+    "구분": "고전",
+    "저자": "마키아벨리",
+    "도서명": "군주론(박상섭 번역)",
+    "URL": "https://sootax.co.kr/3026",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3026.jpg",
     "DateAdded": "2016-08-13"
   },
   {
@@ -2497,28 +2552,6 @@
     "DateAdded": "2016-08-21"
   },
   {
-    "key": "3044",
-    "NO": "40420",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "로드니 스타크",
-    "도서명": "기독교의 발흥",
-    "URL": "https://sootax.co.kr/3044",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3044.jpg",
-    "DateAdded": "2016-08-25"
-  },
-  {
-    "key": "3047",
-    "NO": "60070",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "양자오",
-    "도서명": "종의 기원을 읽다",
-    "URL": "https://sootax.co.kr/3047",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3047.jpg",
-    "DateAdded": "2016-08-29"
-  },
-  {
     "key": "3038",
     "NO": "60830",
     "구분NO": "60000",
@@ -2530,15 +2563,15 @@
     "DateAdded": "2016-08-30"
   },
   {
-    "key": "3049",
-    "NO": "60060",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "찰스 다윈",
-    "도서명": "종의 기원",
-    "URL": "https://sootax.co.kr/3049",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3049.jpg",
-    "DateAdded": "2016-09-03"
+    "key": "3044",
+    "NO": "40420",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "로드니 스타크",
+    "도서명": "기독교의 발흥",
+    "URL": "https://sootax.co.kr/3044",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3044.jpg",
+    "DateAdded": "2016-08-25"
   },
   {
     "key": "3046",
@@ -2552,15 +2585,26 @@
     "DateAdded": "2016-09-04"
   },
   {
-    "key": "3063",
-    "NO": "20020",
-    "구분NO": "20000",
-    "구분": "고전",
-    "저자": "헤시오도스",
-    "도서명": "신들의 계보",
-    "URL": "https://sootax.co.kr/3063",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3063.jpg",
-    "DateAdded": "2016-09-08"
+    "key": "3047",
+    "NO": "60070",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "양자오",
+    "도서명": "종의 기원을 읽다",
+    "URL": "https://sootax.co.kr/3047",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3047.jpg",
+    "DateAdded": "2016-08-29"
+  },
+  {
+    "key": "3049",
+    "NO": "60060",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "찰스 다윈",
+    "도서명": "종의 기원",
+    "URL": "https://sootax.co.kr/3049",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3049.jpg",
+    "DateAdded": "2016-09-03"
   },
   {
     "key": "3050",
@@ -2572,6 +2616,17 @@
     "URL": "https://sootax.co.kr/3050",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3050.jpg",
     "DateAdded": "2016-09-11"
+  },
+  {
+    "key": "3063",
+    "NO": "20020",
+    "구분NO": "20000",
+    "구분": "고전",
+    "저자": "헤시오도스",
+    "도서명": "신들의 계보",
+    "URL": "https://sootax.co.kr/3063",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3063.jpg",
+    "DateAdded": "2016-09-08"
   },
   {
     "key": "3067",
@@ -2607,15 +2662,15 @@
     "DateAdded": "2016-09-29"
   },
   {
-    "key": "3081",
-    "NO": "30180",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "플라톤",
-    "도서명": "필레보스",
-    "URL": "https://sootax.co.kr/3081",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3081.jpg",
-    "DateAdded": "2016-10-03"
+    "key": "3078",
+    "NO": "50490",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "마크 마조워",
+    "도서명": "발칸의 역사",
+    "URL": "https://sootax.co.kr/3078",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3078.jpg",
+    "DateAdded": "2016-10-13"
   },
   {
     "key": "3080",
@@ -2629,6 +2684,17 @@
     "DateAdded": "2016-10-06"
   },
   {
+    "key": "3081",
+    "NO": "30180",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "플라톤",
+    "도서명": "필레보스",
+    "URL": "https://sootax.co.kr/3081",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3081.jpg",
+    "DateAdded": "2016-10-03"
+  },
+  {
     "key": "3083",
     "NO": "30170",
     "구분NO": "30000",
@@ -2638,17 +2704,6 @@
     "URL": "https://sootax.co.kr/3083",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3083.jpg",
     "DateAdded": "2016-10-11"
-  },
-  {
-    "key": "3078",
-    "NO": "50490",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "마크 마조워",
-    "도서명": "발칸의 역사",
-    "URL": "https://sootax.co.kr/3078",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3078.jpg",
-    "DateAdded": "2016-10-13"
   },
   {
     "key": "3095",
@@ -2662,15 +2717,15 @@
     "DateAdded": "2016-10-21"
   },
   {
-    "key": "3099",
-    "NO": "40800",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "김진",
-    "도서명": "통째로 예수 읽기",
-    "URL": "https://sootax.co.kr/3099",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3099.jpg",
-    "DateAdded": "2016-10-24"
+    "key": "3096",
+    "NO": "30560",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "게오르그 빌헬름 프리드리히 헤겔",
+    "도서명": "논리학 서론·철학백과 서론",
+    "URL": "https://sootax.co.kr/3096",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3096.jpg",
+    "DateAdded": "2016-11-07"
   },
   {
     "key": "3097",
@@ -2684,17 +2739,6 @@
     "DateAdded": "2016-11-04"
   },
   {
-    "key": "3096",
-    "NO": "30560",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "게오르그 빌헬름 프리드리히 헤겔",
-    "도서명": "논리학 서론·철학백과 서론",
-    "URL": "https://sootax.co.kr/3096",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3096.jpg",
-    "DateAdded": "2016-11-07"
-  },
-  {
     "key": "3098",
     "NO": "30190",
     "구분NO": "30000",
@@ -2706,15 +2750,15 @@
     "DateAdded": "2016-11-10"
   },
   {
-    "key": "3223",
-    "NO": "10230",
-    "구분NO": "10000",
-    "구분": "강유원 선생님",
-    "저자": "케빈 패스모어",
-    "도서명": "파시즘",
-    "URL": "https://sootax.co.kr/3223",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3223.jpg",
-    "DateAdded": "2016-11-18"
+    "key": "3099",
+    "NO": "40800",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "김진",
+    "도서명": "통째로 예수 읽기",
+    "URL": "https://sootax.co.kr/3099",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3099.jpg",
+    "DateAdded": "2016-10-24"
   },
   {
     "key": "3194",
@@ -2750,6 +2794,28 @@
     "DateAdded": "2016-12-04"
   },
   {
+    "key": "3223",
+    "NO": "10230",
+    "구분NO": "10000",
+    "구분": "강유원 선생님",
+    "저자": "케빈 패스모어",
+    "도서명": "파시즘",
+    "URL": "https://sootax.co.kr/3223",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3223.jpg",
+    "DateAdded": "2016-11-18"
+  },
+  {
+    "key": "3286",
+    "NO": "30730",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "F. C. 코플스턴",
+    "도서명": "중세철학사",
+    "URL": "https://sootax.co.kr/3286",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3286.jpg",
+    "DateAdded": "2016-12-19"
+  },
+  {
     "key": "3287",
     "NO": "40810",
     "구분NO": "40000",
@@ -2758,17 +2824,6 @@
     "도서명": "라이프 성경사전",
     "URL": "https://sootax.co.kr/3287",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3287.jpg",
-    "DateAdded": "2016-12-04"
-  },
-  {
-    "key": "3290",
-    "NO": "50270",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "팀 마샬",
-    "도서명": "지리의 힘",
-    "URL": "https://sootax.co.kr/3290",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3290.jpg",
     "DateAdded": "2016-12-04"
   },
   {
@@ -2783,15 +2838,15 @@
     "DateAdded": "2016-12-11"
   },
   {
-    "key": "3286",
-    "NO": "30730",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "F. C. 코플스턴",
-    "도서명": "중세철학사",
-    "URL": "https://sootax.co.kr/3286",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3286.jpg",
-    "DateAdded": "2016-12-19"
+    "key": "3290",
+    "NO": "50270",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "팀 마샬",
+    "도서명": "지리의 힘",
+    "URL": "https://sootax.co.kr/3290",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3290.jpg",
+    "DateAdded": "2016-12-04"
   },
   {
     "key": "3291",
@@ -2827,6 +2882,17 @@
     "DateAdded": "2017-01-31"
   },
   {
+    "key": "3344",
+    "NO": "30080",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "플라톤",
+    "도서명": "메논",
+    "URL": "https://sootax.co.kr/3344",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3344.jpg",
+    "DateAdded": "2017-02-07"
+  },
+  {
     "key": "3352",
     "NO": "70720",
     "구분NO": "70000",
@@ -2838,15 +2904,26 @@
     "DateAdded": "2017-01-31"
   },
   {
-    "key": "3344",
-    "NO": "30080",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "플라톤",
-    "도서명": "메논",
-    "URL": "https://sootax.co.kr/3344",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3344.jpg",
-    "DateAdded": "2017-02-07"
+    "key": "3403",
+    "NO": "50740",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "헤어프리트 뮌클러",
+    "도서명": "제국 ━ 평천하의 논리",
+    "URL": "https://sootax.co.kr/3403",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3403.jpg",
+    "DateAdded": "2017-04-16"
+  },
+  {
+    "key": "3408",
+    "NO": "40700",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "존 샌더스",
+    "도서명": "복음을 듣지 못한 사람 어떻게 되는가",
+    "URL": "https://sootax.co.kr/3408",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3408.jpg",
+    "DateAdded": "2017-02-27"
   },
   {
     "key": "3410",
@@ -2869,17 +2946,6 @@
     "URL": "https://sootax.co.kr/3412",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3412.jpg",
     "DateAdded": "2017-02-20"
-  },
-  {
-    "key": "3408",
-    "NO": "40700",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "존 샌더스",
-    "도서명": "복음을 듣지 못한 사람 어떻게 되는가",
-    "URL": "https://sootax.co.kr/3408",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3408.jpg",
-    "DateAdded": "2017-02-27"
   },
   {
     "key": "3422",
@@ -2924,17 +2990,6 @@
     "URL": "https://sootax.co.kr/3482",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3482.jpg",
     "DateAdded": "2017-04-05"
-  },
-  {
-    "key": "3403",
-    "NO": "50740",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "헤어프리트 뮌클러",
-    "도서명": "제국 ━ 평천하의 논리",
-    "URL": "https://sootax.co.kr/3403",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3403.jpg",
-    "DateAdded": "2017-04-16"
   },
   {
     "key": "3490",
@@ -3003,17 +3058,6 @@
     "DateAdded": "2017-06-15"
   },
   {
-    "key": "2663",
-    "NO": "70710",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "나카츠카 아키라",
-    "도서명": "1894년, 경복궁을 점령하라",
-    "URL": "https://sootax.co.kr/2663",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2663.jpg",
-    "DateAdded": "2017-06-16"
-  },
-  {
     "key": "3541",
     "NO": "70740",
     "구분NO": "70000",
@@ -3056,17 +3100,6 @@
     "URL": "https://sootax.co.kr/3561",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3561.jpg",
     "DateAdded": "2017-07-17"
-  },
-  {
-    "key": "2331",
-    "NO": "20010",
-    "구분NO": "20000",
-    "구분": "고전",
-    "저자": "김산해",
-    "도서명": "최초의 신화 길가메쉬 서사시",
-    "URL": "https://sootax.co.kr/2331",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/2331.jpg",
-    "DateAdded": "2017-07-19"
   },
   {
     "key": "3569",
@@ -3188,17 +3221,6 @@
     "URL": "https://sootax.co.kr/3608",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3608.jpg",
     "DateAdded": "2017-09-07"
-  },
-  {
-    "key": "1822",
-    "NO": "20110",
-    "구분NO": "20000",
-    "구분": "고전",
-    "저자": "아이스퀼로스",
-    "도서명": "아이스퀼로스 비극 전집",
-    "URL": "https://sootax.co.kr/1822",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1822.jpg",
-    "DateAdded": "2017-09-12"
   },
   {
     "key": "3612",
@@ -3749,17 +3771,6 @@
     "URL": "https://sootax.co.kr/4048",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/4048.jpg",
     "DateAdded": "2018-05-30"
-  },
-  {
-    "key": "1844",
-    "NO": "20570",
-    "구분NO": "20000",
-    "구분": "고전",
-    "저자": "장 자크 루소",
-    "도서명": "인간 불평등 기원론",
-    "URL": "https://sootax.co.kr/1844",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1844.jpg",
-    "DateAdded": "2018-05-31"
   },
   {
     "key": "4054",
@@ -5412,17 +5423,6 @@
     "DateAdded": "2020-07-20"
   },
   {
-    "key": "4774",
-    "NO": "80750",
-    "구분NO": "80000",
-    "구분": "문학",
-    "저자": "오르한 파묵",
-    "도서명": "새로운 인생",
-    "URL": "https://sootax.co.kr/4774",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/4774.jpg",
-    "DateAdded": "2020-07-27"
-  },
-  {
     "key": "4773",
     "NO": "90350",
     "구분NO": "90000",
@@ -5431,6 +5431,17 @@
     "도서명": "호킹의 빅 퀘스천에 대한 간결한 대답",
     "URL": "https://sootax.co.kr/4773",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/4773.jpg",
+    "DateAdded": "2020-07-27"
+  },
+  {
+    "key": "4774",
+    "NO": "80750",
+    "구분NO": "80000",
+    "구분": "문학",
+    "저자": "오르한 파묵",
+    "도서명": "새로운 인생",
+    "URL": "https://sootax.co.kr/4774",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/4774.jpg",
     "DateAdded": "2020-07-27"
   },
   {
@@ -5500,17 +5511,6 @@
     "DateAdded": "2020-08-25"
   },
   {
-    "key": "4798",
-    "NO": "60520",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "로마노 과르디니",
-    "도서명": "삶과 나이 ━ 완성된 삶을 위하여",
-    "URL": "https://sootax.co.kr/4798",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/4798.jpg",
-    "DateAdded": "2020-09-02"
-  },
-  {
     "key": "4797",
     "NO": "80950",
     "구분NO": "80000",
@@ -5519,6 +5519,17 @@
     "도서명": "마의 산(하)",
     "URL": "https://sootax.co.kr/4797",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/4797.jpg",
+    "DateAdded": "2020-09-02"
+  },
+  {
+    "key": "4798",
+    "NO": "60520",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "로마노 과르디니",
+    "도서명": "삶과 나이 ━ 완성된 삶을 위하여",
+    "URL": "https://sootax.co.kr/4798",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/4798.jpg",
     "DateAdded": "2020-09-02"
   },
   {
@@ -5621,17 +5632,6 @@
     "DateAdded": "2020-10-12"
   },
   {
-    "key": "4834",
-    "NO": "41590",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "마이클 쿠건",
-    "도서명": "구약 ━ 문헌과 비평",
-    "URL": "https://sootax.co.kr/4834",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/4834.jpg",
-    "DateAdded": "2020-10-16"
-  },
-  {
     "key": "4832",
     "NO": "80760",
     "구분NO": "80000",
@@ -5640,6 +5640,17 @@
     "도서명": "잃어버린 시간을 찾아서 1(민희식 옮김)",
     "URL": "https://sootax.co.kr/4832",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/4832.jpg",
+    "DateAdded": "2020-10-16"
+  },
+  {
+    "key": "4834",
+    "NO": "41590",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "마이클 쿠건",
+    "도서명": "구약 ━ 문헌과 비평",
+    "URL": "https://sootax.co.kr/4834",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/4834.jpg",
     "DateAdded": "2020-10-16"
   },
   {
@@ -5962,17 +5973,6 @@
     "DateAdded": "2021-05-03"
   },
   {
-    "key": "4906",
-    "NO": "20670",
-    "구분NO": "20000",
-    "구분": "고전",
-    "저자": "셰익스피어",
-    "도서명": "십이야 혹은 그대의 바람 ㅣ 아침이슬 7",
-    "URL": "https://sootax.co.kr/4906",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/4906.jpg",
-    "DateAdded": "2021-05-11"
-  },
-  {
     "key": "4905",
     "NO": "20700",
     "구분NO": "20000",
@@ -5981,6 +5981,17 @@
     "도서명": "한여름 밤의 꿈 ㅣ 아침이슬 10",
     "URL": "https://sootax.co.kr/4905",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/4905.jpg",
+    "DateAdded": "2021-05-11"
+  },
+  {
+    "key": "4906",
+    "NO": "20670",
+    "구분NO": "20000",
+    "구분": "고전",
+    "저자": "셰익스피어",
+    "도서명": "십이야 혹은 그대의 바람 ㅣ 아침이슬 7",
+    "URL": "https://sootax.co.kr/4906",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/4906.jpg",
     "DateAdded": "2021-05-11"
   },
   {
@@ -6039,17 +6050,6 @@
     "DateAdded": "2021-05-31"
   },
   {
-    "key": "4925",
-    "NO": "10100",
-    "구분NO": "10000",
-    "구분": "강유원 선생님",
-    "저자": "강유원",
-    "도서명": "숨은 신을 찾아서 ━ 신념 체계와 삶의 방식에 관한 성찰",
-    "URL": "https://sootax.co.kr/4925",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/4925.jpg",
-    "DateAdded": "2021-06-01"
-  },
-  {
     "key": "4923",
     "NO": "90280",
     "구분NO": "90000",
@@ -6058,6 +6058,17 @@
     "도서명": "나는 매주 시체를 보러 간다",
     "URL": "https://sootax.co.kr/4923",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/4923.jpg",
+    "DateAdded": "2021-06-01"
+  },
+  {
+    "key": "4925",
+    "NO": "10100",
+    "구분NO": "10000",
+    "구분": "강유원 선생님",
+    "저자": "강유원",
+    "도서명": "숨은 신을 찾아서 ━ 신념 체계와 삶의 방식에 관한 성찰",
+    "URL": "https://sootax.co.kr/4925",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/4925.jpg",
     "DateAdded": "2021-06-01"
   },
   {
@@ -6391,6 +6402,17 @@
     "DateAdded": "2021-08-02"
   },
   {
+    "key": "5013",
+    "NO": "50590",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "피터 B. 골든",
+    "도서명": "중앙아시아사",
+    "URL": "https://sootax.co.kr/5013",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5013.jpg",
+    "DateAdded": "2023-05-09"
+  },
+  {
     "key": "5020",
     "NO": "60970",
     "구분NO": "60000",
@@ -6424,17 +6446,6 @@
     "DateAdded": "2021-08-12"
   },
   {
-    "key": "5034",
-    "NO": "40220",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "한스 큉",
-    "도서명": "음악과 종교 ━ 모차르트 - 바그너 - 브루크너",
-    "URL": "https://sootax.co.kr/5034",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5034.jpg",
-    "DateAdded": "2021-08-16"
-  },
-  {
     "key": "5033",
     "NO": "60390",
     "구분NO": "60000",
@@ -6443,6 +6454,17 @@
     "도서명": "몽골제국 ━ 교유서가 40",
     "URL": "https://sootax.co.kr/5033",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5033.jpg",
+    "DateAdded": "2021-08-16"
+  },
+  {
+    "key": "5034",
+    "NO": "40220",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "한스 큉",
+    "도서명": "음악과 종교 ━ 모차르트 - 바그너 - 브루크너",
+    "URL": "https://sootax.co.kr/5034",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5034.jpg",
     "DateAdded": "2021-08-16"
   },
   {
@@ -6675,6 +6697,17 @@
     "URL": "https://sootax.co.kr/5100",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5100.jpg",
     "DateAdded": "2021-10-04"
+  },
+  {
+    "key": "5104",
+    "NO": "40620",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "R.W. 서던",
+    "도서명": "중세교회사 ━ 펭귄 교회사 시리즈 2",
+    "URL": "https://sootax.co.kr/5104",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5104.jpg",
+    "DateAdded": "2023-07-26"
   },
   {
     "key": "5110",
@@ -6930,17 +6963,6 @@
     "DateAdded": "2021-12-09"
   },
   {
-    "key": "5199",
-    "NO": "10010",
-    "구분NO": "10000",
-    "구분": "강유원 선생님",
-    "저자": "강유원",
-    "도서명": "서양문명의 기반 ━ 철학적 탐구",
-    "URL": "https://sootax.co.kr/5199",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5199.jpg",
-    "DateAdded": "2021-12-13"
-  },
-  {
     "key": "5198",
     "NO": "10220",
     "구분NO": "10000",
@@ -6949,6 +6971,17 @@
     "도서명": "달인",
     "URL": "https://sootax.co.kr/5198",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5198.jpg",
+    "DateAdded": "2021-12-13"
+  },
+  {
+    "key": "5199",
+    "NO": "10010",
+    "구분NO": "10000",
+    "구분": "강유원 선생님",
+    "저자": "강유원",
+    "도서명": "서양문명의 기반 ━ 철학적 탐구",
+    "URL": "https://sootax.co.kr/5199",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5199.jpg",
     "DateAdded": "2021-12-13"
   },
   {
@@ -7051,17 +7084,6 @@
     "DateAdded": "2022-01-22"
   },
   {
-    "key": "5261",
-    "NO": "41230",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "데이비드 벤틀리 하트",
-    "도서명": "바다의 문들",
-    "URL": "https://sootax.co.kr/5261",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5261.jpg",
-    "DateAdded": "2022-02-04"
-  },
-  {
     "key": "5260",
     "NO": "61030",
     "구분NO": "60000",
@@ -7070,6 +7092,17 @@
     "도서명": "선거는 민주적인가",
     "URL": "https://sootax.co.kr/5260",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5260.jpg",
+    "DateAdded": "2022-02-04"
+  },
+  {
+    "key": "5261",
+    "NO": "41230",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "데이비드 벤틀리 하트",
+    "도서명": "바다의 문들",
+    "URL": "https://sootax.co.kr/5261",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5261.jpg",
     "DateAdded": "2022-02-04"
   },
   {
@@ -7095,17 +7128,6 @@
     "DateAdded": "2022-02-08"
   },
   {
-    "key": "5273",
-    "NO": "10310",
-    "구분NO": "10000",
-    "구분": "강유원 선생님",
-    "저자": "하버드 철학 리뷰 편집부",
-    "도서명": "하버드, 철학을 인터뷰하다",
-    "URL": "https://sootax.co.kr/5273",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5273.jpg",
-    "DateAdded": "2022-02-15"
-  },
-  {
     "key": "5272",
     "NO": "30400",
     "구분NO": "30000",
@@ -7114,6 +7136,17 @@
     "도서명": "엔네아데스",
     "URL": "https://sootax.co.kr/5272",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5272.jpg",
+    "DateAdded": "2022-02-15"
+  },
+  {
+    "key": "5273",
+    "NO": "10310",
+    "구분NO": "10000",
+    "구분": "강유원 선생님",
+    "저자": "하버드 철학 리뷰 편집부",
+    "도서명": "하버드, 철학을 인터뷰하다",
+    "URL": "https://sootax.co.kr/5273",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5273.jpg",
     "DateAdded": "2022-02-15"
   },
   {
@@ -7139,17 +7172,6 @@
     "DateAdded": "2022-02-19"
   },
   {
-    "key": "5290",
-    "NO": "50890",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "우노 시게키",
-    "도서명": "서양 정치사상사 산책 - 소크라테스에서 샌델까지",
-    "URL": "https://sootax.co.kr/5290",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5290.jpg",
-    "DateAdded": "2022-03-01"
-  },
-  {
     "key": "5289",
     "NO": "50900",
     "구분NO": "50000",
@@ -7158,6 +7180,17 @@
     "도서명": "정치철학사 - 플라톤부터 존 롤스까지",
     "URL": "https://sootax.co.kr/5289",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5289.jpg",
+    "DateAdded": "2022-03-01"
+  },
+  {
+    "key": "5290",
+    "NO": "50890",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "우노 시게키",
+    "도서명": "서양 정치사상사 산책 - 소크라테스에서 샌델까지",
+    "URL": "https://sootax.co.kr/5290",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5290.jpg",
     "DateAdded": "2022-03-01"
   },
   {
@@ -7183,17 +7216,6 @@
     "DateAdded": "2022-03-11"
   },
   {
-    "key": "5301",
-    "NO": "30780",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "조규홍",
-    "도서명": "플로티노스 - 그리스 철학을 기독교에 전달한 사상가",
-    "URL": "https://sootax.co.kr/5301",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5301.jpg",
-    "DateAdded": "2022-03-14"
-  },
-  {
     "key": "5300",
     "NO": "41240",
     "구분NO": "40000",
@@ -7205,15 +7227,15 @@
     "DateAdded": "2022-03-14"
   },
   {
-    "key": "5314",
-    "NO": "50870",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "마르틴 뤼케,이름가르트 췬도르프",
-    "도서명": "공공역사란 무엇인가",
-    "URL": "https://sootax.co.kr/5314",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5314.jpg",
-    "DateAdded": "2022-03-30"
+    "key": "5301",
+    "NO": "30780",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "조규홍",
+    "도서명": "플로티노스 - 그리스 철학을 기독교에 전달한 사상가",
+    "URL": "https://sootax.co.kr/5301",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5301.jpg",
+    "DateAdded": "2022-03-14"
   },
   {
     "key": "5313",
@@ -7227,15 +7249,15 @@
     "DateAdded": "2022-03-30"
   },
   {
-    "key": "5318",
-    "NO": "10170",
-    "구분NO": "10000",
-    "구분": "강유원 선생님",
-    "저자": "마이클 에이어스",
-    "도서명": "로크",
-    "URL": "https://sootax.co.kr/5318",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5318.jpg",
-    "DateAdded": "2022-04-03"
+    "key": "5314",
+    "NO": "50870",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "마르틴 뤼케,이름가르트 췬도르프",
+    "도서명": "공공역사란 무엇인가",
+    "URL": "https://sootax.co.kr/5314",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5314.jpg",
+    "DateAdded": "2022-03-30"
   },
   {
     "key": "5317",
@@ -7246,6 +7268,17 @@
     "도서명": "불안의 시대 이교도와 기독교인",
     "URL": "https://sootax.co.kr/5317",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5317.jpg",
+    "DateAdded": "2022-04-03"
+  },
+  {
+    "key": "5318",
+    "NO": "10170",
+    "구분NO": "10000",
+    "구분": "강유원 선생님",
+    "저자": "마이클 에이어스",
+    "도서명": "로크",
+    "URL": "https://sootax.co.kr/5318",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5318.jpg",
     "DateAdded": "2022-04-03"
   },
   {
@@ -7271,17 +7304,6 @@
     "DateAdded": "2022-04-11"
   },
   {
-    "key": "5330",
-    "NO": "10320",
-    "구분NO": "10000",
-    "구분": "강유원 선생님",
-    "저자": "카를 마르크스",
-    "도서명": "헤겔 법철학 비판",
-    "URL": "https://sootax.co.kr/5330",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5330.jpg",
-    "DateAdded": "2022-04-18"
-  },
-  {
     "key": "5329",
     "NO": "50120",
     "구분NO": "50000",
@@ -7290,6 +7312,17 @@
     "도서명": "12세기 르네상스",
     "URL": "https://sootax.co.kr/5329",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5329.jpg",
+    "DateAdded": "2022-04-18"
+  },
+  {
+    "key": "5330",
+    "NO": "10320",
+    "구분NO": "10000",
+    "구분": "강유원 선생님",
+    "저자": "카를 마르크스",
+    "도서명": "헤겔 법철학 비판",
+    "URL": "https://sootax.co.kr/5330",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5330.jpg",
     "DateAdded": "2022-04-18"
   },
   {
@@ -7524,17 +7557,6 @@
     "DateAdded": "2022-09-14"
   },
   {
-    "key": "5440",
-    "NO": "40340",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "로버트 루이스 윌켄",
-    "도서명": "초기 기독교 사상의 정신",
-    "URL": "https://sootax.co.kr/5440",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5440.jpg",
-    "DateAdded": "2022-09-22"
-  },
-  {
     "key": "5439",
     "NO": "80290",
     "구분NO": "80000",
@@ -7543,6 +7565,17 @@
     "도서명": "반항하는 인간",
     "URL": "https://sootax.co.kr/5439",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5439.jpg",
+    "DateAdded": "2022-09-22"
+  },
+  {
+    "key": "5440",
+    "NO": "40340",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "로버트 루이스 윌켄",
+    "도서명": "초기 기독교 사상의 정신",
+    "URL": "https://sootax.co.kr/5440",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5440.jpg",
     "DateAdded": "2022-09-22"
   },
   {
@@ -7645,17 +7678,6 @@
     "DateAdded": "2022-12-06"
   },
   {
-    "key": "5495",
-    "NO": "60980",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "클리퍼드 기어츠",
-    "도서명": "극장국가 느가라",
-    "URL": "https://sootax.co.kr/5495",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5495.jpg",
-    "DateAdded": "2022-12-12"
-  },
-  {
     "key": "5494",
     "NO": "80150",
     "구분NO": "80000",
@@ -7667,15 +7689,15 @@
     "DateAdded": "2022-12-12"
   },
   {
-    "key": "5502",
-    "NO": "30822",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "미셸 푸코",
-    "도서명": "자기해석학의 기원",
-    "URL": "https://sootax.co.kr/5502",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5502.jpg",
-    "DateAdded": "2022-12-20"
+    "key": "5495",
+    "NO": "60980",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "클리퍼드 기어츠",
+    "도서명": "극장국가 느가라",
+    "URL": "https://sootax.co.kr/5495",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5495.jpg",
+    "DateAdded": "2022-12-12"
   },
   {
     "key": "5501",
@@ -7689,15 +7711,15 @@
     "DateAdded": "2022-12-20"
   },
   {
-    "key": "5508",
-    "NO": "41560",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "데일 C. 앨리슨",
-    "도서명": "역사적 그리스도와 신학적 예수",
-    "URL": "https://sootax.co.kr/5508",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5508.jpg",
-    "DateAdded": "2022-12-22"
+    "key": "5502",
+    "NO": "30822",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "미셸 푸코",
+    "도서명": "자기해석학의 기원",
+    "URL": "https://sootax.co.kr/5502",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5502.jpg",
+    "DateAdded": "2022-12-20"
   },
   {
     "key": "5507",
@@ -7708,6 +7730,17 @@
     "도서명": "죽음아, 너의 독침이 어디에 있느냐?",
     "URL": "https://sootax.co.kr/5507",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5507.jpg",
+    "DateAdded": "2022-12-22"
+  },
+  {
+    "key": "5508",
+    "NO": "41560",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "데일 C. 앨리슨",
+    "도서명": "역사적 그리스도와 신학적 예수",
+    "URL": "https://sootax.co.kr/5508",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5508.jpg",
     "DateAdded": "2022-12-22"
   },
   {
@@ -7821,17 +7854,6 @@
     "DateAdded": "2023-02-07"
   },
   {
-    "key": "5563",
-    "NO": "71040",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "오구라 가즈오",
-    "도서명": "일본외교의 과오",
-    "URL": "https://sootax.co.kr/5563",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5563.jpg",
-    "DateAdded": "2023-02-14"
-  },
-  {
     "key": "5562",
     "NO": "80390",
     "구분NO": "80000",
@@ -7840,6 +7862,17 @@
     "도서명": "파우스트 박사 2",
     "URL": "https://sootax.co.kr/5562",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5562.jpg",
+    "DateAdded": "2023-02-14"
+  },
+  {
+    "key": "5563",
+    "NO": "71040",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "오구라 가즈오",
+    "도서명": "일본외교의 과오",
+    "URL": "https://sootax.co.kr/5563",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5563.jpg",
     "DateAdded": "2023-02-14"
   },
   {
@@ -7854,17 +7887,6 @@
     "DateAdded": "2023-02-17"
   },
   {
-    "key": "5570",
-    "NO": "40460",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "마이클 왈저",
-    "도서명": "성도들이 일으킨 혁명",
-    "URL": "https://sootax.co.kr/5570",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5570.jpg",
-    "DateAdded": "2023-02-19"
-  },
-  {
     "key": "5569",
     "NO": "50530",
     "구분NO": "50000",
@@ -7876,15 +7898,15 @@
     "DateAdded": "2023-02-19"
   },
   {
-    "key": "5574",
-    "NO": "10150",
-    "구분NO": "10000",
-    "구분": "강유원 선생님",
-    "저자": "강유원",
-    "도서명": "플라톤, 현실국가를 캐묻다",
-    "URL": "https://sootax.co.kr/5574",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5574.jpg",
-    "DateAdded": "2023-02-28"
+    "key": "5570",
+    "NO": "40460",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "마이클 왈저",
+    "도서명": "성도들이 일으킨 혁명",
+    "URL": "https://sootax.co.kr/5570",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5570.jpg",
+    "DateAdded": "2023-02-19"
   },
   {
     "key": "5573",
@@ -7898,15 +7920,15 @@
     "DateAdded": "2023-02-28"
   },
   {
-    "key": "5578",
-    "NO": "30980",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "에른스트 카시러",
-    "도서명": "상징형식의 철학 제3권: 인식의 현상학",
-    "URL": "https://sootax.co.kr/5578",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5578.jpg",
-    "DateAdded": "2023-03-02"
+    "key": "5574",
+    "NO": "10150",
+    "구분NO": "10000",
+    "구분": "강유원 선생님",
+    "저자": "강유원",
+    "도서명": "플라톤, 현실국가를 캐묻다",
+    "URL": "https://sootax.co.kr/5574",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5574.jpg",
+    "DateAdded": "2023-02-28"
   },
   {
     "key": "5577",
@@ -7917,6 +7939,17 @@
     "도서명": "Paint it Rock 2",
     "URL": "https://sootax.co.kr/5577",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5577.jpg",
+    "DateAdded": "2023-03-02"
+  },
+  {
+    "key": "5578",
+    "NO": "30980",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "에른스트 카시러",
+    "도서명": "상징형식의 철학 제3권: 인식의 현상학",
+    "URL": "https://sootax.co.kr/5578",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5578.jpg",
     "DateAdded": "2023-03-02"
   },
   {
@@ -7942,17 +7975,6 @@
     "DateAdded": "2023-03-13"
   },
   {
-    "key": "5595",
-    "NO": "41280",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "마크 래리모어",
-    "도서명": "욥기와 만나다",
-    "URL": "https://sootax.co.kr/5595",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5595.jpg",
-    "DateAdded": "2023-03-20"
-  },
-  {
     "key": "5594",
     "NO": "70040",
     "구분NO": "70000",
@@ -7964,15 +7986,15 @@
     "DateAdded": "2023-03-20"
   },
   {
-    "key": "5606",
-    "NO": "30990",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "엘리 알레비",
-    "도서명": "철학적 급진주의의 형성 1 ━ 벤담의 젊은 시절(1776~1789)",
-    "URL": "https://sootax.co.kr/5606",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5606.jpg",
-    "DateAdded": "2023-04-04"
+    "key": "5595",
+    "NO": "41280",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "마크 래리모어",
+    "도서명": "욥기와 만나다",
+    "URL": "https://sootax.co.kr/5595",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5595.jpg",
+    "DateAdded": "2023-03-20"
   },
   {
     "key": "5605",
@@ -7983,6 +8005,17 @@
     "도서명": "오르세 미술관",
     "URL": "https://sootax.co.kr/5605",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5605.jpg",
+    "DateAdded": "2023-04-04"
+  },
+  {
+    "key": "5606",
+    "NO": "30990",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "엘리 알레비",
+    "도서명": "철학적 급진주의의 형성 1 ━ 벤담의 젊은 시절(1776~1789)",
+    "URL": "https://sootax.co.kr/5606",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5606.jpg",
     "DateAdded": "2023-04-04"
   },
   {
@@ -8052,17 +8085,6 @@
     "DateAdded": "2023-05-08"
   },
   {
-    "key": "5013",
-    "NO": "50590",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "피터 B. 골든",
-    "도서명": "중앙아시아사",
-    "URL": "https://sootax.co.kr/5013",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5013.jpg",
-    "DateAdded": "2023-05-09"
-  },
-  {
     "key": "5660",
     "NO": "41270",
     "구분NO": "40000",
@@ -8096,17 +8118,6 @@
     "DateAdded": "2023-05-15"
   },
   {
-    "key": "5672",
-    "NO": "70080",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "야기 다케시",
-    "도서명": "한국사의 계보",
-    "URL": "https://sootax.co.kr/5672",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5672.jpg",
-    "DateAdded": "2023-05-22"
-  },
-  {
     "key": "5671",
     "NO": "90110",
     "구분NO": "90000",
@@ -8115,6 +8126,17 @@
     "도서명": "루브르 박물관",
     "URL": "https://sootax.co.kr/5671",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5671.jpg",
+    "DateAdded": "2023-05-22"
+  },
+  {
+    "key": "5672",
+    "NO": "70080",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "야기 다케시",
+    "도서명": "한국사의 계보",
+    "URL": "https://sootax.co.kr/5672",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5672.jpg",
     "DateAdded": "2023-05-22"
   },
   {
@@ -8129,17 +8151,6 @@
     "DateAdded": "2023-05-31"
   },
   {
-    "key": "5691",
-    "NO": "41260",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "키스 워드",
-    "도서명": "그리스도교와 만나다",
-    "URL": "https://sootax.co.kr/5691",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5691.jpg",
-    "DateAdded": "2023-06-05"
-  },
-  {
     "key": "5690",
     "NO": "90030",
     "구분NO": "90000",
@@ -8148,6 +8159,17 @@
     "도서명": "과학의 위로",
     "URL": "https://sootax.co.kr/5690",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5690.jpg",
+    "DateAdded": "2023-06-05"
+  },
+  {
+    "key": "5691",
+    "NO": "41260",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "키스 워드",
+    "도서명": "그리스도교와 만나다",
+    "URL": "https://sootax.co.kr/5691",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5691.jpg",
     "DateAdded": "2023-06-05"
   },
   {
@@ -8173,17 +8195,6 @@
     "DateAdded": "2023-06-12"
   },
   {
-    "key": "5719",
-    "NO": "40470",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "마이클 왈저",
-    "도서명": "출애굽과 혁명",
-    "URL": "https://sootax.co.kr/5719",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5719.jpg",
-    "DateAdded": "2023-06-19"
-  },
-  {
     "key": "5718",
     "NO": "90020",
     "구분NO": "90000",
@@ -8192,6 +8203,17 @@
     "도서명": "클래식 음악 연표 - 1500년부터 현대까지",
     "URL": "https://sootax.co.kr/5718",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5718.jpg",
+    "DateAdded": "2023-06-19"
+  },
+  {
+    "key": "5719",
+    "NO": "40470",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "마이클 왈저",
+    "도서명": "출애굽과 혁명",
+    "URL": "https://sootax.co.kr/5719",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5719.jpg",
     "DateAdded": "2023-06-19"
   },
   {
@@ -8206,17 +8228,6 @@
     "DateAdded": "2023-06-26"
   },
   {
-    "key": "5737",
-    "NO": "41310",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "로완 윌리엄스, 메리 저나지",
-    "도서명": "로완 윌리엄스와의 대화",
-    "URL": "https://sootax.co.kr/5737",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5737.jpg",
-    "DateAdded": "2023-06-26"
-  },
-  {
     "key": "5735",
     "NO": "90100",
     "구분NO": "90000",
@@ -8225,6 +8236,17 @@
     "도서명": "우피치 미술관",
     "URL": "https://sootax.co.kr/5735",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5735.jpg",
+    "DateAdded": "2023-06-26"
+  },
+  {
+    "key": "5737",
+    "NO": "41310",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "로완 윌리엄스, 메리 저나지",
+    "도서명": "로완 윌리엄스와의 대화",
+    "URL": "https://sootax.co.kr/5737",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5737.jpg",
     "DateAdded": "2023-06-26"
   },
   {
@@ -8250,17 +8272,6 @@
     "DateAdded": "2023-07-06"
   },
   {
-    "key": "5762",
-    "NO": "50550",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "사라 마자",
-    "도서명": "역사에 대해 생각하기",
-    "URL": "https://sootax.co.kr/5762",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5762.jpg",
-    "DateAdded": "2023-07-10"
-  },
-  {
     "key": "5761",
     "NO": "90010",
     "구분NO": "90000",
@@ -8272,15 +8283,15 @@
     "DateAdded": "2023-07-10"
   },
   {
-    "key": "5768",
-    "NO": "20040",
-    "구분NO": "20000",
-    "구분": "고전",
-    "저자": "호메로스",
-    "도서명": "오뒷세이아(김기영 옮김)",
-    "URL": "https://sootax.co.kr/5768",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5768.jpg",
-    "DateAdded": "2023-07-17"
+    "key": "5762",
+    "NO": "50550",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "사라 마자",
+    "도서명": "역사에 대해 생각하기",
+    "URL": "https://sootax.co.kr/5762",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5762.jpg",
+    "DateAdded": "2023-07-10"
   },
   {
     "key": "5767",
@@ -8291,6 +8302,17 @@
     "도서명": "근대 조선과 일본",
     "URL": "https://sootax.co.kr/5767",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5767.jpg",
+    "DateAdded": "2023-07-17"
+  },
+  {
+    "key": "5768",
+    "NO": "20040",
+    "구분NO": "20000",
+    "구분": "고전",
+    "저자": "호메로스",
+    "도서명": "오뒷세이아(김기영 옮김)",
+    "URL": "https://sootax.co.kr/5768",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5768.jpg",
     "DateAdded": "2023-07-17"
   },
   {
@@ -8316,28 +8338,6 @@
     "DateAdded": "2023-07-24"
   },
   {
-    "key": "1610",
-    "NO": "40610",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "헨리 채드윅",
-    "도서명": "초대교회사 ━ 펭귄 교회사 시리즈1",
-    "URL": "https://sootax.co.kr/1610",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/1610.jpg",
-    "DateAdded": "2023-07-26"
-  },
-  {
-    "key": "5104",
-    "NO": "40620",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "R.W. 서던",
-    "도서명": "중세교회사 ━ 펭귄 교회사 시리즈 2",
-    "URL": "https://sootax.co.kr/5104",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5104.jpg",
-    "DateAdded": "2023-07-26"
-  },
-  {
     "key": "5778",
     "NO": "41300",
     "구분NO": "40000",
@@ -8358,6 +8358,17 @@
     "URL": "https://sootax.co.kr/5779",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5779.jpg",
     "DateAdded": "2023-08-01"
+  },
+  {
+    "key": "5789",
+    "NO": "71020",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "KBS 다큐 인사이트",
+    "도서명": "1950 미중전쟁",
+    "URL": "https://sootax.co.kr/5789",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5789.jpg",
+    "DateAdded": "2023-08-07"
   },
   {
     "key": "5790",
@@ -8382,15 +8393,15 @@
     "DateAdded": "2023-08-07"
   },
   {
-    "key": "5789",
-    "NO": "71020",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "KBS 다큐 인사이트",
-    "도서명": "1950 미중전쟁",
-    "URL": "https://sootax.co.kr/5789",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5789.jpg",
-    "DateAdded": "2023-08-07"
+    "key": "5798",
+    "NO": "31000",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "엘리 알레비",
+    "도서명": "철학적 급진주의의 형성 2 ━ 공리주의 신조의 진화(1789~1815)",
+    "URL": "https://sootax.co.kr/5798",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5798.jpg",
+    "DateAdded": "2023-08-14"
   },
   {
     "key": "5799",
@@ -8401,17 +8412,6 @@
     "도서명": "통치론",
     "URL": "https://sootax.co.kr/5799",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5799.jpg",
-    "DateAdded": "2023-08-14"
-  },
-  {
-    "key": "5798",
-    "NO": "31000",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "엘리 알레비",
-    "도서명": "철학적 급진주의의 형성 2 ━ 공리주의 신조의 진화(1789~1815)",
-    "URL": "https://sootax.co.kr/5798",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5798.jpg",
     "DateAdded": "2023-08-14"
   },
   {
@@ -8459,6 +8459,17 @@
     "DateAdded": "2023-08-21"
   },
   {
+    "key": "5817",
+    "NO": "50060",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "김호동",
+    "도서명": "아틀라스 중앙유라시아사",
+    "URL": "https://sootax.co.kr/5817",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5817.jpg",
+    "DateAdded": "2023-08-28"
+  },
+  {
     "key": "5818",
     "NO": "30540",
     "구분NO": "30000",
@@ -8481,15 +8492,15 @@
     "DateAdded": "2023-08-28"
   },
   {
-    "key": "5817",
-    "NO": "50060",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "김호동",
-    "도서명": "아틀라스 중앙유라시아사",
-    "URL": "https://sootax.co.kr/5817",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5817.jpg",
-    "DateAdded": "2023-08-28"
+    "key": "5827",
+    "NO": "70610",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "유안",
+    "도서명": "회남자(상)",
+    "URL": "https://sootax.co.kr/5827",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5827.jpg",
+    "DateAdded": "2023-09-04"
   },
   {
     "key": "5828",
@@ -8500,17 +8511,6 @@
     "도서명": "신구약 중간사",
     "URL": "https://sootax.co.kr/5828",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5828.jpg",
-    "DateAdded": "2023-09-04"
-  },
-  {
-    "key": "5827",
-    "NO": "70610",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "유안",
-    "도서명": "회남자(상)",
-    "URL": "https://sootax.co.kr/5827",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5827.jpg",
     "DateAdded": "2023-09-04"
   },
   {
@@ -8580,14 +8580,14 @@
     "DateAdded": "2023-09-22"
   },
   {
-    "key": "5854",
-    "NO": "42180",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "호르헤 루이스 보르헤스",
-    "도서명": "보르헤스의 불교강의",
-    "URL": "https://sootax.co.kr/5854",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5854.jpg",
+    "key": "5852",
+    "NO": "60720",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "C. S. 루이스",
+    "도서명": "오독 ━ 문학 비평의 실험",
+    "URL": "https://sootax.co.kr/5852",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5852.jpg",
     "DateAdded": "2023-09-25"
   },
   {
@@ -8602,14 +8602,14 @@
     "DateAdded": "2023-09-25"
   },
   {
-    "key": "5852",
-    "NO": "60720",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "C. S. 루이스",
-    "도서명": "오독 ━ 문학 비평의 실험",
-    "URL": "https://sootax.co.kr/5852",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5852.jpg",
+    "key": "5854",
+    "NO": "42180",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "호르헤 루이스 보르헤스",
+    "도서명": "보르헤스의 불교강의",
+    "URL": "https://sootax.co.kr/5854",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5854.jpg",
     "DateAdded": "2023-09-25"
   },
   {
@@ -8624,17 +8624,6 @@
     "DateAdded": "2023-10-04"
   },
   {
-    "key": "5858",
-    "NO": "90440",
-    "구분NO": "90000",
-    "구분": "기타",
-    "저자": "문학수",
-    "도서명": "더 클래식 셋 ─ 말러에서 쇼스타코비치까지",
-    "URL": "https://sootax.co.kr/5858",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5858.jpg",
-    "DateAdded": "2023-10-04"
-  },
-  {
     "key": "5857",
     "NO": "90470",
     "구분NO": "90000",
@@ -8646,15 +8635,15 @@
     "DateAdded": "2023-10-04"
   },
   {
-    "key": "5865",
-    "NO": "40630",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "오언 채드윅",
-    "도서명": "종교개혁사 ─ 펭귄 교회사 시리즈 3",
-    "URL": "https://sootax.co.kr/5865",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5865.jpg",
-    "DateAdded": "2023-10-09"
+    "key": "5858",
+    "NO": "90440",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "문학수",
+    "도서명": "더 클래식 셋 ─ 말러에서 쇼스타코비치까지",
+    "URL": "https://sootax.co.kr/5858",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5858.jpg",
+    "DateAdded": "2023-10-04"
   },
   {
     "key": "5863",
@@ -8676,6 +8665,17 @@
     "도서명": "어느 아나키스트의 고백",
     "URL": "https://sootax.co.kr/5864",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5864.jpg",
+    "DateAdded": "2023-10-09"
+  },
+  {
+    "key": "5865",
+    "NO": "40630",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "오언 채드윅",
+    "도서명": "종교개혁사 ─ 펭귄 교회사 시리즈 3",
+    "URL": "https://sootax.co.kr/5865",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5865.jpg",
     "DateAdded": "2023-10-09"
   },
   {
@@ -8701,6 +8701,17 @@
     "DateAdded": "2023-10-16"
   },
   {
+    "key": "5880",
+    "NO": "40150",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "토마스 아퀴나스",
+    "도서명": "하느님의 존재 | 토마스 아퀴나스 신학대전 1",
+    "URL": "https://sootax.co.kr/5880",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5880.jpg",
+    "DateAdded": "2023-10-23"
+  },
+  {
     "key": "5881",
     "NO": "30790",
     "구분NO": "30000",
@@ -8712,15 +8723,15 @@
     "DateAdded": "2023-10-23"
   },
   {
-    "key": "5880",
-    "NO": "40150",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "토마스 아퀴나스",
-    "도서명": "하느님의 존재 | 토마스 아퀴나스 신학대전 1",
-    "URL": "https://sootax.co.kr/5880",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5880.jpg",
-    "DateAdded": "2023-10-23"
+    "key": "5894",
+    "NO": "90460",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "사이먼 샤마",
+    "도서명": "파워 오브 아트",
+    "URL": "https://sootax.co.kr/5894",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5894.jpg",
+    "DateAdded": "2023-10-30"
   },
   {
     "key": "5895",
@@ -8745,28 +8756,6 @@
     "DateAdded": "2023-10-30"
   },
   {
-    "key": "5894",
-    "NO": "90460",
-    "구분NO": "90000",
-    "구분": "기타",
-    "저자": "사이먼 샤마",
-    "도서명": "파워 오브 아트",
-    "URL": "https://sootax.co.kr/5894",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5894.jpg",
-    "DateAdded": "2023-10-30"
-  },
-  {
-    "key": "5911",
-    "NO": "40140",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "니콜라우스 쿠사누스",
-    "도서명": "다른 것이 아닌 것",
-    "URL": "https://sootax.co.kr/5911",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5911.jpg",
-    "DateAdded": "2023-11-06"
-  },
-  {
     "key": "5909",
     "NO": "80020",
     "구분NO": "80000",
@@ -8787,6 +8776,28 @@
     "URL": "https://sootax.co.kr/5910",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5910.jpg",
     "DateAdded": "2023-11-06"
+  },
+  {
+    "key": "5911",
+    "NO": "40140",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "니콜라우스 쿠사누스",
+    "도서명": "다른 것이 아닌 것",
+    "URL": "https://sootax.co.kr/5911",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5911.jpg",
+    "DateAdded": "2023-11-06"
+  },
+  {
+    "key": "5913",
+    "NO": "40100",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "아우구스티누스",
+    "도서명": "삼위일체론",
+    "URL": "https://sootax.co.kr/5913",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5913.jpg",
+    "DateAdded": "2023-11-29"
   },
   {
     "key": "5917",
@@ -8822,17 +8833,6 @@
     "DateAdded": "2023-11-13"
   },
   {
-    "key": "5931",
-    "NO": "41630",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "디오게네스 알렌",
-    "도서명": "신학을 이해하기 위한 철학",
-    "URL": "https://sootax.co.kr/5931",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5931.jpg",
-    "DateAdded": "2023-11-20"
-  },
-  {
     "key": "5929",
     "NO": "80970",
     "구분NO": "80000",
@@ -8855,15 +8855,15 @@
     "DateAdded": "2023-11-20"
   },
   {
-    "key": "5941",
-    "NO": "41610",
+    "key": "5931",
+    "NO": "41630",
     "구분NO": "40000",
     "구분": "종교",
-    "저자": "에두아르트 투르나이젠",
-    "도서명": "도스토옙스키, 지옥으로 추락하는 이들을 위한 신학",
-    "URL": "https://sootax.co.kr/5941",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5941.jpg",
-    "DateAdded": "2023-11-27"
+    "저자": "디오게네스 알렌",
+    "도서명": "신학을 이해하기 위한 철학",
+    "URL": "https://sootax.co.kr/5931",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5931.jpg",
+    "DateAdded": "2023-11-20"
   },
   {
     "key": "5939",
@@ -8888,26 +8888,15 @@
     "DateAdded": "2023-11-27"
   },
   {
-    "key": "5913",
-    "NO": "40100",
+    "key": "5941",
+    "NO": "41610",
     "구분NO": "40000",
     "구분": "종교",
-    "저자": "아우구스티누스",
-    "도서명": "삼위일체론",
-    "URL": "https://sootax.co.kr/5913",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5913.jpg",
-    "DateAdded": "2023-11-29"
-  },
-  {
-    "key": "5951",
-    "NO": "20250",
-    "구분NO": "20000",
-    "구분": "고전",
-    "저자": "마르쿠스 툴리우스 키케로",
-    "도서명": "스토아 철학의 역설",
-    "URL": "https://sootax.co.kr/5951",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5951.jpg",
-    "DateAdded": "2023-12-04"
+    "저자": "에두아르트 투르나이젠",
+    "도서명": "도스토옙스키, 지옥으로 추락하는 이들을 위한 신학",
+    "URL": "https://sootax.co.kr/5941",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5941.jpg",
+    "DateAdded": "2023-11-27"
   },
   {
     "key": "5950",
@@ -8918,6 +8907,17 @@
     "도서명": "정치학(김재홍 옮김)",
     "URL": "https://sootax.co.kr/5950",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5950.jpg",
+    "DateAdded": "2023-12-04"
+  },
+  {
+    "key": "5951",
+    "NO": "20250",
+    "구분NO": "20000",
+    "구분": "고전",
+    "저자": "마르쿠스 툴리우스 키케로",
+    "도서명": "스토아 철학의 역설",
+    "URL": "https://sootax.co.kr/5951",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5951.jpg",
     "DateAdded": "2023-12-04"
   },
   {
@@ -8954,6 +8954,28 @@
     "DateAdded": "2023-12-11"
   },
   {
+    "key": "5968",
+    "NO": "90490",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "혼다 시케치카",
+    "도서명": "그림으로 이해하는 우주과학사",
+    "URL": "https://sootax.co.kr/5968",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5968.jpg",
+    "DateAdded": "2023-12-18"
+  },
+  {
+    "key": "5969",
+    "NO": "50070",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "케네스 포메란츠",
+    "도서명": "대분기 ━ 중국과 유럽, 그리고 근대 세계 경제의 형성",
+    "URL": "https://sootax.co.kr/5969",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5969.jpg",
+    "DateAdded": "2023-12-18"
+  },
+  {
     "key": "5970",
     "NO": "20390",
     "구분NO": "20000",
@@ -8976,26 +8998,26 @@
     "DateAdded": "2023-12-18"
   },
   {
-    "key": "5969",
-    "NO": "50070",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "케네스 포메란츠",
-    "도서명": "대분기 ━ 중국과 유럽, 그리고 근대 세계 경제의 형성",
-    "URL": "https://sootax.co.kr/5969",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5969.jpg",
-    "DateAdded": "2023-12-18"
+    "key": "5977",
+    "NO": "60810",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "리처드 D. 앨틱",
+    "도서명": "빅토리아 시대의 사람들과 사상",
+    "URL": "https://sootax.co.kr/5977",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5977.jpg",
+    "DateAdded": "2023-12-22"
   },
   {
-    "key": "5968",
-    "NO": "90490",
+    "key": "5978",
+    "NO": "90420",
     "구분NO": "90000",
     "구분": "기타",
-    "저자": "혼다 시케치카",
-    "도서명": "그림으로 이해하는 우주과학사",
-    "URL": "https://sootax.co.kr/5968",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5968.jpg",
-    "DateAdded": "2023-12-18"
+    "저자": "문학수",
+    "도서명": "더 클래식 하나 ━ 바흐에서 베토벤까지",
+    "URL": "https://sootax.co.kr/5978",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5978.jpg",
+    "DateAdded": "2023-12-22"
   },
   {
     "key": "5979",
@@ -9017,28 +9039,6 @@
     "도서명": "사회사상의 흐름",
     "URL": "https://sootax.co.kr/5980",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5980.jpg",
-    "DateAdded": "2023-12-22"
-  },
-  {
-    "key": "5977",
-    "NO": "60810",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "리처드 D. 앨틱",
-    "도서명": "빅토리아 시대의 사람들과 사상",
-    "URL": "https://sootax.co.kr/5977",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5977.jpg",
-    "DateAdded": "2023-12-22"
-  },
-  {
-    "key": "5978",
-    "NO": "90420",
-    "구분NO": "90000",
-    "구분": "기타",
-    "저자": "문학수",
-    "도서명": "더 클래식 하나 ━ 바흐에서 베토벤까지",
-    "URL": "https://sootax.co.kr/5978",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/5978.jpg",
     "DateAdded": "2023-12-22"
   },
   {
@@ -9130,14 +9130,14 @@
     "DateAdded": "2024-01-15"
   },
   {
-    "key": "6006",
-    "NO": "41080",
+    "key": "6004",
+    "NO": "41110",
     "구분NO": "40000",
     "구분": "종교",
-    "저자": "볼프하르트 판넨베르크",
-    "도서명": "조직신학 서론",
-    "URL": "https://sootax.co.kr/6006",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6006.jpg",
+    "저자": "폴 E. 카페츠",
+    "도서명": "그리스도교의 신",
+    "URL": "https://sootax.co.kr/6004",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6004.jpg",
     "DateAdded": "2024-01-22"
   },
   {
@@ -9152,26 +9152,15 @@
     "DateAdded": "2024-01-22"
   },
   {
-    "key": "6004",
-    "NO": "41110",
+    "key": "6006",
+    "NO": "41080",
     "구분NO": "40000",
     "구분": "종교",
-    "저자": "폴 E. 카페츠",
-    "도서명": "그리스도교의 신",
-    "URL": "https://sootax.co.kr/6004",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6004.jpg",
+    "저자": "볼프하르트 판넨베르크",
+    "도서명": "조직신학 서론",
+    "URL": "https://sootax.co.kr/6006",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6006.jpg",
     "DateAdded": "2024-01-22"
-  },
-  {
-    "key": "6015",
-    "NO": "20520",
-    "구분NO": "20000",
-    "구분": "고전",
-    "저자": "조르조 바사리",
-    "도서명": "르네상스 미술가 평전 5",
-    "URL": "https://sootax.co.kr/6015",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6015.jpg",
-    "DateAdded": "2024-01-29"
   },
   {
     "key": "6014",
@@ -9182,6 +9171,17 @@
     "도서명": "성서 종교와 궁극적 실재 탐구 ━ 종교와 철학의 관계",
     "URL": "https://sootax.co.kr/6014",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6014.jpg",
+    "DateAdded": "2024-01-29"
+  },
+  {
+    "key": "6015",
+    "NO": "20520",
+    "구분NO": "20000",
+    "구분": "고전",
+    "저자": "조르조 바사리",
+    "도서명": "르네상스 미술가 평전 5",
+    "URL": "https://sootax.co.kr/6015",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6015.jpg",
     "DateAdded": "2024-01-29"
   },
   {
@@ -9196,14 +9196,14 @@
     "DateAdded": "2024-01-29"
   },
   {
-    "key": "6023",
-    "NO": "20200",
-    "구분NO": "20000",
-    "구분": "고전",
-    "저자": "마르쿠스 아우렐리우스",
-    "도서명": "자기 자신에게 이르는 것들",
-    "URL": "https://sootax.co.kr/6023",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6023.jpg",
+    "key": "6021",
+    "NO": "61520",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "라인하르트 코젤렉",
+    "도서명": "지나간 미래",
+    "URL": "https://sootax.co.kr/6021",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6021.jpg",
     "DateAdded": "2024-02-05"
   },
   {
@@ -9218,15 +9218,26 @@
     "DateAdded": "2024-02-05"
   },
   {
-    "key": "6021",
-    "NO": "61520",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "라인하르트 코젤렉",
-    "도서명": "지나간 미래",
-    "URL": "https://sootax.co.kr/6021",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6021.jpg",
+    "key": "6023",
+    "NO": "20200",
+    "구분NO": "20000",
+    "구분": "고전",
+    "저자": "마르쿠스 아우렐리우스",
+    "도서명": "자기 자신에게 이르는 것들",
+    "URL": "https://sootax.co.kr/6023",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6023.jpg",
     "DateAdded": "2024-02-05"
+  },
+  {
+    "key": "6025",
+    "NO": "41070",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "아돌프 폰 하르낙",
+    "도서명": "기독교 신학과 교회 교리의 형성",
+    "URL": "https://sootax.co.kr/6025",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6025.jpg",
+    "DateAdded": "2024-02-13"
   },
   {
     "key": "6026",
@@ -9262,15 +9273,15 @@
     "DateAdded": "2024-02-13"
   },
   {
-    "key": "6025",
-    "NO": "41070",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "아돌프 폰 하르낙",
-    "도서명": "기독교 신학과 교회 교리의 형성",
-    "URL": "https://sootax.co.kr/6025",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6025.jpg",
-    "DateAdded": "2024-02-13"
+    "key": "6031",
+    "NO": "20450",
+    "구분NO": "20000",
+    "구분": "고전",
+    "저자": "장 보댕",
+    "도서명": "국가에 관한 6권의 책 1 : 국가.권리.주권론",
+    "URL": "https://sootax.co.kr/6031",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6031.jpg",
+    "DateAdded": "2024-02-19"
   },
   {
     "key": "6032",
@@ -9281,17 +9292,6 @@
     "도서명": "국가론 (책세상문고)",
     "URL": "https://sootax.co.kr/6032",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6032.jpg",
-    "DateAdded": "2024-02-19"
-  },
-  {
-    "key": "6031",
-    "NO": "20450",
-    "구분NO": "20000",
-    "구분": "고전",
-    "저자": "장 보댕",
-    "도서명": "국가에 관한 6권의 책 1 : 국가.권리.주권론",
-    "URL": "https://sootax.co.kr/6031",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6031.jpg",
     "DateAdded": "2024-02-19"
   },
   {
@@ -9350,17 +9350,6 @@
     "DateAdded": "2024-03-04"
   },
   {
-    "key": "6044",
-    "NO": "60780",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "피에르 아도",
-    "도서명": "명상록 수업",
-    "URL": "https://sootax.co.kr/6044",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6044.jpg",
-    "DateAdded": "2024-03-04"
-  },
-  {
     "key": "6043",
     "NO": "61530",
     "구분NO": "60000",
@@ -9372,14 +9361,25 @@
     "DateAdded": "2024-03-04"
   },
   {
-    "key": "6051",
-    "NO": "31040",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "칼 포퍼",
-    "도서명": "歷史主義의 貧困",
-    "URL": "https://sootax.co.kr/6051",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6051.jpg",
+    "key": "6044",
+    "NO": "60780",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "피에르 아도",
+    "도서명": "명상록 수업",
+    "URL": "https://sootax.co.kr/6044",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6044.jpg",
+    "DateAdded": "2024-03-04"
+  },
+  {
+    "key": "6049",
+    "NO": "90530",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "김학이",
+    "도서명": "감정의 역사",
+    "URL": "https://sootax.co.kr/6049",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6049.jpg",
     "DateAdded": "2024-03-11"
   },
   {
@@ -9394,25 +9394,25 @@
     "DateAdded": "2024-03-11"
   },
   {
-    "key": "6049",
-    "NO": "90530",
-    "구분NO": "90000",
-    "구분": "기타",
-    "저자": "김학이",
-    "도서명": "감정의 역사",
-    "URL": "https://sootax.co.kr/6049",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6049.jpg",
+    "key": "6051",
+    "NO": "31040",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "칼 포퍼",
+    "도서명": "歷史主義의 貧困",
+    "URL": "https://sootax.co.kr/6051",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6051.jpg",
     "DateAdded": "2024-03-11"
   },
   {
-    "key": "6054",
-    "NO": "20530",
-    "구분NO": "20000",
-    "구분": "고전",
-    "저자": "에드먼드 버크",
-    "도서명": "프랑스혁명에 관한 성찰",
-    "URL": "https://sootax.co.kr/6054",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6054.jpg",
+    "key": "6052",
+    "NO": "51060",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "윌리엄 L. 샤이러",
+    "도서명": "제3제국사",
+    "URL": "https://sootax.co.kr/6052",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6052.jpg",
     "DateAdded": "2024-03-24"
   },
   {
@@ -9427,14 +9427,14 @@
     "DateAdded": "2024-03-24"
   },
   {
-    "key": "6052",
-    "NO": "51060",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "윌리엄 L. 샤이러",
-    "도서명": "제3제국사",
-    "URL": "https://sootax.co.kr/6052",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6052.jpg",
+    "key": "6054",
+    "NO": "20530",
+    "구분NO": "20000",
+    "구분": "고전",
+    "저자": "에드먼드 버크",
+    "도서명": "프랑스혁명에 관한 성찰",
+    "URL": "https://sootax.co.kr/6054",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6054.jpg",
     "DateAdded": "2024-03-24"
   },
   {
@@ -9449,6 +9449,17 @@
     "DateAdded": "2024-04-01"
   },
   {
+    "key": "6057",
+    "NO": "51080",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "존 로덴",
+    "도서명": "초기 그리스도교와 비잔틴 미술",
+    "URL": "https://sootax.co.kr/6057",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6057.jpg",
+    "DateAdded": "2024-04-01"
+  },
+  {
     "key": "6058",
     "NO": "41660",
     "구분NO": "40000",
@@ -9460,15 +9471,15 @@
     "DateAdded": "2024-04-01"
   },
   {
-    "key": "6057",
-    "NO": "51080",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "존 로덴",
-    "도서명": "초기 그리스도교와 비잔틴 미술",
-    "URL": "https://sootax.co.kr/6057",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6057.jpg",
-    "DateAdded": "2024-04-01"
+    "key": "6064",
+    "NO": "80640",
+    "구분NO": "80000",
+    "구분": "문학",
+    "저자": "찰스 디킨스",
+    "도서명": "두 도시 이야기",
+    "URL": "https://sootax.co.kr/6064",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6064.jpg",
+    "DateAdded": "2024-04-07"
   },
   {
     "key": "6065",
@@ -9493,25 +9504,14 @@
     "DateAdded": "2024-04-07"
   },
   {
-    "key": "6064",
-    "NO": "80640",
-    "구분NO": "80000",
-    "구분": "문학",
-    "저자": "찰스 디킨스",
-    "도서명": "두 도시 이야기",
-    "URL": "https://sootax.co.kr/6064",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6064.jpg",
-    "DateAdded": "2024-04-07"
-  },
-  {
-    "key": "6074",
-    "NO": "41100",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "Etienne Gilson",
-    "도서명": "God and Philosophy",
-    "URL": "https://sootax.co.kr/6074",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6074.jpg",
+    "key": "6072",
+    "NO": "90120",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "실비아 보르게시",
+    "도서명": "빈 미술사 박물관",
+    "URL": "https://sootax.co.kr/6072",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6072.jpg",
     "DateAdded": "2024-04-15"
   },
   {
@@ -9526,14 +9526,14 @@
     "DateAdded": "2024-04-15"
   },
   {
-    "key": "6072",
-    "NO": "90120",
-    "구분NO": "90000",
-    "구분": "기타",
-    "저자": "실비아 보르게시",
-    "도서명": "빈 미술사 박물관",
-    "URL": "https://sootax.co.kr/6072",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6072.jpg",
+    "key": "6074",
+    "NO": "41100",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "Etienne Gilson",
+    "도서명": "God and Philosophy",
+    "URL": "https://sootax.co.kr/6074",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6074.jpg",
     "DateAdded": "2024-04-15"
   },
   {
@@ -9548,17 +9548,6 @@
     "DateAdded": "2024-04-22"
   },
   {
-    "key": "6080",
-    "NO": "41160",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "한스 우르스 폰 발타사르",
-    "도서명": "발타사르의 구원 이야기",
-    "URL": "https://sootax.co.kr/6080",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6080.jpg",
-    "DateAdded": "2024-04-22"
-  },
-  {
     "key": "6079",
     "NO": "41170",
     "구분NO": "40000",
@@ -9570,14 +9559,25 @@
     "DateAdded": "2024-04-22"
   },
   {
-    "key": "6088",
-    "NO": "30490",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "스피노자",
-    "도서명": "신학정치론·정치학논고",
-    "URL": "https://sootax.co.kr/6088",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6088.jpg",
+    "key": "6080",
+    "NO": "41160",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "한스 우르스 폰 발타사르",
+    "도서명": "발타사르의 구원 이야기",
+    "URL": "https://sootax.co.kr/6080",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6080.jpg",
+    "DateAdded": "2024-04-22"
+  },
+  {
+    "key": "6086",
+    "NO": "71080",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "라종일",
+    "도서명": "장성택의 길 ━ 신정의 불온한 경계인",
+    "URL": "https://sootax.co.kr/6086",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6086.jpg",
     "DateAdded": "2024-04-30"
   },
   {
@@ -9592,15 +9592,26 @@
     "DateAdded": "2024-04-30"
   },
   {
-    "key": "6086",
-    "NO": "71080",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "라종일",
-    "도서명": "장성택의 길 ━ 신정의 불온한 경계인",
-    "URL": "https://sootax.co.kr/6086",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6086.jpg",
+    "key": "6088",
+    "NO": "30490",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "스피노자",
+    "도서명": "신학정치론·정치학논고",
+    "URL": "https://sootax.co.kr/6088",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6088.jpg",
     "DateAdded": "2024-04-30"
+  },
+  {
+    "key": "6095",
+    "NO": "60770",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "프리드리히 슐레겔",
+    "도서명": "그리스 시문학 연구에 관하여",
+    "URL": "https://sootax.co.kr/6095",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6095.jpg",
+    "DateAdded": "2024-05-07"
   },
   {
     "key": "6096",
@@ -9625,15 +9636,15 @@
     "DateAdded": "2024-05-07"
   },
   {
-    "key": "6095",
-    "NO": "60770",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "프리드리히 슐레겔",
-    "도서명": "그리스 시문학 연구에 관하여",
-    "URL": "https://sootax.co.kr/6095",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6095.jpg",
-    "DateAdded": "2024-05-07"
+    "key": "6105",
+    "NO": "90430",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "문학수",
+    "도서명": "더 클래식 둘 ━ 슈베르트에서 브람스까지",
+    "URL": "https://sootax.co.kr/6105",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6105.jpg",
+    "DateAdded": "2024-05-13"
   },
   {
     "key": "6106",
@@ -9655,17 +9666,6 @@
     "도서명": "단테 ━ 세속을 노래한 시인",
     "URL": "https://sootax.co.kr/6107",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6107.jpg",
-    "DateAdded": "2024-05-13"
-  },
-  {
-    "key": "6105",
-    "NO": "90430",
-    "구분NO": "90000",
-    "구분": "기타",
-    "저자": "문학수",
-    "도서명": "더 클래식 둘 ━ 슈베르트에서 브람스까지",
-    "URL": "https://sootax.co.kr/6105",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6105.jpg",
     "DateAdded": "2024-05-13"
   },
   {
@@ -9735,17 +9735,6 @@
     "DateAdded": "2024-05-27"
   },
   {
-    "key": "6126",
-    "NO": "40350",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "로버트 루이스 윌켄",
-    "도서명": "그리고 로마는 그들을 보았다",
-    "URL": "https://sootax.co.kr/6126",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6126.jpg",
-    "DateAdded": "2024-06-03"
-  },
-  {
     "key": "6125",
     "NO": "40690",
     "구분NO": "40000",
@@ -9754,6 +9743,17 @@
     "도서명": "바울과 팔레스타인 유대교 (간추린판)",
     "URL": "https://sootax.co.kr/6125",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6125.jpg",
+    "DateAdded": "2024-06-03"
+  },
+  {
+    "key": "6126",
+    "NO": "40350",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "로버트 루이스 윌켄",
+    "도서명": "그리고 로마는 그들을 보았다",
+    "URL": "https://sootax.co.kr/6126",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6126.jpg",
     "DateAdded": "2024-06-03"
   },
   {
@@ -9801,17 +9801,6 @@
     "DateAdded": "2024-06-10"
   },
   {
-    "key": "6139",
-    "NO": "50970",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "제인 버뱅크, 프레더릭 쿠퍼",
-    "도서명": "세계제국사",
-    "URL": "https://sootax.co.kr/6139",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6139.jpg",
-    "DateAdded": "2024-06-17"
-  },
-  {
     "key": "6138",
     "NO": "61500",
     "구분NO": "60000",
@@ -9820,6 +9809,17 @@
     "도서명": "왜 우리는 불평등해졌는가",
     "URL": "https://sootax.co.kr/6138",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6138.jpg",
+    "DateAdded": "2024-06-17"
+  },
+  {
+    "key": "6139",
+    "NO": "50970",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "제인 버뱅크, 프레더릭 쿠퍼",
+    "도서명": "세계제국사",
+    "URL": "https://sootax.co.kr/6139",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6139.jpg",
     "DateAdded": "2024-06-17"
   },
   {
@@ -9878,17 +9878,6 @@
     "DateAdded": "2024-07-02"
   },
   {
-    "key": "6148",
-    "NO": "50960",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "알레산드로 지로도",
-    "도서명": "철이 금보다 비쌌을 때",
-    "URL": "https://sootax.co.kr/6148",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6148.jpg",
-    "DateAdded": "2024-07-02"
-  },
-  {
     "key": "6147",
     "NO": "71050",
     "구분NO": "70000",
@@ -9897,6 +9886,17 @@
     "도서명": "손자병법 교양강의",
     "URL": "https://sootax.co.kr/6147",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6147.jpg",
+    "DateAdded": "2024-07-02"
+  },
+  {
+    "key": "6148",
+    "NO": "50960",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "알레산드로 지로도",
+    "도서명": "철이 금보다 비쌌을 때",
+    "URL": "https://sootax.co.kr/6148",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6148.jpg",
     "DateAdded": "2024-07-02"
   },
   {
@@ -9933,6 +9933,17 @@
     "DateAdded": "2024-07-09"
   },
   {
+    "key": "6155",
+    "NO": "61490",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "토니 주트,티머시 스나이더",
+    "도서명": "20세기를 생각한다",
+    "URL": "https://sootax.co.kr/6155",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6155.jpg",
+    "DateAdded": "2024-07-15"
+  },
+  {
     "key": "6156",
     "NO": "50950",
     "구분NO": "50000",
@@ -9955,15 +9966,15 @@
     "DateAdded": "2024-07-15"
   },
   {
-    "key": "6155",
-    "NO": "61490",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "토니 주트,티머시 스나이더",
-    "도서명": "20세기를 생각한다",
-    "URL": "https://sootax.co.kr/6155",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6155.jpg",
-    "DateAdded": "2024-07-15"
+    "key": "6159",
+    "NO": "70570",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "소식",
+    "도서명": "소동파 산문선",
+    "URL": "https://sootax.co.kr/6159",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6159.jpg",
+    "DateAdded": "2024-07-29"
   },
   {
     "key": "6160",
@@ -9974,17 +9985,6 @@
     "도서명": "헬레니즘 철학사",
     "URL": "https://sootax.co.kr/6160",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6160.jpg",
-    "DateAdded": "2024-07-29"
-  },
-  {
-    "key": "6159",
-    "NO": "70570",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "소식",
-    "도서명": "소동파 산문선",
-    "URL": "https://sootax.co.kr/6159",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6159.jpg",
     "DateAdded": "2024-07-29"
   },
   {
@@ -10021,6 +10021,28 @@
     "DateAdded": "2024-08-06"
   },
   {
+    "key": "6169",
+    "NO": "80532",
+    "구분NO": "80000",
+    "구분": "문학",
+    "저자": "호르헤 루이스 보르헤스",
+    "도서명": "알렙 | 보르헤스 전집 3",
+    "URL": "https://sootax.co.kr/6169",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6169.jpg",
+    "DateAdded": "2024-10-29"
+  },
+  {
+    "key": "6170",
+    "NO": "81080",
+    "구분NO": "80000",
+    "구분": "문학",
+    "저자": "버지니아 울프",
+    "도서명": "댈러웨이 부인",
+    "URL": "https://sootax.co.kr/6170",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6170.jpg",
+    "DateAdded": "2024-08-12"
+  },
+  {
     "key": "6171",
     "NO": "71140",
     "구분NO": "70000",
@@ -10043,15 +10065,15 @@
     "DateAdded": "2024-08-12"
   },
   {
-    "key": "6170",
-    "NO": "81080",
+    "key": "6175",
+    "NO": "81090",
     "구분NO": "80000",
     "구분": "문학",
-    "저자": "버지니아 울프",
-    "도서명": "댈러웨이 부인",
-    "URL": "https://sootax.co.kr/6170",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6170.jpg",
-    "DateAdded": "2024-08-12"
+    "저자": "프랜시스 호지슨 버넷",
+    "도서명": "비밀의 화원",
+    "URL": "https://sootax.co.kr/6175",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6175.jpg",
+    "DateAdded": "2024-08-20"
   },
   {
     "key": "6176",
@@ -10076,15 +10098,15 @@
     "DateAdded": "2024-08-20"
   },
   {
-    "key": "6175",
-    "NO": "81090",
-    "구분NO": "80000",
-    "구분": "문학",
-    "저자": "프랜시스 호지슨 버넷",
-    "도서명": "비밀의 화원",
-    "URL": "https://sootax.co.kr/6175",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6175.jpg",
-    "DateAdded": "2024-08-20"
+    "key": "6180",
+    "NO": "40290",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "존 도미닉 크로산",
+    "도서명": "역사적 예수",
+    "URL": "https://sootax.co.kr/6180",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6180.jpg",
+    "DateAdded": "2024-08-28"
   },
   {
     "key": "6181",
@@ -10095,17 +10117,6 @@
     "도서명": "심판대에 선 그리스도",
     "URL": "https://sootax.co.kr/6181",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6181.jpg",
-    "DateAdded": "2024-08-28"
-  },
-  {
-    "key": "6180",
-    "NO": "40290",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "존 도미닉 크로산",
-    "도서명": "역사적 예수",
-    "URL": "https://sootax.co.kr/6180",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6180.jpg",
     "DateAdded": "2024-08-28"
   },
   {
@@ -10131,17 +10142,6 @@
     "DateAdded": "2024-09-01"
   },
   {
-    "key": "6187",
-    "NO": "61570",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "마크 레빈슨",
-    "도서명": "세계 경제의 황금기는 다시 오지 않는다",
-    "URL": "https://sootax.co.kr/6187",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6187.jpg",
-    "DateAdded": "2024-09-01"
-  },
-  {
     "key": "6186",
     "NO": "90560",
     "구분NO": "90000",
@@ -10153,15 +10153,15 @@
     "DateAdded": "2024-09-01"
   },
   {
-    "key": "6195",
-    "NO": "40300",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "로드니 스타크",
-    "도서명": "기독교 승리의 발자취",
-    "URL": "https://sootax.co.kr/6195",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6195.jpg",
-    "DateAdded": "2024-09-08"
+    "key": "6187",
+    "NO": "61570",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "마크 레빈슨",
+    "도서명": "세계 경제의 황금기는 다시 오지 않는다",
+    "URL": "https://sootax.co.kr/6187",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6187.jpg",
+    "DateAdded": "2024-09-01"
   },
   {
     "key": "6193",
@@ -10186,15 +10186,15 @@
     "DateAdded": "2024-09-08"
   },
   {
-    "key": "6201",
-    "NO": "40030",
+    "key": "6195",
+    "NO": "40300",
     "구분NO": "40000",
     "구분": "종교",
-    "저자": "유스티누스",
-    "도서명": "첫째 호교론 외",
-    "URL": "https://sootax.co.kr/6201",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6201.jpg",
-    "DateAdded": "2024-09-13"
+    "저자": "로드니 스타크",
+    "도서명": "기독교 승리의 발자취",
+    "URL": "https://sootax.co.kr/6195",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6195.jpg",
+    "DateAdded": "2024-09-08"
   },
   {
     "key": "6199",
@@ -10219,14 +10219,25 @@
     "DateAdded": "2024-09-13"
   },
   {
-    "key": "6205",
-    "NO": "40930",
+    "key": "6201",
+    "NO": "40030",
     "구분NO": "40000",
     "구분": "종교",
-    "저자": "톰 라이트",
-    "도서명": "바울 평전",
-    "URL": "https://sootax.co.kr/6205",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6205.jpg",
+    "저자": "유스티누스",
+    "도서명": "첫째 호교론 외",
+    "URL": "https://sootax.co.kr/6201",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6201.jpg",
+    "DateAdded": "2024-09-13"
+  },
+  {
+    "key": "6203",
+    "NO": "51100",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "카일 하퍼",
+    "도서명": "로마의 운명 : 기후, 질병, 그리고 제국의 종말",
+    "URL": "https://sootax.co.kr/6203",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6203.jpg",
     "DateAdded": "2024-09-19"
   },
   {
@@ -10241,37 +10252,15 @@
     "DateAdded": "2024-09-19"
   },
   {
-    "key": "6203",
-    "NO": "51100",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "카일 하퍼",
-    "도서명": "로마의 운명 : 기후, 질병, 그리고 제국의 종말",
-    "URL": "https://sootax.co.kr/6203",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6203.jpg",
+    "key": "6205",
+    "NO": "40930",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "톰 라이트",
+    "도서명": "바울 평전",
+    "URL": "https://sootax.co.kr/6205",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6205.jpg",
     "DateAdded": "2024-09-19"
-  },
-  {
-    "key": "6212",
-    "NO": "61610",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "모리치오 비롤리",
-    "도서명": "공화주의",
-    "URL": "https://sootax.co.kr/6212",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6212.jpg",
-    "DateAdded": "2024-09-26"
-  },
-  {
-    "key": "6211",
-    "NO": "61620",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "애덤 셰보르스키",
-    "도서명": "민주주의, 할 수 없는 것과 할 수 있는 것",
-    "URL": "https://sootax.co.kr/6211",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6211.jpg",
-    "DateAdded": "2024-09-26"
   },
   {
     "key": "6209",
@@ -10296,6 +10285,28 @@
     "DateAdded": "2024-09-26"
   },
   {
+    "key": "6211",
+    "NO": "61620",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "애덤 셰보르스키",
+    "도서명": "민주주의, 할 수 없는 것과 할 수 있는 것",
+    "URL": "https://sootax.co.kr/6211",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6211.jpg",
+    "DateAdded": "2024-09-26"
+  },
+  {
+    "key": "6212",
+    "NO": "61610",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "모리치오 비롤리",
+    "도서명": "공화주의",
+    "URL": "https://sootax.co.kr/6212",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6212.jpg",
+    "DateAdded": "2024-09-26"
+  },
+  {
     "key": "6213",
     "NO": "60840",
     "구분NO": "60000",
@@ -10304,17 +10315,6 @@
     "도서명": "도덕과 입법의 원칙에 대한 서론",
     "URL": "https://sootax.co.kr/6213",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6213.jpg",
-    "DateAdded": "2024-10-08"
-  },
-  {
-    "key": "6215",
-    "NO": "61590",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "토머스 핸킨스",
-    "도서명": "과학과 계몽주의",
-    "URL": "https://sootax.co.kr/6215",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6215.jpg",
     "DateAdded": "2024-10-08"
   },
   {
@@ -10329,15 +10329,15 @@
     "DateAdded": "2024-10-08"
   },
   {
-    "key": "6219",
-    "NO": "30240",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "플라톤",
-    "도서명": "고르기아스 / 메넥세노스 / 이온",
-    "URL": "https://sootax.co.kr/6219",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6219.jpg",
-    "DateAdded": "2024-10-16"
+    "key": "6215",
+    "NO": "61590",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "토머스 핸킨스",
+    "도서명": "과학과 계몽주의",
+    "URL": "https://sootax.co.kr/6215",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6215.jpg",
+    "DateAdded": "2024-10-08"
   },
   {
     "key": "6217",
@@ -10359,6 +10359,17 @@
     "도서명": "화려한 군주",
     "URL": "https://sootax.co.kr/6218",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6218.jpg",
+    "DateAdded": "2024-10-16"
+  },
+  {
+    "key": "6219",
+    "NO": "30240",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "플라톤",
+    "도서명": "고르기아스 / 메넥세노스 / 이온",
+    "URL": "https://sootax.co.kr/6219",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6219.jpg",
     "DateAdded": "2024-10-16"
   },
   {
@@ -10395,14 +10406,14 @@
     "DateAdded": "2024-10-22"
   },
   {
-    "key": "6232",
-    "NO": "40020",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "오리게네스",
-    "도서명": "켈수스 반박",
-    "URL": "https://sootax.co.kr/6232",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6232.jpg",
+    "key": "6230",
+    "NO": "90540",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "칼 바르트",
+    "도서명": "볼프강 아마데우스 모차르트",
+    "URL": "https://sootax.co.kr/6230",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6230.jpg",
     "DateAdded": "2024-10-29"
   },
   {
@@ -10417,36 +10428,25 @@
     "DateAdded": "2024-10-29"
   },
   {
-    "key": "6169",
-    "NO": "80532",
-    "구분NO": "80000",
-    "구분": "문학",
-    "저자": "호르헤 루이스 보르헤스",
-    "도서명": "알렙 | 보르헤스 전집 3",
-    "URL": "https://sootax.co.kr/6169",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6169.jpg",
+    "key": "6232",
+    "NO": "40020",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "오리게네스",
+    "도서명": "켈수스 반박",
+    "URL": "https://sootax.co.kr/6232",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6232.jpg",
     "DateAdded": "2024-10-29"
   },
   {
-    "key": "6230",
-    "NO": "90540",
+    "key": "6237",
+    "NO": "90140",
     "구분NO": "90000",
     "구분": "기타",
-    "저자": "칼 바르트",
-    "도서명": "볼프강 아마데우스 모차르트",
-    "URL": "https://sootax.co.kr/6230",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6230.jpg",
-    "DateAdded": "2024-10-29"
-  },
-  {
-    "key": "6239",
-    "NO": "51090",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "메리 비어드",
-    "도서명": "로마 황제는 어떻게 살았는가",
-    "URL": "https://sootax.co.kr/6239",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6239.jpg",
+    "저자": "루시아 임펠루소",
+    "도서명": "베네치아 아카데미아 미술관",
+    "URL": "https://sootax.co.kr/6237",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6237.jpg",
     "DateAdded": "2024-11-04"
   },
   {
@@ -10461,14 +10461,14 @@
     "DateAdded": "2024-11-04"
   },
   {
-    "key": "6237",
-    "NO": "90140",
-    "구분NO": "90000",
-    "구분": "기타",
-    "저자": "루시아 임펠루소",
-    "도서명": "베네치아 아카데미아 미술관",
-    "URL": "https://sootax.co.kr/6237",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6237.jpg",
+    "key": "6239",
+    "NO": "51090",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "메리 비어드",
+    "도서명": "로마 황제는 어떻게 살았는가",
+    "URL": "https://sootax.co.kr/6239",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6239.jpg",
     "DateAdded": "2024-11-04"
   },
   {
@@ -10483,17 +10483,6 @@
     "DateAdded": "2024-11-11"
   },
   {
-    "key": "6247",
-    "NO": "71100",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "사카이 데쓰야",
-    "도서명": "근대일본의 국제질서론",
-    "URL": "https://sootax.co.kr/6247",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6247.jpg",
-    "DateAdded": "2024-11-11"
-  },
-  {
     "key": "6246",
     "NO": "81100",
     "구분NO": "80000",
@@ -10505,15 +10494,15 @@
     "DateAdded": "2024-11-11"
   },
   {
-    "key": "6251",
-    "NO": "40250",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "한스 큉",
-    "도서명": "교회란 무엇인가",
-    "URL": "https://sootax.co.kr/6251",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6251.jpg",
-    "DateAdded": "2024-11-18"
+    "key": "6247",
+    "NO": "71100",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "사카이 데쓰야",
+    "도서명": "근대일본의 국제질서론",
+    "URL": "https://sootax.co.kr/6247",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6247.jpg",
+    "DateAdded": "2024-11-11"
   },
   {
     "key": "6250",
@@ -10527,6 +10516,17 @@
     "DateAdded": "2024-11-18"
   },
   {
+    "key": "6251",
+    "NO": "40250",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "한스 큉",
+    "도서명": "교회란 무엇인가",
+    "URL": "https://sootax.co.kr/6251",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6251.jpg",
+    "DateAdded": "2024-11-18"
+  },
+  {
     "key": "6252",
     "NO": "61660",
     "구분NO": "60000",
@@ -10536,17 +10536,6 @@
     "URL": "https://sootax.co.kr/6252",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6252.jpg",
     "DateAdded": "2024-11-18"
-  },
-  {
-    "key": "6257",
-    "NO": "20280",
-    "구분NO": "20000",
-    "구분": "고전",
-    "저자": "마키아벨리",
-    "도서명": "로마사 논고",
-    "URL": "https://sootax.co.kr/6257",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6257.jpg",
-    "DateAdded": "2024-11-25"
   },
   {
     "key": "6255",
@@ -10571,15 +10560,15 @@
     "DateAdded": "2024-11-25"
   },
   {
-    "key": "6260",
-    "NO": "40240",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "프랜시스 영",
-    "도서명": "신경의 형성",
-    "URL": "https://sootax.co.kr/6260",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6260.jpg",
-    "DateAdded": "2024-12-01"
+    "key": "6257",
+    "NO": "20280",
+    "구분NO": "20000",
+    "구분": "고전",
+    "저자": "마키아벨리",
+    "도서명": "로마사 논고",
+    "URL": "https://sootax.co.kr/6257",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6257.jpg",
+    "DateAdded": "2024-11-25"
   },
   {
     "key": "6258",
@@ -10604,14 +10593,25 @@
     "DateAdded": "2024-12-01"
   },
   {
-    "key": "6264",
-    "NO": "40230",
+    "key": "6260",
+    "NO": "40240",
     "구분NO": "40000",
     "구분": "종교",
-    "저자": "존 메이엔도르프",
-    "도서명": "비잔틴 신학",
-    "URL": "https://sootax.co.kr/6264",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6264.jpg",
+    "저자": "프랜시스 영",
+    "도서명": "신경의 형성",
+    "URL": "https://sootax.co.kr/6260",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6260.jpg",
+    "DateAdded": "2024-12-01"
+  },
+  {
+    "key": "6262",
+    "NO": "71130",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "신욱희, 권헌익",
+    "도서명": "글로벌 냉전과 동아시아",
+    "URL": "https://sootax.co.kr/6262",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6262.jpg",
     "DateAdded": "2024-12-09"
   },
   {
@@ -10626,14 +10626,14 @@
     "DateAdded": "2024-12-09"
   },
   {
-    "key": "6262",
-    "NO": "71130",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "신욱희, 권헌익",
-    "도서명": "글로벌 냉전과 동아시아",
-    "URL": "https://sootax.co.kr/6262",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6262.jpg",
+    "key": "6264",
+    "NO": "40230",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "존 메이엔도르프",
+    "도서명": "비잔틴 신학",
+    "URL": "https://sootax.co.kr/6264",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6264.jpg",
     "DateAdded": "2024-12-09"
   },
   {
@@ -10714,17 +10714,6 @@
     "DateAdded": "2025-01-02"
   },
   {
-    "key": "6279",
-    "NO": "50570",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "아자 가트",
-    "도서명": "문명과 전쟁",
-    "URL": "https://sootax.co.kr/6279",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6279.jpg",
-    "DateAdded": "2025-01-02"
-  },
-  {
     "key": "6278",
     "NO": "61690",
     "구분NO": "60000",
@@ -10736,15 +10725,15 @@
     "DateAdded": "2025-01-02"
   },
   {
-    "key": "6284",
-    "NO": "40570",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "루돌프 불트만",
-    "도서명": "공관복음서 전승사",
-    "URL": "https://sootax.co.kr/6284",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6284.jpg",
-    "DateAdded": "2025-01-06"
+    "key": "6279",
+    "NO": "50570",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "아자 가트",
+    "도서명": "문명과 전쟁",
+    "URL": "https://sootax.co.kr/6279",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6279.jpg",
+    "DateAdded": "2025-01-02"
   },
   {
     "key": "6282",
@@ -10766,6 +10755,17 @@
     "도서명": "아틀라스 중국사(개정증보판)",
     "URL": "https://sootax.co.kr/6283",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6283.jpg",
+    "DateAdded": "2025-01-06"
+  },
+  {
+    "key": "6284",
+    "NO": "40570",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "루돌프 불트만",
+    "도서명": "공관복음서 전승사",
+    "URL": "https://sootax.co.kr/6284",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6284.jpg",
     "DateAdded": "2025-01-06"
   },
   {
@@ -10802,6 +10802,17 @@
     "DateAdded": "2025-01-12"
   },
   {
+    "key": "6294",
+    "NO": "80534",
+    "구분NO": "80000",
+    "구분": "문학",
+    "저자": "호르헤 루이스 보르헤스",
+    "도서명": "셰익스피어의 기억  | 보르헤스 전집 5",
+    "URL": "https://sootax.co.kr/6294",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6294.jpg",
+    "DateAdded": "2025-01-19"
+  },
+  {
     "key": "6295",
     "NO": "31070",
     "구분NO": "30000",
@@ -10822,28 +10833,6 @@
     "URL": "https://sootax.co.kr/6296",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6296.jpg",
     "DateAdded": "2025-01-19"
-  },
-  {
-    "key": "6294",
-    "NO": "80534",
-    "구분NO": "80000",
-    "구분": "문학",
-    "저자": "호르헤 루이스 보르헤스",
-    "도서명": "셰익스피어의 기억  | 보르헤스 전집 5",
-    "URL": "https://sootax.co.kr/6294",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6294.jpg",
-    "DateAdded": "2025-01-19"
-  },
-  {
-    "key": "6301",
-    "NO": "30720",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "움베르토 에코",
-    "도서명": "경이로운 철학의 역사 3",
-    "URL": "https://sootax.co.kr/6301",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6301.jpg",
-    "DateAdded": "2025-01-27"
   },
   {
     "key": "6299",
@@ -10868,6 +10857,28 @@
     "DateAdded": "2025-01-27"
   },
   {
+    "key": "6301",
+    "NO": "30720",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "움베르토 에코",
+    "도서명": "경이로운 철학의 역사 3",
+    "URL": "https://sootax.co.kr/6301",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6301.jpg",
+    "DateAdded": "2025-01-27"
+  },
+  {
+    "key": "6303",
+    "NO": "90580",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "앨린 시프턴",
+    "도서명": "비주얼 재즈",
+    "URL": "https://sootax.co.kr/6303",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6303.jpg",
+    "DateAdded": "2025-02-02"
+  },
+  {
     "key": "6304",
     "NO": "30430",
     "구분NO": "30000",
@@ -10890,17 +10901,6 @@
     "DateAdded": "2025-02-02"
   },
   {
-    "key": "6303",
-    "NO": "90580",
-    "구분NO": "90000",
-    "구분": "기타",
-    "저자": "앨린 시프턴",
-    "도서명": "비주얼 재즈",
-    "URL": "https://sootax.co.kr/6303",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6303.jpg",
-    "DateAdded": "2025-02-02"
-  },
-  {
     "key": "6310",
     "NO": "41730",
     "구분NO": "40000",
@@ -10909,6 +10909,17 @@
     "도서명": "[원서발췌] 16세기의 무신앙 문제 - 라블레의 종교",
     "URL": "https://sootax.co.kr/6310",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6310.jpg",
+    "DateAdded": "2025-02-09"
+  },
+  {
+    "key": "6311",
+    "NO": "80530",
+    "구분NO": "80000",
+    "구분": "문학",
+    "저자": "호르헤 루이스 보르헤스",
+    "도서명": "픽션들 ─ 보르헤스 전집 2",
+    "URL": "https://sootax.co.kr/6311",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6311.jpg",
     "DateAdded": "2025-02-09"
   },
   {
@@ -10923,15 +10934,15 @@
     "DateAdded": "2025-02-09"
   },
   {
-    "key": "6311",
-    "NO": "80530",
-    "구분NO": "80000",
-    "구분": "문학",
-    "저자": "호르헤 루이스 보르헤스",
-    "도서명": "픽션들 ─ 보르헤스 전집 2",
-    "URL": "https://sootax.co.kr/6311",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6311.jpg",
-    "DateAdded": "2025-02-09"
+    "key": "6318",
+    "NO": "90590",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "장병욱",
+    "도서명": "All Time Jazz 명반 가이드북",
+    "URL": "https://sootax.co.kr/6318",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6318.jpg",
+    "DateAdded": "2025-02-16"
   },
   {
     "key": "6319",
@@ -10956,17 +10967,6 @@
     "DateAdded": "2025-02-16"
   },
   {
-    "key": "6318",
-    "NO": "90590",
-    "구분NO": "90000",
-    "구분": "기타",
-    "저자": "장병욱",
-    "도서명": "All Time Jazz 명반 가이드북",
-    "URL": "https://sootax.co.kr/6318",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6318.jpg",
-    "DateAdded": "2025-02-16"
-  },
-  {
     "key": "6323",
     "NO": "30380",
     "구분NO": "30000",
@@ -10978,17 +10978,6 @@
     "DateAdded": "2025-02-23"
   },
   {
-    "key": "6325",
-    "NO": "41290",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "외르크 프라이",
-    "도서명": "요한복음과 만나다",
-    "URL": "https://sootax.co.kr/6325",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6325.jpg",
-    "DateAdded": "2025-02-23"
-  },
-  {
     "key": "6324",
     "NO": "51140",
     "구분NO": "50000",
@@ -10997,6 +10986,17 @@
     "도서명": "바이마르의 세기",
     "URL": "https://sootax.co.kr/6324",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6324.jpg",
+    "DateAdded": "2025-02-23"
+  },
+  {
+    "key": "6325",
+    "NO": "41290",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "외르크 프라이",
+    "도서명": "요한복음과 만나다",
+    "URL": "https://sootax.co.kr/6325",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6325.jpg",
     "DateAdded": "2025-02-23"
   },
   {
@@ -11033,17 +11033,6 @@
     "DateAdded": "2025-03-03"
   },
   {
-    "key": "6338",
-    "NO": "30410",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "플로티누스",
-    "도서명": "아름다움에 관하여",
-    "URL": "https://sootax.co.kr/6338",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6338.jpg",
-    "DateAdded": "2025-03-10"
-  },
-  {
     "key": "6336",
     "NO": "30960",
     "구분NO": "30000",
@@ -11066,15 +11055,15 @@
     "DateAdded": "2025-03-10"
   },
   {
-    "key": "6343",
-    "NO": "40390",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "폴 틸리히",
-    "도서명": "19-20세기 프로테스탄트 사상사",
-    "URL": "https://sootax.co.kr/6343",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6343.jpg",
-    "DateAdded": "2025-03-18"
+    "key": "6338",
+    "NO": "30410",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "플로티누스",
+    "도서명": "아름다움에 관하여",
+    "URL": "https://sootax.co.kr/6338",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6338.jpg",
+    "DateAdded": "2025-03-10"
   },
   {
     "key": "6342",
@@ -11085,6 +11074,17 @@
     "도서명": "아우구스티누스의 삼위일체론 읽기",
     "URL": "https://sootax.co.kr/6342",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6342.jpg",
+    "DateAdded": "2025-03-18"
+  },
+  {
+    "key": "6343",
+    "NO": "40390",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "폴 틸리히",
+    "도서명": "19-20세기 프로테스탄트 사상사",
+    "URL": "https://sootax.co.kr/6343",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6343.jpg",
     "DateAdded": "2025-03-18"
   },
   {
@@ -11099,6 +11099,17 @@
     "DateAdded": "2025-03-18"
   },
   {
+    "key": "6355",
+    "NO": "70612",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "유안",
+    "도서명": "회남자(하)",
+    "URL": "https://sootax.co.kr/6355",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6355.jpg",
+    "DateAdded": "2025-04-11"
+  },
+  {
     "key": "6356",
     "NO": "41800",
     "구분NO": "40000",
@@ -11110,15 +11121,15 @@
     "DateAdded": "2025-04-11"
   },
   {
-    "key": "6355",
-    "NO": "70612",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "유안",
-    "도서명": "회남자(하)",
-    "URL": "https://sootax.co.kr/6355",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6355.jpg",
-    "DateAdded": "2025-04-11"
+    "key": "6360",
+    "NO": "60800",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "소스타인 베블런",
+    "도서명": "장인 본능",
+    "URL": "https://sootax.co.kr/6360",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6360.jpg",
+    "DateAdded": "2025-04-20"
   },
   {
     "key": "6361",
@@ -11143,28 +11154,6 @@
     "DateAdded": "2025-04-20"
   },
   {
-    "key": "6360",
-    "NO": "60800",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "소스타인 베블런",
-    "도서명": "장인 본능",
-    "URL": "https://sootax.co.kr/6360",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6360.jpg",
-    "DateAdded": "2025-04-20"
-  },
-  {
-    "key": "6369",
-    "NO": "41810",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "시모다 마사히로 외",
-    "도서명": "지혜·세계·언어 - 대승불전 I | 시리즈 대승불교 4",
-    "URL": "https://sootax.co.kr/6369",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6369.jpg",
-    "DateAdded": "2025-04-28"
-  },
-  {
     "key": "6367",
     "NO": "51150",
     "구분NO": "50000",
@@ -11187,14 +11176,25 @@
     "DateAdded": "2025-04-28"
   },
   {
-    "key": "6378",
-    "NO": "31140",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "스티븐 홀게이트",
-    "도서명": "헤겔의 『정신현상학』 입문",
-    "URL": "https://sootax.co.kr/6378",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6378.jpg",
+    "key": "6369",
+    "NO": "41810",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "시모다 마사히로 외",
+    "도서명": "지혜·세계·언어 - 대승불전 I | 시리즈 대승불교 4",
+    "URL": "https://sootax.co.kr/6369",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6369.jpg",
+    "DateAdded": "2025-04-28"
+  },
+  {
+    "key": "6376",
+    "NO": "61720",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "이사야 벌린",
+    "도서명": "카를 마르크스",
+    "URL": "https://sootax.co.kr/6376",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6376.jpg",
     "DateAdded": "2025-05-11"
   },
   {
@@ -11209,26 +11209,15 @@
     "DateAdded": "2025-05-11"
   },
   {
-    "key": "6376",
-    "NO": "61720",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "이사야 벌린",
-    "도서명": "카를 마르크스",
-    "URL": "https://sootax.co.kr/6376",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6376.jpg",
-    "DateAdded": "2025-05-11"
-  },
-  {
-    "key": "6384",
-    "NO": "30570",
+    "key": "6378",
+    "NO": "31140",
     "구분NO": "30000",
     "구분": "철학",
-    "저자": "게오르그 빌헬름 프리드리히 헤겔",
-    "도서명": "종교철학",
-    "URL": "https://sootax.co.kr/6384",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6384.jpg",
-    "DateAdded": "2025-05-18"
+    "저자": "스티븐 홀게이트",
+    "도서명": "헤겔의 『정신현상학』 입문",
+    "URL": "https://sootax.co.kr/6378",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6378.jpg",
+    "DateAdded": "2025-05-11"
   },
   {
     "key": "6383",
@@ -11242,6 +11231,17 @@
     "DateAdded": "2025-05-18"
   },
   {
+    "key": "6384",
+    "NO": "30570",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "게오르그 빌헬름 프리드리히 헤겔",
+    "도서명": "종교철학",
+    "URL": "https://sootax.co.kr/6384",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6384.jpg",
+    "DateAdded": "2025-05-18"
+  },
+  {
     "key": "6385",
     "NO": "31080",
     "구분NO": "30000",
@@ -11251,6 +11251,17 @@
     "URL": "https://sootax.co.kr/6385",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6385.jpg",
     "DateAdded": "2025-05-18"
+  },
+  {
+    "key": "6390",
+    "NO": "70250",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "권내현",
+    "도서명": "노비에서 양반으로, 그 머나먼 여정",
+    "URL": "https://sootax.co.kr/6390",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6390.jpg",
+    "DateAdded": "2025-05-25"
   },
   {
     "key": "6391",
@@ -11275,25 +11286,14 @@
     "DateAdded": "2025-05-25"
   },
   {
-    "key": "6390",
-    "NO": "70250",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "권내현",
-    "도서명": "노비에서 양반으로, 그 머나먼 여정",
-    "URL": "https://sootax.co.kr/6390",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6390.jpg",
-    "DateAdded": "2025-05-25"
-  },
-  {
-    "key": "6397",
-    "NO": "20150",
-    "구분NO": "20000",
-    "구분": "고전",
-    "저자": "마르쿠스 툴리우스 키케로",
-    "도서명": "신들의 본성에 관하여",
-    "URL": "https://sootax.co.kr/6397",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6397.jpg",
+    "key": "6395",
+    "NO": "31110",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "C. 칼리슬",
+    "도서명": "키르케고르의 <공포와 전율> 입문",
+    "URL": "https://sootax.co.kr/6395",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6395.jpg",
     "DateAdded": "2025-06-01"
   },
   {
@@ -11308,15 +11308,26 @@
     "DateAdded": "2025-06-01"
   },
   {
-    "key": "6395",
-    "NO": "31110",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "C. 칼리슬",
-    "도서명": "키르케고르의 <공포와 전율> 입문",
-    "URL": "https://sootax.co.kr/6395",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6395.jpg",
+    "key": "6397",
+    "NO": "20150",
+    "구분NO": "20000",
+    "구분": "고전",
+    "저자": "마르쿠스 툴리우스 키케로",
+    "도서명": "신들의 본성에 관하여",
+    "URL": "https://sootax.co.kr/6397",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6397.jpg",
     "DateAdded": "2025-06-01"
+  },
+  {
+    "key": "6401",
+    "NO": "61730",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "로빈 디앤젤로",
+    "도서명": "백인의 취약성",
+    "URL": "https://sootax.co.kr/6401",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6401.jpg",
+    "DateAdded": "2025-06-06"
   },
   {
     "key": "6402",
@@ -11341,15 +11352,15 @@
     "DateAdded": "2025-06-06"
   },
   {
-    "key": "6401",
-    "NO": "61730",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "로빈 디앤젤로",
-    "도서명": "백인의 취약성",
-    "URL": "https://sootax.co.kr/6401",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6401.jpg",
-    "DateAdded": "2025-06-06"
+    "key": "6408",
+    "NO": "31100",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "정미라",
+    "도서명": "헤겔의 <정신현상학> 읽기",
+    "URL": "https://sootax.co.kr/6408",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6408.jpg",
+    "DateAdded": "2025-06-15"
   },
   {
     "key": "6409",
@@ -11363,17 +11374,6 @@
     "DateAdded": "2025-06-15"
   },
   {
-    "key": "6408",
-    "NO": "31100",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "정미라",
-    "도서명": "헤겔의 <정신현상학> 읽기",
-    "URL": "https://sootax.co.kr/6408",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6408.jpg",
-    "DateAdded": "2025-06-15"
-  },
-  {
     "key": "6410",
     "NO": "70240",
     "구분NO": "70000",
@@ -11383,6 +11383,17 @@
     "URL": "https://sootax.co.kr/6410",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6410.jpg",
     "DateAdded": "2025-06-15"
+  },
+  {
+    "key": "6413",
+    "NO": "41720",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "제랄드 호돈",
+    "도서명": "빌립보서",
+    "URL": "https://sootax.co.kr/6413",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6413.jpg",
+    "DateAdded": "2025-06-19"
   },
   {
     "key": "6414",
@@ -11407,25 +11418,14 @@
     "DateAdded": "2025-06-19"
   },
   {
-    "key": "6413",
-    "NO": "41720",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "제랄드 호돈",
-    "도서명": "빌립보서",
-    "URL": "https://sootax.co.kr/6413",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6413.jpg",
-    "DateAdded": "2025-06-19"
-  },
-  {
-    "key": "6435",
-    "NO": "71190",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "심규호",
-    "도서명": "연표와 사진으로 보는 중국사",
-    "URL": "https://sootax.co.kr/6435",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6435.jpg",
+    "key": "6433",
+    "NO": "81180",
+    "구분NO": "80000",
+    "구분": "문학",
+    "저자": "박상륭",
+    "도서명": "죽음의 한 연구",
+    "URL": "https://sootax.co.kr/6433",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6433.jpg",
     "DateAdded": "2025-06-29"
   },
   {
@@ -11440,25 +11440,25 @@
     "DateAdded": "2025-06-29"
   },
   {
-    "key": "6433",
-    "NO": "81180",
-    "구분NO": "80000",
-    "구분": "문학",
-    "저자": "박상륭",
-    "도서명": "죽음의 한 연구",
-    "URL": "https://sootax.co.kr/6433",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6433.jpg",
+    "key": "6435",
+    "NO": "71190",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "심규호",
+    "도서명": "연표와 사진으로 보는 중국사",
+    "URL": "https://sootax.co.kr/6435",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6435.jpg",
     "DateAdded": "2025-06-29"
   },
   {
-    "key": "6444",
-    "NO": "42340",
+    "key": "6442",
+    "NO": "42350",
     "구분NO": "40000",
     "구분": "종교",
-    "저자": "시모다 마사히로",
-    "도서명": "붓다와 정토 - 대승불전 II",
-    "URL": "https://sootax.co.kr/6444",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6444.jpg",
+    "저자": "제럴드 오콜린스",
+    "도서명": "우리는 부활한 예수를 증언한다",
+    "URL": "https://sootax.co.kr/6442",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6442.jpg",
     "DateAdded": "2025-07-06"
   },
   {
@@ -11473,25 +11473,25 @@
     "DateAdded": "2025-07-06"
   },
   {
-    "key": "6442",
-    "NO": "42350",
+    "key": "6444",
+    "NO": "42340",
     "구분NO": "40000",
     "구분": "종교",
-    "저자": "제럴드 오콜린스",
-    "도서명": "우리는 부활한 예수를 증언한다",
-    "URL": "https://sootax.co.kr/6442",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6442.jpg",
+    "저자": "시모다 마사히로",
+    "도서명": "붓다와 정토 - 대승불전 II",
+    "URL": "https://sootax.co.kr/6444",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6444.jpg",
     "DateAdded": "2025-07-06"
   },
   {
-    "key": "6447",
-    "NO": "71180",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "유지기",
-    "도서명": "사통",
-    "URL": "https://sootax.co.kr/6447",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6447.jpg",
+    "key": "6445",
+    "NO": "42330",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "앤서니 티슬턴",
+    "도서명": "성경해석학 개론",
+    "URL": "https://sootax.co.kr/6445",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6445.jpg",
     "DateAdded": "2025-07-13"
   },
   {
@@ -11506,25 +11506,25 @@
     "DateAdded": "2025-07-13"
   },
   {
-    "key": "6445",
-    "NO": "42330",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "앤서니 티슬턴",
-    "도서명": "성경해석학 개론",
-    "URL": "https://sootax.co.kr/6445",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6445.jpg",
+    "key": "6447",
+    "NO": "71180",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "유지기",
+    "도서명": "사통",
+    "URL": "https://sootax.co.kr/6447",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6447.jpg",
     "DateAdded": "2025-07-13"
   },
   {
-    "key": "6454",
-    "NO": "42320",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "피터 브라운",
-    "도서명": "마침내 그들이 로마를 바꾸어 갈 때",
-    "URL": "https://sootax.co.kr/6454",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6454.jpg",
+    "key": "6452",
+    "NO": "31180",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "게오르그 빌헬름 프리드리히 헤겔",
+    "도서명": "법철학 (베를린, 1821년)",
+    "URL": "https://sootax.co.kr/6452",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6452.jpg",
     "DateAdded": "2025-07-21"
   },
   {
@@ -11539,25 +11539,25 @@
     "DateAdded": "2025-07-21"
   },
   {
-    "key": "6452",
-    "NO": "31180",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "게오르그 빌헬름 프리드리히 헤겔",
-    "도서명": "법철학 (베를린, 1821년)",
-    "URL": "https://sootax.co.kr/6452",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6452.jpg",
+    "key": "6454",
+    "NO": "42320",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "피터 브라운",
+    "도서명": "마침내 그들이 로마를 바꾸어 갈 때",
+    "URL": "https://sootax.co.kr/6454",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6454.jpg",
     "DateAdded": "2025-07-21"
   },
   {
-    "key": "6460",
-    "NO": "42300",
+    "key": "6458",
+    "NO": "40172",
     "구분NO": "40000",
     "구분": "종교",
-    "저자": "두미트루 스터닐로에",
-    "도서명": "태초에 사랑이 있었다",
-    "URL": "https://sootax.co.kr/6460",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6460.jpg",
+    "저자": "마르틴 루터",
+    "도서명": "소교리문답&middot;해설",
+    "URL": "https://sootax.co.kr/6458",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6458.jpg",
     "DateAdded": "2025-07-27"
   },
   {
@@ -11572,25 +11572,25 @@
     "DateAdded": "2025-07-27"
   },
   {
-    "key": "6458",
-    "NO": "40172",
+    "key": "6460",
+    "NO": "42300",
     "구분NO": "40000",
     "구분": "종교",
-    "저자": "마르틴 루터",
-    "도서명": "소교리문답&middot;해설",
-    "URL": "https://sootax.co.kr/6458",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6458.jpg",
+    "저자": "두미트루 스터닐로에",
+    "도서명": "태초에 사랑이 있었다",
+    "URL": "https://sootax.co.kr/6460",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6460.jpg",
     "DateAdded": "2025-07-27"
   },
   {
-    "key": "6466",
-    "NO": "42280",
+    "key": "6464",
+    "NO": "42290",
     "구분NO": "40000",
     "구분": "종교",
-    "저자": "윌리엄 몬터",
-    "도서명": "칼빈의 제네바",
-    "URL": "https://sootax.co.kr/6466",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6466.jpg",
+    "저자": "키스 워드",
+    "도서명": "신, 우주와 인류의 궁극적 의미",
+    "URL": "https://sootax.co.kr/6464",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6464.jpg",
     "DateAdded": "2025-08-04"
   },
   {
@@ -11605,25 +11605,25 @@
     "DateAdded": "2025-08-04"
   },
   {
-    "key": "6464",
-    "NO": "42290",
+    "key": "6466",
+    "NO": "42280",
     "구분NO": "40000",
     "구분": "종교",
-    "저자": "키스 워드",
-    "도서명": "신, 우주와 인류의 궁극적 의미",
-    "URL": "https://sootax.co.kr/6464",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6464.jpg",
+    "저자": "윌리엄 몬터",
+    "도서명": "칼빈의 제네바",
+    "URL": "https://sootax.co.kr/6466",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6466.jpg",
     "DateAdded": "2025-08-04"
   },
   {
-    "key": "6472",
-    "NO": "61740",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "스티븐 그린블랫",
-    "도서명": "세계를 향한 의지",
-    "URL": "https://sootax.co.kr/6472",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6472.jpg",
+    "key": "6470",
+    "NO": "42270",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "한스 큉",
+    "도서명": "신은 존재하는가 1",
+    "URL": "https://sootax.co.kr/6470",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6470.jpg",
     "DateAdded": "2025-08-11"
   },
   {
@@ -11638,25 +11638,25 @@
     "DateAdded": "2025-08-11"
   },
   {
-    "key": "6470",
-    "NO": "42270",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "한스 큉",
-    "도서명": "신은 존재하는가 1",
-    "URL": "https://sootax.co.kr/6470",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6470.jpg",
+    "key": "6472",
+    "NO": "61740",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "스티븐 그린블랫",
+    "도서명": "세계를 향한 의지",
+    "URL": "https://sootax.co.kr/6472",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6472.jpg",
     "DateAdded": "2025-08-11"
   },
   {
-    "key": "6480",
-    "NO": "51170",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "마크 마조워",
-    "도서명": "암흑의 대륙",
-    "URL": "https://sootax.co.kr/6480",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6480.jpg",
+    "key": "6478",
+    "NO": "31160",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "임마누엘 칸트",
+    "도서명": "윤리형이상학 정초",
+    "URL": "https://sootax.co.kr/6478",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6478.jpg",
     "DateAdded": "2025-08-17"
   },
   {
@@ -11671,25 +11671,25 @@
     "DateAdded": "2025-08-17"
   },
   {
-    "key": "6478",
-    "NO": "31160",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "임마누엘 칸트",
-    "도서명": "윤리형이상학 정초",
-    "URL": "https://sootax.co.kr/6478",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6478.jpg",
+    "key": "6480",
+    "NO": "51170",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "마크 마조워",
+    "도서명": "암흑의 대륙",
+    "URL": "https://sootax.co.kr/6480",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6480.jpg",
     "DateAdded": "2025-08-17"
   },
   {
-    "key": "6490",
-    "NO": "42370",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "마크 A. 매킨토시",
-    "도서명": "신앙의 논리",
-    "URL": "https://sootax.co.kr/6490",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6490.jpg",
+    "key": "6488",
+    "NO": "31190",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "게오르그 빌헬름 프리드리히 헤겔",
+    "도서명": "엔치클로페디 ─ 제1부 논리의 학",
+    "URL": "https://sootax.co.kr/6488",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6488.jpg",
     "DateAdded": "2025-08-24"
   },
   {
@@ -11704,25 +11704,25 @@
     "DateAdded": "2025-08-24"
   },
   {
-    "key": "6488",
-    "NO": "31190",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "게오르그 빌헬름 프리드리히 헤겔",
-    "도서명": "엔치클로페디 ─ 제1부 논리의 학",
-    "URL": "https://sootax.co.kr/6488",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6488.jpg",
+    "key": "6490",
+    "NO": "42370",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "마크 A. 매킨토시",
+    "도서명": "신앙의 논리",
+    "URL": "https://sootax.co.kr/6490",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6490.jpg",
     "DateAdded": "2025-08-24"
   },
   {
-    "key": "6495",
-    "NO": "42380",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "크리스토퍼 모스",
-    "도서명": "천국을 다시 묻다",
-    "URL": "https://sootax.co.kr/6495",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6495.jpg",
+    "key": "6493",
+    "NO": "31200",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "앤드류 보위",
+    "도서명": "독일 철학 개론 ─ 칸트에서 하버마스까지",
+    "URL": "https://sootax.co.kr/6493",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6493.jpg",
     "DateAdded": "2025-08-31"
   },
   {
@@ -11737,25 +11737,25 @@
     "DateAdded": "2025-08-31"
   },
   {
-    "key": "6493",
-    "NO": "31200",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "앤드류 보위",
-    "도서명": "독일 철학 개론 ─ 칸트에서 하버마스까지",
-    "URL": "https://sootax.co.kr/6493",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6493.jpg",
+    "key": "6495",
+    "NO": "42380",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "크리스토퍼 모스",
+    "도서명": "천국을 다시 묻다",
+    "URL": "https://sootax.co.kr/6495",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6495.jpg",
     "DateAdded": "2025-08-31"
   },
   {
-    "key": "6505",
-    "NO": "90620",
-    "구분NO": "90000",
-    "구분": "기타",
-    "저자": "남무성",
-    "도서명": "재즈 잇 업! Jazz It Up! - 출간 15주년 특별 개정증보판",
-    "URL": "https://sootax.co.kr/6505",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6505.jpg",
+    "key": "6503",
+    "NO": "51180",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "이언 커쇼",
+    "도서명": "유럽 1914-1949 - 죽다 겨우 살아나다",
+    "URL": "https://sootax.co.kr/6503",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6503.jpg",
     "DateAdded": "2025-09-09"
   },
   {
@@ -11770,25 +11770,25 @@
     "DateAdded": "2025-09-09"
   },
   {
-    "key": "6503",
-    "NO": "51180",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "이언 커쇼",
-    "도서명": "유럽 1914-1949 - 죽다 겨우 살아나다",
-    "URL": "https://sootax.co.kr/6503",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6503.jpg",
+    "key": "6505",
+    "NO": "90620",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "남무성",
+    "도서명": "재즈 잇 업! Jazz It Up! - 출간 15주년 특별 개정증보판",
+    "URL": "https://sootax.co.kr/6505",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6505.jpg",
     "DateAdded": "2025-09-09"
   },
   {
-    "key": "6515",
-    "NO": "42400",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "가츠라 쇼류",
-    "도서명": "유식과 유가행",
-    "URL": "https://sootax.co.kr/6515",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6515.jpg",
+    "key": "6513",
+    "NO": "51190",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "베티나 슈탕네트",
+    "도서명": "예루살렘 이전의 아이히만",
+    "URL": "https://sootax.co.kr/6513",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6513.jpg",
     "DateAdded": "2025-09-14"
   },
   {
@@ -11803,25 +11803,25 @@
     "DateAdded": "2025-09-14"
   },
   {
-    "key": "6513",
-    "NO": "51190",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "베티나 슈탕네트",
-    "도서명": "예루살렘 이전의 아이히만",
-    "URL": "https://sootax.co.kr/6513",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6513.jpg",
+    "key": "6515",
+    "NO": "42400",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "가츠라 쇼류",
+    "도서명": "유식과 유가행",
+    "URL": "https://sootax.co.kr/6515",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6515.jpg",
     "DateAdded": "2025-09-14"
   },
   {
-    "key": "6523",
-    "NO": "42420",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "월터 윙크",
-    "도서명": "성서는 변혁이다",
-    "URL": "https://sootax.co.kr/6523",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6523.jpg",
+    "key": "6521",
+    "NO": "90630",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "조반니노 과레스키",
+    "도서명": "돈 까밀로와 못생긴 마돈나 - 신부님 우리들의 신부님 2",
+    "URL": "https://sootax.co.kr/6521",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6521.jpg",
     "DateAdded": "2025-09-22"
   },
   {
@@ -11836,25 +11836,25 @@
     "DateAdded": "2025-09-22"
   },
   {
-    "key": "6521",
-    "NO": "90630",
-    "구분NO": "90000",
-    "구분": "기타",
-    "저자": "조반니노 과레스키",
-    "도서명": "돈 까밀로와 못생긴 마돈나 - 신부님 우리들의 신부님 2",
-    "URL": "https://sootax.co.kr/6521",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6521.jpg",
+    "key": "6523",
+    "NO": "42420",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "월터 윙크",
+    "도서명": "성서는 변혁이다",
+    "URL": "https://sootax.co.kr/6523",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6523.jpg",
     "DateAdded": "2025-09-22"
   },
   {
-    "key": "6532",
-    "NO": "42430",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "신원균",
-    "도서명": "웨스트민스터 다섯 가지 표준 문서",
-    "URL": "https://sootax.co.kr/6532",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6532.jpg",
+    "key": "6530",
+    "NO": "51200",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "마이클 스티븐슨",
+    "도서명": "전쟁의 재발견",
+    "URL": "https://sootax.co.kr/6530",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6530.jpg",
     "DateAdded": "2025-09-29"
   },
   {
@@ -11869,25 +11869,25 @@
     "DateAdded": "2025-09-29"
   },
   {
-    "key": "6530",
-    "NO": "51200",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "마이클 스티븐슨",
-    "도서명": "전쟁의 재발견",
-    "URL": "https://sootax.co.kr/6530",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6530.jpg",
+    "key": "6532",
+    "NO": "42430",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "신원균",
+    "도서명": "웨스트민스터 다섯 가지 표준 문서",
+    "URL": "https://sootax.co.kr/6532",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6532.jpg",
     "DateAdded": "2025-09-29"
   },
   {
-    "key": "6541",
-    "NO": "31220",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "피오나 휴즈",
-    "도서명": "칸트의 『미적 판단력 비판』 입문",
-    "URL": "https://sootax.co.kr/6541",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6541.jpg",
+    "key": "6539",
+    "NO": "40174",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "마르틴 루터",
+    "도서명": "대교리문답",
+    "URL": "https://sootax.co.kr/6539",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6539.jpg",
     "DateAdded": "2025-10-16"
   },
   {
@@ -11902,25 +11902,25 @@
     "DateAdded": "2025-10-16"
   },
   {
-    "key": "6539",
-    "NO": "40174",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "마르틴 루터",
-    "도서명": "대교리문답",
-    "URL": "https://sootax.co.kr/6539",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6539.jpg",
+    "key": "6541",
+    "NO": "31220",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "피오나 휴즈",
+    "도서명": "칸트의 『미적 판단력 비판』 입문",
+    "URL": "https://sootax.co.kr/6541",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6541.jpg",
     "DateAdded": "2025-10-16"
   },
   {
-    "key": "6550",
-    "NO": "70482",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "사마천",
-    "도서명": "사기 서",
-    "URL": "https://sootax.co.kr/6550",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6550.jpg",
+    "key": "6548",
+    "NO": "90650",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "안동림",
+    "도서명": "이 한 장의 명반 오페라",
+    "URL": "https://sootax.co.kr/6548",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6548.jpg",
     "DateAdded": "2025-10-24"
   },
   {
@@ -11935,25 +11935,25 @@
     "DateAdded": "2025-10-24"
   },
   {
-    "key": "6548",
-    "NO": "90650",
-    "구분NO": "90000",
-    "구분": "기타",
-    "저자": "안동림",
-    "도서명": "이 한 장의 명반 오페라",
-    "URL": "https://sootax.co.kr/6548",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6548.jpg",
-    "DateAdded": "2025-10-24"
-  },
-  {
-    "key": "6558",
-    "NO": "70484",
+    "key": "6550",
+    "NO": "70482",
     "구분NO": "70000",
     "구분": "동아시아",
     "저자": "사마천",
-    "도서명": "사기 표",
-    "URL": "https://sootax.co.kr/6558",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6558.jpg",
+    "도서명": "사기 서",
+    "URL": "https://sootax.co.kr/6550",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6550.jpg",
+    "DateAdded": "2025-10-24"
+  },
+  {
+    "key": "6556",
+    "NO": "42460",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "리처드 호슬리",
+    "도서명": "바울과 로마제국",
+    "URL": "https://sootax.co.kr/6556",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6556.jpg",
     "DateAdded": "2025-10-30"
   },
   {
@@ -11968,25 +11968,25 @@
     "DateAdded": "2025-10-30"
   },
   {
-    "key": "6556",
-    "NO": "42460",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "리처드 호슬리",
-    "도서명": "바울과 로마제국",
-    "URL": "https://sootax.co.kr/6556",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6556.jpg",
+    "key": "6558",
+    "NO": "70484",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "사마천",
+    "도서명": "사기 표",
+    "URL": "https://sootax.co.kr/6558",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6558.jpg",
     "DateAdded": "2025-10-30"
   },
   {
-    "key": "6567",
-    "NO": "42470",
+    "key": "6565",
+    "NO": "42480",
     "구분NO": "40000",
     "구분": "종교",
     "저자": "마커스 J. 보그",
-    "도서명": "성서 제대로 다시 읽기",
-    "URL": "https://sootax.co.kr/6567",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6567.jpg",
+    "도서명": "마커스 보그의 고백",
+    "URL": "https://sootax.co.kr/6565",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6565.jpg",
     "DateAdded": "2025-11-07"
   },
   {
@@ -12001,25 +12001,25 @@
     "DateAdded": "2025-11-07"
   },
   {
-    "key": "6565",
-    "NO": "42480",
+    "key": "6567",
+    "NO": "42470",
     "구분NO": "40000",
     "구분": "종교",
     "저자": "마커스 J. 보그",
-    "도서명": "마커스 보그의 고백",
-    "URL": "https://sootax.co.kr/6565",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6565.jpg",
+    "도서명": "성서 제대로 다시 읽기",
+    "URL": "https://sootax.co.kr/6567",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6567.jpg",
     "DateAdded": "2025-11-07"
   },
   {
-    "key": "6575",
-    "NO": "51240",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "리처드 오버리",
-    "도서명": "피와 폐허 2",
-    "URL": "https://sootax.co.kr/6575",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6575.jpg",
+    "key": "6573",
+    "NO": "30824",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "미셸 푸코",
+    "도서명": "말과 사물",
+    "URL": "https://sootax.co.kr/6573",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6573.jpg",
     "DateAdded": "2025-11-14"
   },
   {
@@ -12034,25 +12034,25 @@
     "DateAdded": "2025-11-14"
   },
   {
-    "key": "6573",
-    "NO": "30824",
-    "구분NO": "30000",
-    "구분": "철학",
-    "저자": "미셸 푸코",
-    "도서명": "말과 사물",
-    "URL": "https://sootax.co.kr/6573",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6573.jpg",
+    "key": "6575",
+    "NO": "51240",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "리처드 오버리",
+    "도서명": "피와 폐허 2",
+    "URL": "https://sootax.co.kr/6575",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6575.jpg",
     "DateAdded": "2025-11-14"
   },
   {
-    "key": "6584",
-    "NO": "90633",
-    "구분NO": "90000",
-    "구분": "기타",
-    "저자": "조반니노 과레스키",
-    "도서명": "돈 까밀로와 뽀 강 사람들 - 신부님 우리들의 신부님 5",
-    "URL": "https://sootax.co.kr/6584",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6584.jpg",
+    "key": "6582",
+    "NO": "60882",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "막스 베버",
+    "도서명": "사회학의 기초개념",
+    "URL": "https://sootax.co.kr/6582",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6582.jpg",
     "DateAdded": "2025-11-21"
   },
   {
@@ -12067,25 +12067,25 @@
     "DateAdded": "2025-11-21"
   },
   {
-    "key": "6582",
-    "NO": "60882",
-    "구분NO": "60000",
-    "구분": "인문/사회",
-    "저자": "막스 베버",
-    "도서명": "사회학의 기초개념",
-    "URL": "https://sootax.co.kr/6582",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6582.jpg",
+    "key": "6584",
+    "NO": "90633",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "조반니노 과레스키",
+    "도서명": "돈 까밀로와 뽀 강 사람들 - 신부님 우리들의 신부님 5",
+    "URL": "https://sootax.co.kr/6584",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6584.jpg",
     "DateAdded": "2025-11-21"
   },
   {
-    "key": "6593",
-    "NO": "41746",
+    "key": "6591",
+    "NO": "40176",
     "구분NO": "40000",
     "구분": "종교",
-    "저자": "고익진",
-    "도서명": "현대한국불교의 방향",
-    "URL": "https://sootax.co.kr/6593",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6593.jpg",
+    "저자": "마르틴 루터",
+    "도서명": "마르틴 루터 95개 논제 (라한대역/해제/역주본)",
+    "URL": "https://sootax.co.kr/6591",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6591.jpg",
     "DateAdded": "2025-11-27"
   },
   {
@@ -12100,25 +12100,25 @@
     "DateAdded": "2025-11-27"
   },
   {
-    "key": "6591",
-    "NO": "40176",
+    "key": "6593",
+    "NO": "41746",
     "구분NO": "40000",
     "구분": "종교",
-    "저자": "마르틴 루터",
-    "도서명": "마르틴 루터 95개 논제 (라한대역/해제/역주본)",
-    "URL": "https://sootax.co.kr/6591",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6591.jpg",
+    "저자": "고익진",
+    "도서명": "현대한국불교의 방향",
+    "URL": "https://sootax.co.kr/6593",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6593.jpg",
     "DateAdded": "2025-11-27"
   },
   {
-    "key": "6599",
-    "NO": "20364",
-    "구분NO": "20000",
-    "구분": "고전",
-    "저자": "단테 알리기에리",
-    "도서명": "신곡 ─ 지옥·연옥·천국 / 귀스타브 도레 삽화 수록본",
-    "URL": "https://sootax.co.kr/6599",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6599.jpg",
+    "key": "6597",
+    "NO": "42520",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "랍 벨",
+    "도서명": "사랑이 이긴다 - 천국과 지옥, 그리고 지금까지 살았던 모든 인간의 운명에 관하여",
+    "URL": "https://sootax.co.kr/6597",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6597.jpg",
     "DateAdded": "2025-12-05"
   },
   {
@@ -12133,25 +12133,25 @@
     "DateAdded": "2025-12-05"
   },
   {
-    "key": "6597",
-    "NO": "42520",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "랍 벨",
-    "도서명": "사랑이 이긴다 - 천국과 지옥, 그리고 지금까지 살았던 모든 인간의 운명에 관하여",
-    "URL": "https://sootax.co.kr/6597",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6597.jpg",
+    "key": "6599",
+    "NO": "20364",
+    "구분NO": "20000",
+    "구분": "고전",
+    "저자": "단테 알리기에리",
+    "도서명": "신곡 ─ 지옥·연옥·천국 / 귀스타브 도레 삽화 수록본",
+    "URL": "https://sootax.co.kr/6599",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6599.jpg",
     "DateAdded": "2025-12-05"
   },
   {
-    "key": "6606",
-    "NO": "71240",
-    "구분NO": "70000",
-    "구분": "동아시아",
-    "저자": "후지이 다케시",
-    "도서명": "파시즘과 제3세계주의 사이에서",
-    "URL": "https://sootax.co.kr/6606",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6606.jpg",
+    "key": "6604",
+    "NO": "90634",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "조반니노 과레스키",
+    "도서명": "돈 까밀로의 양떼들 - 신부님 우리들의 신부님 6",
+    "URL": "https://sootax.co.kr/6604",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6604.jpg",
     "DateAdded": "2025-12-11"
   },
   {
@@ -12166,25 +12166,25 @@
     "DateAdded": "2025-12-11"
   },
   {
-    "key": "6604",
-    "NO": "90634",
-    "구분NO": "90000",
-    "구분": "기타",
-    "저자": "조반니노 과레스키",
-    "도서명": "돈 까밀로의 양떼들 - 신부님 우리들의 신부님 6",
-    "URL": "https://sootax.co.kr/6604",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6604.jpg",
+    "key": "6606",
+    "NO": "71240",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "후지이 다케시",
+    "도서명": "파시즘과 제3세계주의 사이에서",
+    "URL": "https://sootax.co.kr/6606",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6606.jpg",
     "DateAdded": "2025-12-11"
   },
   {
-    "key": "6612",
-    "NO": "51250",
+    "key": "6610",
+    "NO": "51260",
     "구분NO": "50000",
     "구분": "역사",
-    "저자": "니콜라스 스타가르트",
-    "도서명": "독일인의 전쟁 1939-1945",
-    "URL": "https://sootax.co.kr/6612",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6612.jpg",
+    "저자": "펠리페 페르난데스아르메스토",
+    "도서명": "생각의 역사",
+    "URL": "https://sootax.co.kr/6610",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6610.jpg",
     "DateAdded": "2025-12-18"
   },
   {
@@ -12199,25 +12199,25 @@
     "DateAdded": "2025-12-18"
   },
   {
-    "key": "6610",
-    "NO": "51260",
+    "key": "6612",
+    "NO": "51250",
     "구분NO": "50000",
     "구분": "역사",
-    "저자": "펠리페 페르난데스아르메스토",
-    "도서명": "생각의 역사",
-    "URL": "https://sootax.co.kr/6610",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6610.jpg",
+    "저자": "니콜라스 스타가르트",
+    "도서명": "독일인의 전쟁 1939-1945",
+    "URL": "https://sootax.co.kr/6612",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6612.jpg",
     "DateAdded": "2025-12-18"
   },
   {
-    "key": "6620",
-    "NO": "50024",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "이리에 아키라",
-    "도서명": "하버드-C.H.베크 세계사 : 1945 이후",
-    "URL": "https://sootax.co.kr/6620",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6620.jpg",
+    "key": "6618",
+    "NO": "42452",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "대니얼B.클린데닌",
+    "도서명": "동방 정교회 신학",
+    "URL": "https://sootax.co.kr/6618",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6618.jpg",
     "DateAdded": "2025-12-26"
   },
   {
@@ -12232,25 +12232,25 @@
     "DateAdded": "2025-12-26"
   },
   {
-    "key": "6618",
-    "NO": "42452",
-    "구분NO": "40000",
-    "구분": "종교",
-    "저자": "대니얼B.클린데닌",
-    "도서명": "동방 정교회 신학",
-    "URL": "https://sootax.co.kr/6618",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6618.jpg",
+    "key": "6620",
+    "NO": "50024",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "이리에 아키라",
+    "도서명": "하버드-C.H.베크 세계사 : 1945 이후",
+    "URL": "https://sootax.co.kr/6620",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6620.jpg",
     "DateAdded": "2025-12-26"
   },
   {
-    "key": "6625",
-    "NO": "51270",
-    "구분NO": "50000",
-    "구분": "역사",
-    "저자": "크리스토퍼 클라크",
-    "도서명": "혁명의 봄",
-    "URL": "https://sootax.co.kr/6625",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6625.jpg",
+    "key": "6623",
+    "NO": "42540",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "로버트 젠슨",
+    "도서명": "종교개혁의 표어들",
+    "URL": "https://sootax.co.kr/6623",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6623.jpg",
     "DateAdded": "2026-01-04"
   },
   {
@@ -12265,14 +12265,47 @@
     "DateAdded": "2026-01-04"
   },
   {
-    "key": "6623",
-    "NO": "42540",
+    "key": "6625",
+    "NO": "51270",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "크리스토퍼 클라크",
+    "도서명": "혁명의 봄",
+    "URL": "https://sootax.co.kr/6625",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6625.jpg",
+    "DateAdded": "2026-01-04"
+  },
+  {
+    "key": "6629",
+    "NO": "42550",
     "구분NO": "40000",
     "구분": "종교",
-    "저자": "로버트 젠슨",
-    "도서명": "종교개혁의 표어들",
-    "URL": "https://sootax.co.kr/6623",
-    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6623.jpg",
-    "DateAdded": "2026-01-04"
+    "저자": "마틴 루터",
+    "도서명": "독일 민족의 그리스도인 귀족에게 고함, 교회의 바빌론 포로에 대한 마르틴 루터의 서주, 그리스도인의 자유에 대한 논설",
+    "URL": "https://sootax.co.kr/6629",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6629.jpg",
+    "DateAdded": "2026-01-13"
+  },
+  {
+    "key": "6628",
+    "NO": "42560",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "마커스 J. 보그",
+    "도서명": "새로 만난 하느님",
+    "URL": "https://sootax.co.kr/6628",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6628.jpg",
+    "DateAdded": "2026-01-13"
+  },
+  {
+    "key": "6627",
+    "NO": "42570",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "C. 케빈 로우",
+    "도서명": "이 놀랍고도 새로운",
+    "URL": "https://sootax.co.kr/6627",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6627.jpg",
+    "DateAdded": "2026-01-13"
   }
 ]
