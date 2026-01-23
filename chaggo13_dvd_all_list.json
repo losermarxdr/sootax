@@ -1,13 +1,65 @@
 [
   {
+    "key": 1145,
+    "Genre": "Opera",
+    "Title": "Strauss: Intermezzo / Runnicles, Bengtsson, Jekal [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1145",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1145.jpg",
+    "Tags": "['Donald Runnicles', 'Maria Bengtsson', 'Philipp Jekal', 'Richard Strauss']",
+    "DateAdded": "2026-01-23"
+  },
+  {
+    "key": 1144,
+    "Genre": "Rock_Pop",
+    "Title": "Konstantin Wecker, Mercedes Sosa, Joan Baez – Three World, Three Voices, One Vision [DVD]",
+    "URL": "https://changgo13.tistory.com/1144",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1144.jpg",
+    "Tags": "['Joan Baez', 'Konstantin Wecker', 'Mercedes Sosa']",
+    "DateAdded": "2026-01-23"
+  },
+  {
+    "key": 1143,
+    "Genre": "Rock_Pop",
+    "Title": "Lee Ritenour With Special Guests – Live In Montreal [DVD]",
+    "URL": "https://changgo13.tistory.com/1143",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1143.jpg",
+    "Tags": "['Lee Ritenour']",
+    "DateAdded": "2026-01-23"
+  },
+  {
+    "key": 1142,
+    "Genre": "Classical",
+    "Title": "Tavener – Choral Ikons [DVD]",
+    "URL": "https://changgo13.tistory.com/1142",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1142.jpg",
+    "Tags": "['John Tavener']",
+    "DateAdded": "2026-01-23"
+  },
+  {
+    "key": 1141,
+    "Genre": "Rock_Pop",
+    "Title": "Tommy Emmanuel C.G.P. - Center Stage [DVD]",
+    "URL": "https://changgo13.tistory.com/1141",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1141.jpg",
+    "Tags": "['Rock_Po', 'tommy emmanuel']",
+    "DateAdded": "2026-01-23"
+  },
+  {
+    "key": 1140,
+    "Genre": "Rock_Pop",
+    "Title": "2002 Friends Folk Concert Live [DVD]",
+    "URL": "https://changgo13.tistory.com/1140",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1140.jpg",
+    "Tags": "['Rock_Po']",
+    "DateAdded": "2026-01-23"
+  },
+  {
     "key": 1139,
     "Genre": "Rock_Pop",
     "Title": "Rory Gallagher – Irish Tour 1974 [DVD]",
     "URL": "https://changgo13.tistory.com/1139",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1139.jpg",
-    "Tags": [
-      "rory gallagher"
-    ],
+    "Tags": "['rory gallagher']",
     "DateAdded": "2026-01-08"
   },
   {
@@ -16,14 +68,7 @@
     "Title": "Tchaikovsky: The Nutcracker, Op. 71 / Gergiev, Golub, Sarafanov [Blu-ray]",
     "URL": "https://changgo13.tistory.com/1138",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1138.jpg",
-    "Tags": [
-      "Anton Adasinsky",
-      "Irina Golub",
-      "Leonid Sarafanov",
-      "Mikhail Chemiakin",
-      "Tchaikovsky",
-      "Valery Gergiev"
-    ],
+    "Tags": "['Anton Adasinsky', 'Irina Golub', 'Leonid Sarafanov', 'Mikhail Chemiakin', 'Tchaikovsky', 'Valery Gergiev']",
     "DateAdded": "2026-01-08"
   },
   {
@@ -32,9 +77,7 @@
     "Title": "Supershow - The Last Great Jam Of The 60's! [DVD]",
     "URL": "https://changgo13.tistory.com/1137",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1137.jpg",
-    "Tags": [
-      "Supershow"
-    ],
+    "Tags": "['Supershow']",
     "DateAdded": "2026-01-08"
   },
   {
@@ -43,10 +86,7 @@
     "Title": "Larry Carlton, Steve Lukather Band – The Paris Concert [DVD]",
     "URL": "https://changgo13.tistory.com/1136",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1136.jpg",
-    "Tags": [
-      "Larry Carlton",
-      "Steve Lukather Band"
-    ],
+    "Tags": "['Larry Carlton', 'Steve Lukather Band']",
     "DateAdded": "2026-01-08"
   },
   {
@@ -55,9 +95,7 @@
     "Title": "Eric Clapton & Friends – In Concert (A Benefit For The Crossroads Centre At Antigua) [DVD]",
     "URL": "https://changgo13.tistory.com/1135",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1135.jpg",
-    "Tags": [
-      "Eric Clapton"
-    ],
+    "Tags": "['Eric Clapton']",
     "DateAdded": "2026-01-08"
   },
   {
@@ -66,9 +104,7 @@
     "Title": "Joe Cocker – Live At Montreux 1987 [DVD]",
     "URL": "https://changgo13.tistory.com/1134",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1134.jpg",
-    "Tags": [
-      "Joe Cocker"
-    ],
+    "Tags": "['Joe Cocker']",
     "DateAdded": "2026-01-08"
   },
   {
@@ -77,9 +113,7 @@
     "Title": "Depeche Mode – Devotional (A Performance Filmed By Anton Corbijn) [DVD]",
     "URL": "https://changgo13.tistory.com/1133",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1133.jpg",
-    "Tags": [
-      "Depeche Mode"
-    ],
+    "Tags": "['Depeche Mode']",
     "DateAdded": "2026-01-08"
   },
   {
