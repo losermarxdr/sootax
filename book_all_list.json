@@ -12307,5 +12307,38 @@
     "URL": "https://sootax.co.kr/6627",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6627.jpg",
     "DateAdded": "2026-01-13"
+  },
+  {
+    "key": "6635",
+    "NO": "31250",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "플라톤",
+    "도서명": "카르미데스",
+    "URL": "https://sootax.co.kr/6635",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6635.jpg",
+    "DateAdded": "2026-01-23"
+  },
+  {
+    "key": "6634",
+    "NO": "90700",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "구리하라 유이치로,후지이 쓰토무 - 무라카미 하루키의 100곡",
+    "도서명": "",
+    "URL": "https://sootax.co.kr/6634",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6634.jpg",
+    "DateAdded": "2026-01-23"
+  },
+  {
+    "key": "6633",
+    "NO": "90710",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "테드 지오이아",
+    "도서명": "재즈를 듣다",
+    "URL": "https://sootax.co.kr/6633",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6633.jpg",
+    "DateAdded": "2026-01-23"
   }
 ]
