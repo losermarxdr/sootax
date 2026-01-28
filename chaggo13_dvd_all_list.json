@@ -1,5 +1,86 @@
 [
   {
+    "key": 1154,
+    "Genre": "Opera",
+    "Title": "Strauss: Ariadne auf Naxos / Levine, Dessay, Voigt [DVD]",
+    "URL": "https://changgo13.tistory.com/1154",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1154.jpg",
+    "Tags": "['Deborah Voigt', 'James Levine', 'Natalie Dessay', 'Richard Strauss', 'Susanne Mentzer']",
+    "DateAdded": "2026-01-29"
+  },
+  {
+    "key": 1153,
+    "Genre": "Opera",
+    "Title": "Strauss: Der Rosenkavalier / Bychkov, Pieczonka, Kirchschlager [DVD]",
+    "URL": "https://changgo13.tistory.com/1153",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1153.jpg",
+    "Tags": "['Adrianne Pieczonka', 'Aleksandra Zamojska', 'Angelika Kirchschlager', 'Richard Strauss', 'Semyon Bychkov']",
+    "DateAdded": "2026-01-29"
+  },
+  {
+    "key": 1152,
+    "Genre": "Opera",
+    "Title": "Massenet: Manon / Fischer, Gruberova, Araiza [DVD]",
+    "URL": "https://changgo13.tistory.com/1152",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1152.jpg",
+    "Tags": "['Adam Fischer', 'Edita Gruberova', 'francisco araiza', 'massenet']",
+    "DateAdded": "2026-01-29"
+  },
+  {
+    "key": 1151,
+    "Genre": "Classical",
+    "Title": "Raphaël Pichon - Stravaganza d'Amore: The Birth of Opera at the Medici Court [DVD]",
+    "URL": "https://changgo13.tistory.com/1151",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1151.jpg",
+    "Tags": "[\"Stravaganza d'Amore\", 'raphael pichon']",
+    "DateAdded": "2026-01-29"
+  },
+  {
+    "key": 1150,
+    "Genre": "Ballets",
+    "Title": "Tchaikovsky: Gala / Semionova, Romagna, Saidakova [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1150",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1150.jpg",
+    "Tags": "['Marta Romagna', 'Nadja Saidakova', 'Polina Semionova', 'Roberto Bolle', 'Tchaikovsky']",
+    "DateAdded": "2026-01-29"
+  },
+  {
+    "key": 1149,
+    "Genre": "Rock_Pop",
+    "Title": "Alice In Chains – Music Bank - The Videos [DVD]",
+    "URL": "https://changgo13.tistory.com/1149",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1149.jpg",
+    "Tags": "['Alice In Chains']",
+    "DateAdded": "2026-01-29"
+  },
+  {
+    "key": 1148,
+    "Genre": "Rock_Pop",
+    "Title": "Cyndi Lauper – Twelve Deadly Cyns... And Then Some [DVD]",
+    "URL": "https://changgo13.tistory.com/1148",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1148.jpg",
+    "Tags": "['Cyndi Lauper']",
+    "DateAdded": "2026-01-29"
+  },
+  {
+    "key": 1147,
+    "Genre": "Rock_Pop",
+    "Title": "Duran Duran – First 11 Videos [DVD]",
+    "URL": "https://changgo13.tistory.com/1147",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1147.jpg",
+    "Tags": "['duran duran']",
+    "DateAdded": "2026-01-29"
+  },
+  {
+    "key": 1146,
+    "Genre": "Rock_Pop",
+    "Title": "Hard 'N' Heavy - Volume 1 [DVD]",
+    "URL": "https://changgo13.tistory.com/1146",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1146.jpg",
+    "Tags": "[]",
+    "DateAdded": "2026-01-29"
+  },
+  {
     "key": 1145,
     "Genre": "Opera",
     "Title": "Strauss: Intermezzo / Runnicles, Bengtsson, Jekal [Blu-ray]",
@@ -41,7 +122,7 @@
     "Title": "Tommy Emmanuel C.G.P. - Center Stage [DVD]",
     "URL": "https://changgo13.tistory.com/1141",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1141.jpg",
-    "Tags": "['Rock_Po', 'tommy emmanuel']",
+    "Tags": "['Rock_Pop', 'tommy emmanuel']",
     "DateAdded": "2026-01-23"
   },
   {
