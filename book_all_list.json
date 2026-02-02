@@ -12340,5 +12340,38 @@
     "URL": "https://sootax.co.kr/6633",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6633.jpg",
     "DateAdded": "2026-01-23"
+  },
+  {
+    "key": "6641",
+    "NO": "71250",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "한국역사연구회",
+    "도서명": "조선시대 사람들은 어떻게 살았을까 2",
+    "URL": "https://sootax.co.kr/6641",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6641.jpg",
+    "DateAdded": "2026-02-03"
+  },
+  {
+    "key": "6640",
+    "NO": "71260",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "한국역사연구회",
+    "도서명": "조선시대 사람들은 어떻게 살았을까 1",
+    "URL": "https://sootax.co.kr/6640",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6640.jpg",
+    "DateAdded": "2026-02-03"
+  },
+  {
+    "key": "6639",
+    "NO": "90720",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "조반니노 과레스키",
+    "도서명": "돈 까밀로의 작은 세상 - 신부님 우리들의 신부님 7",
+    "URL": "https://sootax.co.kr/6639",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6639.jpg",
+    "DateAdded": "2026-02-03"
   }
 ]
