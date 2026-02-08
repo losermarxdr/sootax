@@ -12373,5 +12373,38 @@
     "URL": "https://sootax.co.kr/6639",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6639.jpg",
     "DateAdded": "2026-02-03"
+  },
+  {
+    "key": "6645",
+    "NO": "42580",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "웨인 A. 믹스",
+    "도서명": "그리스도는 질문이다",
+    "URL": "https://sootax.co.kr/6645",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6645.jpg",
+    "DateAdded": "2026-02-09"
+  },
+  {
+    "key": "6644",
+    "NO": "90730",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "조반니노 과레스키",
+    "도서명": "돈 까밀로 힘 내세요 - 신부님 우리들의 신부님 8",
+    "URL": "https://sootax.co.kr/6644",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6644.jpg",
+    "DateAdded": "2026-02-09"
+  },
+  {
+    "key": "6643",
+    "NO": "31260",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "비토리오 회슬레",
+    "도서명": "독일 철학사 ─ 독일 정신은 존재하는가",
+    "URL": "https://sootax.co.kr/6643",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6643.jpg",
+    "DateAdded": "2026-02-09"
   }
 ]
