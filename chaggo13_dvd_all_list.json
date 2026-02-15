@@ -1,11 +1,87 @@
 [
   {
+    "key": 1162,
+    "Genre": "Rock_Pop",
+    "Title": "David Gilmour - Live In Gdańsk [DVD]",
+    "URL": "https://changgo13.tistory.com/1162",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1162.jpg",
+    "Tags": [
+      "David Gilmour"
+    ],
+    "DateAdded": "2026-02-15"
+  },
+  {
+    "key": 1161,
+    "Genre": "Rock_Pop",
+    "Title": "Bob Dylan - MTV Unplugged [DVD]",
+    "URL": "https://changgo13.tistory.com/1161",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1161.jpg",
+    "Tags": [
+      "Bob Dylan"
+    ],
+    "DateAdded": "2026-02-15"
+  },
+  {
+    "key": 1160,
+    "Genre": "Classical",
+    "Title": "Bernstein in Rehearsal & Performance: Shostakovich Symphony No. 1 [DVD]",
+    "URL": "https://changgo13.tistory.com/1160",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1160.jpg",
+    "Tags": [
+      "Leonard Bernstein",
+      "Shostakovich"
+    ],
+    "DateAdded": "2026-02-15"
+  },
+  {
+    "key": 1159,
+    "Genre": "Classical",
+    "Title": "Simon Rattle - Music of The 20TH Century From The Cologne Triennale [DVD]",
+    "URL": "https://changgo13.tistory.com/1159",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1159.jpg",
+    "Tags": [
+      "Simon Rattle"
+    ],
+    "DateAdded": "2026-02-15"
+  },
+  {
+    "key": 1158,
+    "Genre": "Rock_Pop",
+    "Title": "Scorpions & Berliner Philharmoniker – Moment Of Glory - Live [DVD]",
+    "URL": "https://changgo13.tistory.com/1158",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1158.jpg",
+    "Tags": [
+      "Scorpions"
+    ],
+    "DateAdded": "2026-02-15"
+  },
+  {
+    "key": 1157,
+    "Genre": "Rock_Pop",
+    "Title": "Kiss – Rock The Nation Live! [DVD]",
+    "URL": "https://changgo13.tistory.com/1157",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1157.jpg",
+    "Tags": [
+      "Kiss"
+    ],
+    "DateAdded": "2026-02-15"
+  },
+  {
+    "key": 1156,
+    "Genre": "Rock_Pop",
+    "Title": "Hard 'N' Heavy - Volume 2 [DVD]",
+    "URL": "https://changgo13.tistory.com/1156",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1156.jpg",
+    "Tags": [],
+    "DateAdded": "2026-02-15"
+  },
+  {
     "key": 1155,
     "Genre": "Rock_Pop",
     "Title": "The History of Rock and Roll [DVD]",
     "URL": "https://changgo13.tistory.com/1155",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1155.jpg",
-    "Tags": [],
+    "Tags": "[]",
     "DateAdded": "2026-02-03"
   },
   {
