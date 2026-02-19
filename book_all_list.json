@@ -12406,5 +12406,38 @@
     "URL": "https://sootax.co.kr/6643",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6643.jpg",
     "DateAdded": "2026-02-09"
+  },
+  {
+    "key": "6653",
+    "NO": "81190",
+    "구분NO": "80000",
+    "구분": "문학",
+    "저자": "알베르 카뮈",
+    "도서명": "전락",
+    "URL": "https://sootax.co.kr/6653",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6653.jpg",
+    "DateAdded": "2026-02-19"
+  },
+  {
+    "key": "6652",
+    "NO": "90740",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "안동림",
+    "도서명": "이 한 장의 명반 클래식",
+    "URL": "https://sootax.co.kr/6652",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6652.jpg",
+    "DateAdded": "2026-02-19"
+  },
+  {
+    "key": "6651",
+    "NO": "71270",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "전목",
+    "도서명": "사학명저강의",
+    "URL": "https://sootax.co.kr/6651",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6651.jpg",
+    "DateAdded": "2026-02-19"
   }
 ]
