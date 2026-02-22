@@ -12439,5 +12439,38 @@
     "URL": "https://sootax.co.kr/6651",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6651.jpg",
     "DateAdded": "2026-02-19"
+  },
+  {
+    "key": "6659",
+    "NO": "71280",
+    "구분NO": "70000",
+    "구분": "동아시아",
+    "저자": "가츠라 쇼류,이나미 마사히로",
+    "도서명": "인식론과 논리학 - 시리즈 대승불교 9",
+    "URL": "https://sootax.co.kr/6659",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6659.jpg",
+    "DateAdded": "2026-02-22"
+  },
+  {
+    "key": "6658",
+    "NO": "90750",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "조반니노 과레스키",
+    "도서명": "돈 까밀로와 지옥의 천사들 - 신부님 우리들의 신부님 9",
+    "URL": "https://sootax.co.kr/6658",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6658.jpg",
+    "DateAdded": "2026-02-22"
+  },
+  {
+    "key": "6657",
+    "NO": "81200",
+    "구분NO": "80000",
+    "구분": "문학",
+    "저자": "스티븐 그린블랫",
+    "도서명": "폭군",
+    "URL": "https://sootax.co.kr/6657",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6657.jpg",
+    "DateAdded": "2026-02-22"
   }
 ]
