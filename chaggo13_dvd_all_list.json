@@ -1,13 +1,24 @@
 [
   {
+    "key": 1163,
+    "Genre": "Classical",
+    "Title": "Mariss Jansons conducts Brahms & Janacek [DVD]",
+    "URL": "https://changgo13.tistory.com/1163",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1163.jpg",
+    "Tags": [
+      "Brahms",
+      "Janáček",
+      "Mariss Jansons"
+    ],
+    "DateAdded": "2026-02-25"
+  },
+  {
     "key": 1162,
     "Genre": "Rock_Pop",
     "Title": "David Gilmour - Live In Gdańsk [DVD]",
     "URL": "https://changgo13.tistory.com/1162",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1162.jpg",
-    "Tags": [
-      "David Gilmour"
-    ],
+    "Tags": "['David Gilmour']",
     "DateAdded": "2026-02-15"
   },
   {
@@ -16,9 +27,7 @@
     "Title": "Bob Dylan - MTV Unplugged [DVD]",
     "URL": "https://changgo13.tistory.com/1161",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1161.jpg",
-    "Tags": [
-      "Bob Dylan"
-    ],
+    "Tags": "['Bob Dylan']",
     "DateAdded": "2026-02-15"
   },
   {
@@ -27,10 +36,7 @@
     "Title": "Bernstein in Rehearsal & Performance: Shostakovich Symphony No. 1 [DVD]",
     "URL": "https://changgo13.tistory.com/1160",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1160.jpg",
-    "Tags": [
-      "Leonard Bernstein",
-      "Shostakovich"
-    ],
+    "Tags": "['Leonard Bernstein', 'Shostakovich']",
     "DateAdded": "2026-02-15"
   },
   {
@@ -39,9 +45,7 @@
     "Title": "Simon Rattle - Music of The 20TH Century From The Cologne Triennale [DVD]",
     "URL": "https://changgo13.tistory.com/1159",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1159.jpg",
-    "Tags": [
-      "Simon Rattle"
-    ],
+    "Tags": "['Simon Rattle']",
     "DateAdded": "2026-02-15"
   },
   {
@@ -50,9 +54,7 @@
     "Title": "Scorpions & Berliner Philharmoniker – Moment Of Glory - Live [DVD]",
     "URL": "https://changgo13.tistory.com/1158",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1158.jpg",
-    "Tags": [
-      "Scorpions"
-    ],
+    "Tags": "['Scorpions']",
     "DateAdded": "2026-02-15"
   },
   {
@@ -61,9 +63,7 @@
     "Title": "Kiss – Rock The Nation Live! [DVD]",
     "URL": "https://changgo13.tistory.com/1157",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1157.jpg",
-    "Tags": [
-      "Kiss"
-    ],
+    "Tags": "['Kiss']",
     "DateAdded": "2026-02-15"
   },
   {
@@ -72,7 +72,7 @@
     "Title": "Hard 'N' Heavy - Volume 2 [DVD]",
     "URL": "https://changgo13.tistory.com/1156",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1156.jpg",
-    "Tags": [],
+    "Tags": "[]",
     "DateAdded": "2026-02-15"
   },
   {
