@@ -12472,5 +12472,27 @@
     "URL": "https://sootax.co.kr/6657",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6657.jpg",
     "DateAdded": "2026-02-22"
+  },
+  {
+    "key": "6666",
+    "NO": "51280",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "데이비드 크리스천",
+    "도서명": "인류의 확산 ─ 대륙별 구석기 문화 검색 | 케임브리지 세계사 2",
+    "URL": "https://sootax.co.kr/6666",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6666.jpg",
+    "DateAdded": "2026-03-05"
+  },
+  {
+    "key": "6665",
+    "NO": "51290",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "데이비드 크리스천",
+    "도서명": "세계사의 탄생 ─ 전통과 주제와 서술 방식  | 케임브리지 세계사 1",
+    "URL": "https://sootax.co.kr/6665",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6665.jpg",
+    "DateAdded": "2026-03-05"
   }
 ]
