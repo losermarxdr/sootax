@@ -1,15 +1,77 @@
 [
   {
+    "key": 1169,
+    "Genre": "Rock_Pop",
+    "Title": "The Moody Blues - Hall Of Fame - Live From The Royal Albert Hall [DVD]",
+    "URL": "https://changgo13.tistory.com/1169",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1169.jpg",
+    "Tags": [
+      "The Moody Blues"
+    ],
+    "DateAdded": "2026-03-09"
+  },
+  {
+    "key": 1168,
+    "Genre": "Rock_Pop",
+    "Title": "B.B. King - The Jazz Channel Presents [DVD]",
+    "URL": "https://changgo13.tistory.com/1168",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1168.jpg",
+    "Tags": [
+      "B.B. King"
+    ],
+    "DateAdded": "2026-03-09"
+  },
+  {
+    "key": 1167,
+    "Genre": "Rock_Pop",
+    "Title": "Whitesnake - Live In The Still Of The Night [DVD]",
+    "URL": "https://changgo13.tistory.com/1167",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1167.jpg",
+    "Tags": [
+      "Whitesnake"
+    ],
+    "DateAdded": "2026-03-09"
+  },
+  {
+    "key": 1166,
+    "Genre": "Rock_Pop",
+    "Title": "Dio - Evil Or Divine: Live In New York City [DVD]",
+    "URL": "https://changgo13.tistory.com/1166",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1166.jpg",
+    "Tags": [
+      "DIO"
+    ],
+    "DateAdded": "2026-03-09"
+  },
+  {
+    "key": 1165,
+    "Genre": "Rock_Pop",
+    "Title": "Emerson Lake & Palmer - Inside Emerson Lake & Palmer 1970-1995 [DVD]",
+    "URL": "https://changgo13.tistory.com/1165",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1165.jpg",
+    "Tags": [
+      "Emerson Lake & Palmer"
+    ],
+    "DateAdded": "2026-03-09"
+  },
+  {
+    "key": 1164,
+    "Genre": "Rock_Pop",
+    "Title": "김광석 - 못다 한 이야기 [DVD]",
+    "URL": "https://changgo13.tistory.com/1164",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1164.jpg",
+    "Tags": [
+      "김광석"
+    ],
+    "DateAdded": "2026-03-09"
+  },
+  {
     "key": 1163,
     "Genre": "Classical",
     "Title": "Mariss Jansons conducts Brahms & Janacek [DVD]",
     "URL": "https://changgo13.tistory.com/1163",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1163.jpg",
-    "Tags": [
-      "Brahms",
-      "Janáček",
-      "Mariss Jansons"
-    ],
+    "Tags": "['Brahms', 'Janáček', 'Mariss Jansons']",
     "DateAdded": "2026-02-25"
   },
   {
