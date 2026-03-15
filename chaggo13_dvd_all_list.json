@@ -1,13 +1,165 @@
 [
   {
+    "key": 1183,
+    "Genre": "Rock_Pop",
+    "Title": "Chet Atkins – A Tribute To Chet Atkins [DVD]",
+    "URL": "https://changgo13.tistory.com/1183",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1183.jpg",
+    "Tags": [
+      "Chet Atkins"
+    ],
+    "DateAdded": "2026-03-16"
+  },
+  {
+    "key": 1182,
+    "Genre": "Rock_Pop",
+    "Title": "Bachman & Turner – Live At The Roseland Ballroom, NYC [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1182",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1182.jpg",
+    "Tags": [
+      "Bachman & Turner"
+    ],
+    "DateAdded": "2026-03-16"
+  },
+  {
+    "key": 1181,
+    "Genre": "Rock_Pop",
+    "Title": "Todd Rundgren – Live In San Francisco [DVD]",
+    "URL": "https://changgo13.tistory.com/1181",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1181.jpg",
+    "Tags": [
+      "Todd Rundgre"
+    ],
+    "DateAdded": "2026-03-16"
+  },
+  {
+    "key": 1180,
+    "Genre": "Rock_Pop",
+    "Title": "The Jeff Healey Band – Live At Montreux 1999 [DVD]",
+    "URL": "https://changgo13.tistory.com/1180",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1180.jpg",
+    "Tags": [
+      "The Jeff Healey Band"
+    ],
+    "DateAdded": "2026-03-16"
+  },
+  {
+    "key": 1179,
+    "Genre": "Rock_Pop",
+    "Title": "South Africa Freedom Day -  Concert On The Square [DVD]",
+    "URL": "https://changgo13.tistory.com/1179",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1179.jpg",
+    "Tags": [
+      "South Africa Freedom Day"
+    ],
+    "DateAdded": "2026-03-16"
+  },
+  {
+    "key": 1178,
+    "Genre": "Rock_Pop",
+    "Title": "Richard Thompson Band – Live At Celtic Connections [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1178",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1178.jpg",
+    "Tags": [
+      "Richard Thompson Band"
+    ],
+    "DateAdded": "2026-03-16"
+  },
+  {
+    "key": 1177,
+    "Genre": "Rock_Pop",
+    "Title": "Queen - The Freddie Mercury Tribute Concert [DVD]",
+    "URL": "https://changgo13.tistory.com/1177",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1177.jpg",
+    "Tags": [
+      "Queen"
+    ],
+    "DateAdded": "2026-03-16"
+  },
+  {
+    "key": 1176,
+    "Genre": "Rock_Pop",
+    "Title": "Paul McCartney – Paul McCartney Concert [DVD]",
+    "URL": "https://changgo13.tistory.com/1176",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1176.jpg",
+    "Tags": [
+      "paul mccartney"
+    ],
+    "DateAdded": "2026-03-16"
+  },
+  {
+    "key": 1175,
+    "Genre": "Jazz_Blues",
+    "Title": "Kenny Rankin – The Jazz Channel Presents Kenny Rankin [DVD]",
+    "URL": "https://changgo13.tistory.com/1175",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1175.jpg",
+    "Tags": [
+      "Kenny Rankin"
+    ],
+    "DateAdded": "2026-03-16"
+  },
+  {
+    "key": 1174,
+    "Genre": "Rock_Pop",
+    "Title": "Nana Mouskouri  – Nana Swings: Live At Jazzopen Festival [DVD]",
+    "URL": "https://changgo13.tistory.com/1174",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1174.jpg",
+    "Tags": [
+      "Nana Mouskouri"
+    ],
+    "DateAdded": "2026-03-16"
+  },
+  {
+    "key": 1173,
+    "Genre": "Rock_Pop",
+    "Title": "Jeff Beck – Rock 'n' Roll Party: Honoring Les Paul [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1173",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1173.jpg",
+    "Tags": [
+      "Jeff Beck"
+    ],
+    "DateAdded": "2026-03-16"
+  },
+  {
+    "key": 1172,
+    "Genre": "Classical",
+    "Title": "Ennio Morricone – Arena Concerto [DVD]",
+    "URL": "https://changgo13.tistory.com/1172",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1172.jpg",
+    "Tags": [
+      "Ennio Morricone"
+    ],
+    "DateAdded": "2026-03-16"
+  },
+  {
+    "key": 1171,
+    "Genre": "Jazz_Blues",
+    "Title": "Don Henley – Live: Inside Job [DVD]",
+    "URL": "https://changgo13.tistory.com/1171",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1171.jpg",
+    "Tags": [
+      "Don Henley"
+    ],
+    "DateAdded": "2026-03-16"
+  },
+  {
+    "key": 1170,
+    "Genre": "Jazz_Blues",
+    "Title": "Curtis Mayfield – Live At Montreux 1987 [DVD]",
+    "URL": "https://changgo13.tistory.com/1170",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1170.jpg",
+    "Tags": [
+      "Curtis Mayfield"
+    ],
+    "DateAdded": "2026-03-16"
+  },
+  {
     "key": 1169,
     "Genre": "Rock_Pop",
     "Title": "The Moody Blues - Hall Of Fame - Live From The Royal Albert Hall [DVD]",
     "URL": "https://changgo13.tistory.com/1169",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1169.jpg",
-    "Tags": [
-      "The Moody Blues"
-    ],
+    "Tags": "['The Moody Blues']",
     "DateAdded": "2026-03-09"
   },
   {
@@ -16,9 +168,7 @@
     "Title": "B.B. King - The Jazz Channel Presents [DVD]",
     "URL": "https://changgo13.tistory.com/1168",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1168.jpg",
-    "Tags": [
-      "B.B. King"
-    ],
+    "Tags": "['B.B. King']",
     "DateAdded": "2026-03-09"
   },
   {
@@ -27,9 +177,7 @@
     "Title": "Whitesnake - Live In The Still Of The Night [DVD]",
     "URL": "https://changgo13.tistory.com/1167",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1167.jpg",
-    "Tags": [
-      "Whitesnake"
-    ],
+    "Tags": "['Whitesnake']",
     "DateAdded": "2026-03-09"
   },
   {
@@ -38,9 +186,7 @@
     "Title": "Dio - Evil Or Divine: Live In New York City [DVD]",
     "URL": "https://changgo13.tistory.com/1166",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1166.jpg",
-    "Tags": [
-      "DIO"
-    ],
+    "Tags": "['DIO']",
     "DateAdded": "2026-03-09"
   },
   {
@@ -49,9 +195,7 @@
     "Title": "Emerson Lake & Palmer - Inside Emerson Lake & Palmer 1970-1995 [DVD]",
     "URL": "https://changgo13.tistory.com/1165",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1165.jpg",
-    "Tags": [
-      "Emerson Lake & Palmer"
-    ],
+    "Tags": "['Emerson Lake & Palmer']",
     "DateAdded": "2026-03-09"
   },
   {
@@ -60,9 +204,7 @@
     "Title": "김광석 - 못다 한 이야기 [DVD]",
     "URL": "https://changgo13.tistory.com/1164",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1164.jpg",
-    "Tags": [
-      "김광석"
-    ],
+    "Tags": "['김광석']",
     "DateAdded": "2026-03-09"
   },
   {
