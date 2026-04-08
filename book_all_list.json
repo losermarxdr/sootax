@@ -12494,5 +12494,27 @@
     "URL": "https://sootax.co.kr/6665",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6665.jpg",
     "DateAdded": "2026-03-05"
+  },
+  {
+    "key": "6674",
+    "NO": "51300",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "마리아 팔라 외",
+    "도서명": "농업과 세계사 1 - 대륙별 구석기 문화 | 케임브리지 세계사 3",
+    "URL": "https://sootax.co.kr/6674",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6674.jpg",
+    "DateAdded": "2026-04-09"
+  },
+  {
+    "key": "6673",
+    "NO": "61760",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "메리 더글러스",
+    "도서명": "자연 상징",
+    "URL": "https://sootax.co.kr/6673",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6673.jpg",
+    "DateAdded": "2026-04-09"
   }
 ]
