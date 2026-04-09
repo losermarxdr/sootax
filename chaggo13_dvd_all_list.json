@@ -1,5 +1,113 @@
 [
   {
+    "key": 1205,
+    "Genre": "Jazz_Blues",
+    "Title": "Herbie Hancock - The Jazz Channel Presents Herbie Hancock [DVD]",
+    "URL": "https://changgo13.tistory.com/1205",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1205.jpg",
+    "Tags": "['Herbie Hancock']",
+    "DateAdded": "2026-04-10"
+  },
+  {
+    "key": 1204,
+    "Genre": "Jazz_Blues",
+    "Title": "Grover Washington, Jr. - Standing Room Only [DVD]",
+    "URL": "https://changgo13.tistory.com/1204",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1204.jpg",
+    "Tags": "['Grover Washington Jr']",
+    "DateAdded": "2026-04-10"
+  },
+  {
+    "key": 1203,
+    "Genre": "Rock_Pop",
+    "Title": "Glen Campbell - In Concert [DVD]",
+    "URL": "https://changgo13.tistory.com/1203",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1203.jpg",
+    "Tags": "['Glen Campbell']",
+    "DateAdded": "2026-04-10"
+  },
+  {
+    "key": 1202,
+    "Genre": "Jazz_Blues",
+    "Title": "Chaka Khan - The Jazz Channel Presents Chaka Khan [DVD]",
+    "URL": "https://changgo13.tistory.com/1202",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1202.jpg",
+    "Tags": "['Chaka Khan']",
+    "DateAdded": "2026-04-10"
+  },
+  {
+    "key": 1201,
+    "Genre": "Jazz_Blues",
+    "Title": "Brenda Russell - The Jazz Channel Presents Brenda Russell [DVD]",
+    "URL": "https://changgo13.tistory.com/1201",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1201.jpg",
+    "Tags": "['Brenda Russell']",
+    "DateAdded": "2026-04-10"
+  },
+  {
+    "key": 1200,
+    "Genre": "Rock_Pop",
+    "Title": "Wham! – The Final [DVD]",
+    "URL": "https://changgo13.tistory.com/1200",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1200.jpg",
+    "Tags": "['WHAM']",
+    "DateAdded": "2026-04-10"
+  },
+  {
+    "key": 1199,
+    "Genre": "Rock_Pop",
+    "Title": "The Knack - Live From The Rock N Roll Fun House [DVD]",
+    "URL": "https://changgo13.tistory.com/1199",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1199.jpg",
+    "Tags": "['The Knack']",
+    "DateAdded": "2026-04-10"
+  },
+  {
+    "key": 1198,
+    "Genre": "Rock_Pop",
+    "Title": "UFO - Showtime [DVD]",
+    "URL": "https://changgo13.tistory.com/1198",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1198.jpg",
+    "Tags": "['UFO']",
+    "DateAdded": "2026-04-10"
+  },
+  {
+    "key": 1197,
+    "Genre": "Ballets",
+    "Title": "Moon Water: Cloud Gate Dance Theater [DVD]",
+    "URL": "https://changgo13.tistory.com/1197",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1197.jpg",
+    "Tags": "['Mischa Maisky', 'Moon Water']",
+    "DateAdded": "2026-04-10"
+  },
+  {
+    "key": 1196,
+    "Genre": "Rock_Pop",
+    "Title": "Paul McCartney & Friends - The PeTA Concert For Party Animals [DVD]",
+    "URL": "https://changgo13.tistory.com/1196",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1196.jpg",
+    "Tags": "['paul mccartney']",
+    "DateAdded": "2026-04-10"
+  },
+  {
+    "key": 1195,
+    "Genre": "Jazz_Blues",
+    "Title": "Jeffrey Osborne - The Jazz Channel Presents Jeffrey Osborne [DVD]",
+    "URL": "https://changgo13.tistory.com/1195",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1195.jpg",
+    "Tags": "['Jeffrey Osborne']",
+    "DateAdded": "2026-04-10"
+  },
+  {
+    "key": 1194,
+    "Genre": "Rock_Pop",
+    "Title": "Juvenile & UTP - Live from St. Louis [DVD]",
+    "URL": "https://changgo13.tistory.com/1194",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1194.jpg",
+    "Tags": "['Juvenile', 'utp']",
+    "DateAdded": "2026-04-10"
+  },
+  {
     "key": 1193,
     "Genre": "Rock_Pop",
     "Title": "Billy Squier - Live In The Dark [DVD]",
