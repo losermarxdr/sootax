@@ -12516,5 +12516,38 @@
     "URL": "https://sootax.co.kr/6673",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6673.jpg",
     "DateAdded": "2026-04-09"
+  },
+  {
+    "key": "6678",
+    "NO": "42590",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "찰스 윌리엄스",
+    "도서명": "그가 하늘에서 내려오셨다",
+    "URL": "https://sootax.co.kr/6678",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6678.jpg",
+    "DateAdded": "2026-04-13"
+  },
+  {
+    "key": "6677",
+    "NO": "42600",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "로완 윌리엄스",
+    "도서명": "그리스도교",
+    "URL": "https://sootax.co.kr/6677",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6677.jpg",
+    "DateAdded": "2026-04-13"
+  },
+  {
+    "key": "6676",
+    "NO": "42610",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "로완 윌리엄스",
+    "도서명": "상처 입은 앎",
+    "URL": "https://sootax.co.kr/6676",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6676.jpg",
+    "DateAdded": "2026-04-13"
   }
 ]
