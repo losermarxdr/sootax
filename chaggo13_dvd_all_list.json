@@ -1,13 +1,56 @@
 [
   {
+    "key": 1220,
+    "Genre": "Opera",
+    "Title": "Handel: Agrippina / Hengelbrock, Bardon, Arditti [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1220",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1220.jpg",
+    "Tags": [
+      "Danielle de Niese",
+      "Handel",
+      "Jake Arditti",
+      "Patricia Bardon",
+      "Thomas Hengelbrock"
+    ],
+    "DateAdded": "2026-04-15"
+  },
+  {
+    "key": 1219,
+    "Genre": "Opera",
+    "Title": "Hans Abrahamsen: The Snow Queen / Meister, Hannigan, Wilson [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1219",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1219.jpg",
+    "Tags": [
+      "Barbara Hannigan",
+      "Cornelius Meister",
+      "Hans Abrahamsen",
+      "Katarina Dalayman",
+      "Rachael Wilson"
+    ],
+    "DateAdded": "2026-04-15"
+  },
+  {
+    "key": 1218,
+    "Genre": "Opera",
+    "Title": "Zandonai: Francesca Da Rimini / Barbacini, Dessi, Mastromarino [DVD]",
+    "URL": "https://changgo13.tistory.com/1218",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1218.jpg",
+    "Tags": [
+      "Alberto Mastromarino",
+      "Daniela Dessi",
+      "Fabio Armiliato",
+      "Maurizio Barbacini",
+      "Zandonai"
+    ],
+    "DateAdded": "2026-04-15"
+  },
+  {
     "key": 1217,
     "Genre": "Rock_Pop",
     "Title": "Juice Newton - Every Road Leads Back To You [DVD]",
     "URL": "https://changgo13.tistory.com/1217",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1217.jpg",
-    "Tags": [
-      "Juice Newton"
-    ],
+    "Tags": "['Juice Newton']",
     "DateAdded": "2026-04-15"
   },
   {
@@ -16,9 +59,7 @@
     "Title": "John Fogerty - Premonition [DVD]",
     "URL": "https://changgo13.tistory.com/1216",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1216.jpg",
-    "Tags": [
-      "John Fogerty"
-    ],
+    "Tags": "['John Fogerty']",
     "DateAdded": "2026-04-15"
   },
   {
@@ -27,9 +68,7 @@
     "Title": "Fred Hughes - Fred Hughes Jazz Trio [DVD]",
     "URL": "https://changgo13.tistory.com/1215",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1215.jpg",
-    "Tags": [
-      "Fred Hughes"
-    ],
+    "Tags": "['Fred Hughes']",
     "DateAdded": "2026-04-15"
   },
   {
@@ -38,9 +77,7 @@
     "Title": "Coheed And Cambria - Live At The Starland Ballroom [DVD]",
     "URL": "https://changgo13.tistory.com/1214",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1214.jpg",
-    "Tags": [
-      "Coheed And Cambria"
-    ],
+    "Tags": "['Coheed And Cambria']",
     "DateAdded": "2026-04-15"
   },
   {
@@ -49,9 +86,7 @@
     "Title": "British Rock Symphony – A Musical Tribute To The Rolling Stones, The Beatles, The Who, Led Zeppelin And Others...  [DVD]",
     "URL": "https://changgo13.tistory.com/1213",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1213.jpg",
-    "Tags": [
-      "British Rock Symphony"
-    ],
+    "Tags": "['British Rock Symphony']",
     "DateAdded": "2026-04-15"
   },
   {
@@ -60,9 +95,7 @@
     "Title": "Boz Scaggs - Greatest Hits Live [DVD]",
     "URL": "https://changgo13.tistory.com/1212",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1212.jpg",
-    "Tags": [
-      "Boz Scaggs"
-    ],
+    "Tags": "['Boz Scaggs']",
     "DateAdded": "2026-04-15"
   },
   {
@@ -71,9 +104,7 @@
     "Title": "The Allman Brothers Band - Live At Great Woods [DVD]",
     "URL": "https://changgo13.tistory.com/1211",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1211.jpg",
-    "Tags": [
-      "The Allman Brothers Band"
-    ],
+    "Tags": "['The Allman Brothers Band']",
     "DateAdded": "2026-04-15"
   },
   {
@@ -82,9 +113,7 @@
     "Title": "The Rolling Stones - Ladies & Gentlemen [DVD]",
     "URL": "https://changgo13.tistory.com/1210",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1210.jpg",
-    "Tags": [
-      "The Rolling Stones"
-    ],
+    "Tags": "['The Rolling Stones']",
     "DateAdded": "2026-04-15"
   },
   {
@@ -93,9 +122,7 @@
     "Title": "Rage Against The Machine - Rage Against The Machine [DVD]",
     "URL": "https://changgo13.tistory.com/1209",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1209.jpg",
-    "Tags": [
-      "Rage Against The Machine"
-    ],
+    "Tags": "['Rage Against The Machine']",
     "DateAdded": "2026-04-15"
   },
   {
@@ -104,9 +131,7 @@
     "Title": "Puddle Of Mudd - Striking That Familiar Chord [DVD]",
     "URL": "https://changgo13.tistory.com/1208",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1208.jpg",
-    "Tags": [
-      "Puddle Of Mudd"
-    ],
+    "Tags": "['Puddle Of Mudd']",
     "DateAdded": "2026-04-15"
   },
   {
@@ -115,7 +140,7 @@
     "Title": "Lightning In A Bottle - A One Night History Of The Blues [DVD]",
     "URL": "https://changgo13.tistory.com/1207",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1207.jpg",
-    "Tags": [],
+    "Tags": "[]",
     "DateAdded": "2026-04-15"
   },
   {
@@ -124,9 +149,7 @@
     "Title": "Peter Frampton - Live In Detroit [DVD]",
     "URL": "https://changgo13.tistory.com/1206",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1206.jpg",
-    "Tags": [
-      "Peter Frampton"
-    ],
+    "Tags": "['Peter Frampton']",
     "DateAdded": "2026-04-15"
   },
   {
