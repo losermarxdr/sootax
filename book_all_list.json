@@ -12549,5 +12549,38 @@
     "URL": "https://sootax.co.kr/6676",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6676.jpg",
     "DateAdded": "2026-04-13"
+  },
+  {
+    "key": "6682",
+    "NO": "42620",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "존 로크",
+    "도서명": "성서를 통해 본 기독교의 이치",
+    "URL": "https://sootax.co.kr/6682",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6682.jpg",
+    "DateAdded": "2026-04-19"
+  },
+  {
+    "key": "6681",
+    "NO": "61770",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "존 로크",
+    "도서명": "관용에 관한 편지",
+    "URL": "https://sootax.co.kr/6681",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6681.jpg",
+    "DateAdded": "2026-04-19"
+  },
+  {
+    "key": "6680",
+    "NO": "42630",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "야로슬라프 펠리칸",
+    "도서명": "예수, 역사와 만나다",
+    "URL": "https://sootax.co.kr/6680",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6680.jpg",
+    "DateAdded": "2026-04-19"
   }
 ]
