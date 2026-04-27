@@ -12582,5 +12582,38 @@
     "URL": "https://sootax.co.kr/6680",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6680.jpg",
     "DateAdded": "2026-04-19"
+  },
+  {
+    "key": "6686",
+    "NO": "90760",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "벨랴코프 일리야",
+    "도서명": "지극히 사적인 러시아",
+    "URL": "https://sootax.co.kr/6686",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6686.jpg",
+    "DateAdded": "2026-04-27"
+  },
+  {
+    "key": "6685",
+    "NO": "31270",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "아르투어 쇼펜하우어",
+    "도서명": "의지와 표상으로서의 세계",
+    "URL": "https://sootax.co.kr/6685",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6685.jpg",
+    "DateAdded": "2026-04-27"
+  },
+  {
+    "key": "6684",
+    "NO": "61780",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "얀 아스만",
+    "도서명": "문화적 기억과 초기 문명",
+    "URL": "https://sootax.co.kr/6684",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6684.jpg",
+    "DateAdded": "2026-04-27"
   }
 ]
