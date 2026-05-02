@@ -12615,5 +12615,38 @@
     "URL": "https://sootax.co.kr/6684",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6684.jpg",
     "DateAdded": "2026-04-27"
+  },
+  {
+    "key": "6690",
+    "NO": "51310",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "그레이엄 바커,캔디스 가우처",
+    "도서명": "농업과 세계사 2 - 대륙별 구석기 문화 | 케임브리지 세계사 4",
+    "URL": "https://sootax.co.kr/6690",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6690.jpg",
+    "DateAdded": "2026-05-03"
+  },
+  {
+    "key": "6689",
+    "NO": "42640",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "니니안 스마트",
+    "도서명": "종교와 세계관",
+    "URL": "https://sootax.co.kr/6689",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6689.jpg",
+    "DateAdded": "2026-05-03"
+  },
+  {
+    "key": "6688",
+    "NO": "61790",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "폴 벤느",
+    "도서명": "그리스인들은 신화를 믿었는가?",
+    "URL": "https://sootax.co.kr/6688",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6688.jpg",
+    "DateAdded": "2026-05-03"
   }
 ]
