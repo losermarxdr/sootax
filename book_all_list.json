@@ -12648,5 +12648,38 @@
     "URL": "https://sootax.co.kr/6688",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6688.jpg",
     "DateAdded": "2026-05-03"
+  },
+  {
+    "key": "6695",
+    "NO": "31280",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "게오르그 빌헬름 프리드리히 헤겔",
+    "도서명": "청년 헤겔의 신학론집 - 베른/프랑크푸르트 시기",
+    "URL": "https://sootax.co.kr/6695",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6695.jpg",
+    "DateAdded": "2026-05-10"
+  },
+  {
+    "key": "6694",
+    "NO": "42650",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "마이클 레이든",
+    "도서명": "칼 바르트",
+    "URL": "https://sootax.co.kr/6694",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6694.jpg",
+    "DateAdded": "2026-05-10"
+  },
+  {
+    "key": "6693",
+    "NO": "81210",
+    "구분NO": "80000",
+    "구분": "문학",
+    "저자": "최승자",
+    "도서명": "이 시대의 사랑",
+    "URL": "https://sootax.co.kr/6693",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6693.jpg",
+    "DateAdded": "2026-05-10"
   }
 ]
