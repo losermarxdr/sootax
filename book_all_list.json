@@ -12681,5 +12681,38 @@
     "URL": "https://sootax.co.kr/6693",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6693.jpg",
     "DateAdded": "2026-05-10"
+  },
+  {
+    "key": "6699",
+    "NO": "42660",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "시모다 마사히로",
+    "도서명": "여래장과 불성 | 시리즈 대승불교 8",
+    "URL": "https://sootax.co.kr/6699",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6699.jpg",
+    "DateAdded": "2026-05-19"
+  },
+  {
+    "key": "6698",
+    "NO": "90770",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "조반니노 과레스키",
+    "도서명": "돈 까밀로 러시아 가다 - 신부님 우리들의 신부님 10",
+    "URL": "https://sootax.co.kr/6698",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6698.jpg",
+    "DateAdded": "2026-05-19"
+  },
+  {
+    "key": "6697",
+    "NO": "42670",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "길희성",
+    "도서명": "바가바드 기타",
+    "URL": "https://sootax.co.kr/6697",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6697.jpg",
+    "DateAdded": "2026-05-19"
   }
 ]
