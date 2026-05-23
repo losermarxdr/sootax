@@ -12714,5 +12714,38 @@
     "URL": "https://sootax.co.kr/6697",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6697.jpg",
     "DateAdded": "2026-05-19"
+  },
+  {
+    "key": "6703",
+    "NO": "61800",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "로빈 던바",
+    "도서명": "신을 찾는 뇌",
+    "URL": "https://sootax.co.kr/6703",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6703.jpg",
+    "DateAdded": "2026-05-24"
+  },
+  {
+    "key": "6702",
+    "NO": "81220",
+    "구분NO": "80000",
+    "구분": "문학",
+    "저자": "최승자",
+    "도서명": "즐거운 일기",
+    "URL": "https://sootax.co.kr/6702",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6702.jpg",
+    "DateAdded": "2026-05-24"
+  },
+  {
+    "key": "6701",
+    "NO": "42680",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "존 프리처드",
+    "도서명": "교회",
+    "URL": "https://sootax.co.kr/6701",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6701.jpg",
+    "DateAdded": "2026-05-24"
   }
 ]
