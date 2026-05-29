@@ -1,17 +1,258 @@
 [
   {
+    "key": 1240,
+    "Genre": "Rock_Pop",
+    "Title": "The American Folk Blues Festival 1962-1966 (Volume One) [DVD]",
+    "URL": "https://changgo13.tistory.com/1240",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1240.jpg",
+    "Tags": [
+      "The American Folk Blues Festival"
+    ],
+    "DateAdded": "2026-05-29"
+  },
+  {
+    "key": 1239,
+    "Genre": "Rock_Pop",
+    "Title": "The Beatles - The 4 Complete Ed Sullivan Shows Starring The Beatles [DVD]",
+    "URL": "https://changgo13.tistory.com/1239",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1239.jpg",
+    "Tags": [
+      "The Beatles"
+    ],
+    "DateAdded": "2026-05-29"
+  },
+  {
+    "key": 1238,
+    "Genre": "Classical",
+    "Title": "The Original Three Tenors - The Original Three Tenors In Concert Mehta [DVD]",
+    "URL": "https://changgo13.tistory.com/1238",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1238.jpg",
+    "Tags": [
+      "Jose Carreras",
+      "Luciano Pavarotti",
+      "Placido Domingo"
+    ],
+    "DateAdded": "2026-05-29"
+  },
+  {
+    "key": 1237,
+    "Genre": "Classical",
+    "Title": "The Hagen Quartett plays Mozart and Beethoven [DVD]",
+    "URL": "https://changgo13.tistory.com/1237",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1237.jpg",
+    "Tags": [
+      "Beethoven",
+      "Mozart",
+      "The Hagen Quartett",
+      "weber"
+    ],
+    "DateAdded": "2026-05-29"
+  },
+  {
+    "key": 1236,
+    "Genre": "Rock_Pop",
+    "Title": "Tony Bennett - Tony Bennett's New York [DVD]",
+    "URL": "https://changgo13.tistory.com/1236",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1236.jpg",
+    "Tags": [
+      "Tony Bennett"
+    ],
+    "DateAdded": "2026-05-29"
+  },
+  {
+    "key": 1235,
+    "Genre": "Classical",
+    "Title": "Václav Neumann conducts Dvorak & Janacek [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1235",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1235.jpg",
+    "Tags": [
+      "Dvorak",
+      "Janáček",
+      "Václav Neumann"
+    ],
+    "DateAdded": "2026-05-29"
+  },
+  {
+    "key": 1234,
+    "Genre": "Rock_Pop",
+    "Title": "Willie Nelson - Live In Amsterdam [DVD]",
+    "URL": "https://changgo13.tistory.com/1234",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1234.jpg",
+    "Tags": [
+      "Willie Nelson"
+    ],
+    "DateAdded": "2026-05-29"
+  },
+  {
+    "key": 1233,
+    "Genre": "Opera",
+    "Title": "Verdi: Rigoletto / Levine, Domingo, MacNei [DVD]",
+    "URL": "https://changgo13.tistory.com/1233",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1233.jpg",
+    "Tags": [
+      "Cornell MacNeil",
+      "James Levine",
+      "Placido Domingo",
+      "Verdi"
+    ],
+    "DateAdded": "2026-05-29"
+  },
+  {
+    "key": 1232,
+    "Genre": "Rock_Pop",
+    "Title": "12 12 12 The Concert For Sandy Relief [DVD]",
+    "URL": "https://changgo13.tistory.com/1232",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1232.jpg",
+    "Tags": [
+      "12 12 12"
+    ],
+    "DateAdded": "2026-05-29"
+  },
+  {
+    "key": 1231,
+    "Genre": "Rock_Pop",
+    "Title": "ABBA - Super Troupers (From Waterloo To Mamma Mia!) [DVD]",
+    "URL": "https://changgo13.tistory.com/1231",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1231.jpg",
+    "Tags": [
+      "ABBA"
+    ],
+    "DateAdded": "2026-05-29"
+  },
+  {
+    "key": 1230,
+    "Genre": "Classical",
+    "Title": "Andre Previn - William Walton London Concert [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1230",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1230.jpg",
+    "Tags": [
+      "André Previn",
+      "Kyung-Wha Chung",
+      "William Walton"
+    ],
+    "DateAdded": "2026-05-29"
+  },
+  {
+    "key": 1229,
+    "Genre": "Jazz_Blues",
+    "Title": "Billy Cobham's Glass Menagerie - Live In Riazzino, Switzerland [DVD]",
+    "URL": "https://changgo13.tistory.com/1229",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1229.jpg",
+    "Tags": [
+      "billy cobham"
+    ],
+    "DateAdded": "2026-05-29"
+  },
+  {
+    "key": 1228,
+    "Genre": "Rock_Pop",
+    "Title": "Everly Brothers - Reunion Concert [DVD]",
+    "URL": "https://changgo13.tistory.com/1228",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1228.jpg",
+    "Tags": [
+      "everly brothers"
+    ],
+    "DateAdded": "2026-05-29"
+  },
+  {
+    "key": 1227,
+    "Genre": "Opera",
+    "Title": "Gilbert & Sullivan: HMS Pinafore & Trial by Jury / Greene, Warlow, Hobson [DVD]",
+    "URL": "https://changgo13.tistory.com/1227",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1227.jpg",
+    "Tags": [
+      "Andrew Greene",
+      "David Hobson",
+      "Gilbert & Sullivan",
+      "anthony warlow"
+    ],
+    "DateAdded": "2026-05-29"
+  },
+  {
+    "key": 1226,
+    "Genre": "Opera",
+    "Title": "Gilbert & Sullivan: The Mikado / Greene, Mcdonald, Ewer [DVD]",
+    "URL": "https://changgo13.tistory.com/1226",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1226.jpg",
+    "Tags": [
+      "Andrew Greene",
+      "Anne-Maree Mcdonald",
+      "Gilbert & Sullivan",
+      "Graeme Ewer"
+    ],
+    "DateAdded": "2026-05-29"
+  },
+  {
+    "key": 1225,
+    "Genre": "Opera",
+    "Title": "Gilbert & Sullivan: The Gondoliers / Franks, Hobson, Lemke [DVD]",
+    "URL": "https://changgo13.tistory.com/1225",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1225.jpg",
+    "Tags": [
+      "David Hobson",
+      "Dobbs Franks",
+      "Gilbert & Sullivan"
+    ],
+    "DateAdded": "2026-05-29"
+  },
+  {
+    "key": 1224,
+    "Genre": "Rock_Pop",
+    "Title": "Incognito - In Concert [DVD]",
+    "URL": "https://changgo13.tistory.com/1224",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1224.jpg",
+    "Tags": [
+      "Incognito"
+    ],
+    "DateAdded": "2026-05-29"
+  },
+  {
+    "key": 1223,
+    "Genre": "Classical",
+    "Title": "Heinz Holliger - Oboe Fantasy [DVD]",
+    "URL": "https://changgo13.tistory.com/1223",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1223.jpg",
+    "Tags": [
+      "Heinz Holliger",
+      "Holliger",
+      "Martinu",
+      "Mozart",
+      "britten"
+    ],
+    "DateAdded": "2026-05-29"
+  },
+  {
+    "key": 1222,
+    "Genre": "Opera",
+    "Title": "Korngold: Das Wunder der Heliane / Albrecht, Jakubiak, Jagde [DVD]",
+    "URL": "https://changgo13.tistory.com/1222",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1222.jpg",
+    "Tags": [
+      "Brian Jagde",
+      "Korngold",
+      "Marc Albrecht",
+      "Sara Jakubiak"
+    ],
+    "DateAdded": "2026-05-29"
+  },
+  {
+    "key": 1221,
+    "Genre": "Jazz_Blues",
+    "Title": "Lou Rawls - The Jazz Channel Presents Lou Rawls [DVD]",
+    "URL": "https://changgo13.tistory.com/1221",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1221.jpg",
+    "Tags": [
+      "Lou Rawls"
+    ],
+    "DateAdded": "2026-05-29"
+  },
+  {
     "key": 1220,
     "Genre": "Opera",
     "Title": "Handel: Agrippina / Hengelbrock, Bardon, Arditti [Blu-ray]",
     "URL": "https://changgo13.tistory.com/1220",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1220.jpg",
-    "Tags": [
-      "Danielle de Niese",
-      "Handel",
-      "Jake Arditti",
-      "Patricia Bardon",
-      "Thomas Hengelbrock"
-    ],
+    "Tags": "['Danielle de Niese', 'Handel', 'Jake Arditti', 'Patricia Bardon', 'Thomas Hengelbrock']",
     "DateAdded": "2026-04-15"
   },
   {
@@ -20,13 +261,7 @@
     "Title": "Hans Abrahamsen: The Snow Queen / Meister, Hannigan, Wilson [Blu-ray]",
     "URL": "https://changgo13.tistory.com/1219",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1219.jpg",
-    "Tags": [
-      "Barbara Hannigan",
-      "Cornelius Meister",
-      "Hans Abrahamsen",
-      "Katarina Dalayman",
-      "Rachael Wilson"
-    ],
+    "Tags": "['Barbara Hannigan', 'Cornelius Meister', 'Hans Abrahamsen', 'Katarina Dalayman', 'Rachael Wilson']",
     "DateAdded": "2026-04-15"
   },
   {
@@ -35,13 +270,7 @@
     "Title": "Zandonai: Francesca Da Rimini / Barbacini, Dessi, Mastromarino [DVD]",
     "URL": "https://changgo13.tistory.com/1218",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1218.jpg",
-    "Tags": [
-      "Alberto Mastromarino",
-      "Daniela Dessi",
-      "Fabio Armiliato",
-      "Maurizio Barbacini",
-      "Zandonai"
-    ],
+    "Tags": "['Alberto Mastromarino', 'Daniela Dessi', 'Fabio Armiliato', 'Maurizio Barbacini', 'Zandonai']",
     "DateAdded": "2026-04-15"
   },
   {
