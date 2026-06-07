@@ -12780,5 +12780,38 @@
     "URL": "https://sootax.co.kr/6708",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6708.jpg",
     "DateAdded": "2026-05-31"
+  },
+  {
+    "key": "6717",
+    "NO": "51320",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "노먼 요피",
+    "도서명": "고대의 도시들 1  | 케임브리지 세계사 5",
+    "URL": "https://sootax.co.kr/6717",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6717.jpg",
+    "DateAdded": "2026-06-08"
+  },
+  {
+    "key": "6716",
+    "NO": "31310",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "피에르 아도",
+    "도서명": "고대 철학이란 무엇인가",
+    "URL": "https://sootax.co.kr/6716",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6716.jpg",
+    "DateAdded": "2026-06-08"
+  },
+  {
+    "key": "6715",
+    "NO": "42690",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "사이먼 콕세지",
+    "도서명": "아씨시 프란치스코",
+    "URL": "https://sootax.co.kr/6715",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6715.jpg",
+    "DateAdded": "2026-06-08"
   }
 ]
