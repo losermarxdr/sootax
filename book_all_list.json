@@ -12846,5 +12846,38 @@
     "URL": "https://sootax.co.kr/6719",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6719.jpg",
     "DateAdded": "2026-06-15"
+  },
+  {
+    "key": "6728",
+    "NO": "51330",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "알렉세이 유르착",
+    "도서명": "모든 것은 영원했다, 사라지기 전까지는",
+    "URL": "https://sootax.co.kr/6728",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6728.jpg",
+    "DateAdded": "2026-06-22"
+  },
+  {
+    "key": "6727",
+    "NO": "51340",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "푸블리우스 코르넬리우스 타키투스",
+    "도서명": "타키투스의 역사",
+    "URL": "https://sootax.co.kr/6727",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6727.jpg",
+    "DateAdded": "2026-06-22"
+  },
+  {
+    "key": "6726",
+    "NO": "42710",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "서정형 역해",
+    "도서명": "밀린다 왕의 물음",
+    "URL": "https://sootax.co.kr/6726",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6726.jpg",
+    "DateAdded": "2026-06-22"
   }
 ]
