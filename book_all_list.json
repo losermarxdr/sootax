@@ -12879,5 +12879,38 @@
     "URL": "https://sootax.co.kr/6726",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6726.jpg",
     "DateAdded": "2026-06-22"
+  },
+  {
+    "key": "6735",
+    "NO": "51350",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "제프리 와우로",
+    "도서명": "베트남전쟁",
+    "URL": "https://sootax.co.kr/6735",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6735.jpg",
+    "DateAdded": "2026-06-29"
+  },
+  {
+    "key": "6734",
+    "NO": "42720",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "탄허",
+    "도서명": "선학 강설",
+    "URL": "https://sootax.co.kr/6734",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6734.jpg",
+    "DateAdded": "2026-06-29"
+  },
+  {
+    "key": "6733",
+    "NO": "31330",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "라인하르트 코젤렉, 오토 브루너",
+    "도서명": "코젤렉의 개념사 사전 11 - 위기",
+    "URL": "https://sootax.co.kr/6733",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6733.jpg",
+    "DateAdded": "2026-06-29"
   }
 ]
