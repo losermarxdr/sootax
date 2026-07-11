@@ -12945,5 +12945,38 @@
     "URL": "https://sootax.co.kr/6742",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6742.jpg",
     "DateAdded": "2026-07-07"
+  },
+  {
+    "key": "6752",
+    "NO": "51360",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "노먼 요피",
+    "도서명": "고대의 도시들 2 | 케임브리지 세계사 6",
+    "URL": "https://sootax.co.kr/6752",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6752.jpg",
+    "DateAdded": "2026-07-12"
+  },
+  {
+    "key": "6751",
+    "NO": "61820",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "소피 베시",
+    "도서명": "만들어진 뿌리",
+    "URL": "https://sootax.co.kr/6751",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6751.jpg",
+    "DateAdded": "2026-07-12"
+  },
+  {
+    "key": "6750",
+    "NO": "42730",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "마르틴 헹엘",
+    "도서명": "하나님의 아들",
+    "URL": "https://sootax.co.kr/6750",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6750.jpg",
+    "DateAdded": "2026-07-12"
   }
 ]
