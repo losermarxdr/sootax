@@ -12978,5 +12978,38 @@
     "URL": "https://sootax.co.kr/6750",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6750.jpg",
     "DateAdded": "2026-07-12"
+  },
+  {
+    "key": "6757",
+    "NO": "42740",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "이안 S. 마컴, C.K. 로버트슨",
+    "도서명": "질문과 답변",
+    "URL": "https://sootax.co.kr/6757",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6757.jpg",
+    "DateAdded": "2026-07-19"
+  },
+  {
+    "key": "6758",
+    "NO": "42750",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "마크 채프먼",
+    "도서명": "성공회 신학",
+    "URL": "https://sootax.co.kr/6758",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6758.jpg",
+    "DateAdded": "2026-07-19"
+  },
+  {
+    "key": "6759",
+    "NO": "31350",
+    "구분NO": "30000",
+    "구분": "철학",
+    "저자": "테리 핀카드",
+    "도서명": "역사는 의미가 있는가",
+    "URL": "https://sootax.co.kr/6759",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6759.jpg",
+    "DateAdded": "2026-07-19"
   }
 ]
