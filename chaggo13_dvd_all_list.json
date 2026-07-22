@@ -1,5 +1,86 @@
 [
   {
+    "key": 1318,
+    "Genre": "Rock_Pop",
+    "Title": "Madonna - I'm Going To Tell You A Secret [DVD]",
+    "URL": "https://changgo13.tistory.com/1318",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1318.jpg",
+    "Tags": "['madonna']",
+    "DateAdded": "2026-07-23"
+  },
+  {
+    "key": 1317,
+    "Genre": "Rock_Pop",
+    "Title": "Tangerine Dream - Live In America 1992 [DVD]",
+    "URL": "https://changgo13.tistory.com/1317",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1317.jpg",
+    "Tags": "['Tangerine Dream']",
+    "DateAdded": "2026-07-23"
+  },
+  {
+    "key": 1316,
+    "Genre": "Opera",
+    "Title": "Prokofiev: The Gambler, Op. 24 / Gergiev, Aleksashkin, Pavlovskaya [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1316",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1316.jpg",
+    "Tags": "['Sergei Aleksashkin', 'Tatiana Pavlovskaya', 'Valery Gergiev', 'prokofiev']",
+    "DateAdded": "2026-07-23"
+  },
+  {
+    "key": 1315,
+    "Genre": "Rock_Pop",
+    "Title": "Lou Reed - A Night With Lou Reed [DVD]",
+    "URL": "https://changgo13.tistory.com/1315",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1315.jpg",
+    "Tags": "['Lou Reed']",
+    "DateAdded": "2026-07-23"
+  },
+  {
+    "key": 1314,
+    "Genre": "Rock_Pop",
+    "Title": "Queen – Greatest Video Hits 2 [DVD]",
+    "URL": "https://changgo13.tistory.com/1314",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1314.jpg",
+    "Tags": "['Queen']",
+    "DateAdded": "2026-07-23"
+  },
+  {
+    "key": 1313,
+    "Genre": "Rock_Pop",
+    "Title": "Queen – Greatest Video Hits 1 [DVD]",
+    "URL": "https://changgo13.tistory.com/1313",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1313.jpg",
+    "Tags": "['Queen']",
+    "DateAdded": "2026-07-23"
+  },
+  {
+    "key": 1312,
+    "Genre": "Ballets",
+    "Title": "Ballet To Broadway: Wheeldon Works [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1312",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1312.jpg",
+    "Tags": "['Christopher Wheeldon', 'Marianela Nuñez', 'koen kessels']",
+    "DateAdded": "2026-07-23"
+  },
+  {
+    "key": 1311,
+    "Genre": "Rock_Pop",
+    "Title": "Madonna - Sticky & Sweet Tour [DVD]",
+    "URL": "https://changgo13.tistory.com/1311",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1311.jpg",
+    "Tags": "['madonna']",
+    "DateAdded": "2026-07-23"
+  },
+  {
+    "key": 1310,
+    "Genre": "Rock_Pop",
+    "Title": "Madonna - Celebration: The Video Collection [DVD]",
+    "URL": "https://changgo13.tistory.com/1310",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1310.jpg",
+    "Tags": "['madonna']",
+    "DateAdded": "2026-07-23"
+  },
+  {
     "key": 1309,
     "Genre": "Jazz_Blues",
     "Title": "John Coltrane - Ralph Gleason's Jazz Casual [DVD]",
@@ -11342,7 +11423,7 @@
   {
     "key": 28,
     "Genre": "Opera",
-    "Title": "Beethoven: Fidelio / Welser-Möst, Kaufmann, Pieczonka [Blu-ray], 2106",
+    "Title": "Beethoven: Fidelio / Welser-Möst, Kaufmann, Pieczonka [Blu-ray]",
     "URL": "https://changgo13.tistory.com/28",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/28.jpg",
     "Tags": "['Adrianne Pieczonka', 'Beethoven', 'Franz Welser-Möst', 'Jonas Kaufmann', 'Tomasz Konieczny']",
