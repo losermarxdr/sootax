@@ -13011,5 +13011,49 @@
     "URL": "https://sootax.co.kr/6759",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6759.jpg",
     "DateAdded": "2026-07-19"
+  },
+  {
+    "key": "6760",
+    "NO": "42760",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "아달베르 함만",
+    "도서명": "교부와 만나다",
+    "URL": "https://sootax.co.kr/6760",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6760.jpg",
+    "DateAdded": "2026-07-26"
+  },
+  {
+    "key": "6761",
+    "NO": "42770",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "마르틴 헹엘",
+    "도서명": "십자가 처형",
+    "URL": "https://sootax.co.kr/6761",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6761.jpg",
+    "DateAdded": "2026-07-26"
+  },
+  {
+    "key": "6762",
+    "NO": "42780",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "마르틴 헹엘",
+    "도서명": "초기 기독교의 사회경제사상",
+    "URL": "https://sootax.co.kr/6762",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6762.jpg",
+    "DateAdded": "2026-07-26"
+  },
+  {
+    "key": "6763",
+    "NO": "42790",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "스티븐 횔러",
+    "도서명": "이것이 영지주의다",
+    "URL": "https://sootax.co.kr/6763",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6763.jpg",
+    "DateAdded": "2026-07-26"
   }
 ]
