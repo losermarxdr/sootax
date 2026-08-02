@@ -13055,5 +13055,38 @@
     "URL": "https://sootax.co.kr/6763",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6763.jpg",
     "DateAdded": "2026-07-26"
+  },
+  {
+    "key": "6769",
+    "NO": "42800",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "리처드 곰브리치",
+    "도서명": "불교는 어떻게 시작되었는가?",
+    "URL": "https://sootax.co.kr/6769",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6769.jpg",
+    "DateAdded": "2026-08-03"
+  },
+  {
+    "key": "6770",
+    "NO": "51370",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "박지향",
+    "도서명": "영국사 - 보수와 개혁의 드라마",
+    "URL": "https://sootax.co.kr/6770",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6770.jpg",
+    "DateAdded": "2026-08-03"
+  },
+  {
+    "key": "6771",
+    "NO": "42810",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "길희성",
+    "도서명": "인도 철학사",
+    "URL": "https://sootax.co.kr/6771",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6771.jpg",
+    "DateAdded": "2026-08-03"
   }
 ]
