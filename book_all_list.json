@@ -13088,5 +13088,38 @@
     "URL": "https://sootax.co.kr/6771",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6771.jpg",
     "DateAdded": "2026-08-03"
+  },
+  {
+    "key": "6777",
+    "NO": "90780",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "유시민, 김세라",
+    "도서명": "사랑이 있으니 살아집디다 - 강순희 말하고 유시민 듣다",
+    "URL": "https://sootax.co.kr/6777",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6777.jpg",
+    "DateAdded": "2026-08-10"
+  },
+  {
+    "key": "6778",
+    "NO": "90790",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "윌리엄 델로 로소",
+    "도서명": "베를린 국립 회화관",
+    "URL": "https://sootax.co.kr/6778",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6778.jpg",
+    "DateAdded": "2026-08-10"
+  },
+  {
+    "key": "6779",
+    "NO": "51380",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "피터 스타인",
+    "도서명": "유럽 역사에서 본 로마법",
+    "URL": "https://sootax.co.kr/6779",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6779.jpg",
+    "DateAdded": "2026-08-10"
   }
 ]
