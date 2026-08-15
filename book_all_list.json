@@ -13121,5 +13121,60 @@
     "URL": "https://sootax.co.kr/6779",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6779.jpg",
     "DateAdded": "2026-08-10"
+  },
+  {
+    "key": "6785",
+    "NO": "85120",
+    "구분NO": "85000",
+    "구분": "시공 디스커버리 총서",
+    "저자": "자클린 드 부르구앵",
+    "도서명": "달력 - 영원한 시간의 파수꾼 | 시공 디스커버리 총서 116",
+    "URL": "https://sootax.co.kr/6785",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6785.jpg",
+    "DateAdded": "2026-08-16"
+  },
+  {
+    "key": "6786",
+    "NO": "85130",
+    "구분NO": "85000",
+    "구분": "시공 디스커버리 총서",
+    "저자": "미셸 파루티",
+    "도서명": "모차르트 - 신의 사랑을 받은 악동  | 시공 디스커버리 총서 11",
+    "URL": "https://sootax.co.kr/6786",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6786.jpg",
+    "DateAdded": "2026-08-16"
+  },
+  {
+    "key": "6787",
+    "NO": "85140",
+    "구분NO": "85000",
+    "구분": "시공 디스커버리 총서",
+    "저자": "폴 뒤 부셰",
+    "도서명": "바흐 - 천상의 선율 | 시공 디스커버리 총서 19",
+    "URL": "https://sootax.co.kr/6787",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6787.jpg",
+    "DateAdded": "2026-08-16"
+  },
+  {
+    "key": "6788",
+    "NO": "85150",
+    "구분NO": "85000",
+    "구분": "시공 디스커버리 총서",
+    "저자": "장 기 마샤르",
+    "도서명": "공룡 - 그 풀리지 않는 수수께끼 | 시공 디스커버리 총서 9",
+    "URL": "https://sootax.co.kr/6788",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6788.jpg",
+    "DateAdded": "2026-08-16"
+  },
+  {
+    "key": "6789",
+    "NO": "51390",
+    "구분NO": "50000",
+    "구분": "역사",
+    "저자": "크레이그 벤저민",
+    "도서명": "제국과 네트워크 1",
+    "URL": "https://sootax.co.kr/6789",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6789.jpg",
+    "DateAdded": "2026-08-16"
   }
 ]
