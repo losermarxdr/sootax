@@ -13176,5 +13176,49 @@
     "URL": "https://sootax.co.kr/6789",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6789.jpg",
     "DateAdded": "2026-08-16"
+  },
+  {
+    "key": "6791",
+    "NO": "90800",
+    "구분NO": "90000",
+    "구분": "기타",
+    "저자": "마크 코켈버그",
+    "도서명": "알고리즘에 갇힌 자기 계발",
+    "URL": "https://sootax.co.kr/6791",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6791.jpg",
+    "DateAdded": "2026-09-01"
+  },
+  {
+    "key": "6792",
+    "NO": "42820",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "데이비드 J. 칼루파하나",
+    "도서명": "불교 철학",
+    "URL": "https://sootax.co.kr/6792",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6792.jpg",
+    "DateAdded": "2026-09-01"
+  },
+  {
+    "key": "6793",
+    "NO": "42830",
+    "구분NO": "40000",
+    "구분": "종교",
+    "저자": "루트비히 포이어바흐",
+    "도서명": "기독교의 본질",
+    "URL": "https://sootax.co.kr/6793",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6793.jpg",
+    "DateAdded": "2026-09-01"
+  },
+  {
+    "key": "6794",
+    "NO": "10340",
+    "구분NO": "10000",
+    "구분": "강유원 선생님",
+    "저자": "강유원",
+    "도서명": "고독서정",
+    "URL": "https://sootax.co.kr/6794",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6794.jpg",
+    "DateAdded": "2026-09-01"
   }
 ]
