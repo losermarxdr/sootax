@@ -13220,5 +13220,104 @@
     "URL": "https://sootax.co.kr/6794",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6794.jpg",
     "DateAdded": "2026-09-01"
+  },
+  {
+    "key": "6795",
+    "NO": "85160",
+    "구분NO": "85000",
+    "구분": "시공 디스커버리 총서",
+    "저자": "조르주 장",
+    "도서명": "기호의 언어 - 정교한 상징의 세계 | 시공 디스커버리 총서 47",
+    "URL": "https://sootax.co.kr/6795",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6795.jpg",
+    "DateAdded": "2026-09-07"
+  },
+  {
+    "key": "6796",
+    "NO": "85170",
+    "구분NO": "85000",
+    "구분": "시공 디스커버리 총서",
+    "저자": "드니 게즈",
+    "도서명": "수의 세계  | 시공 디스커버리 총서 83",
+    "URL": "https://sootax.co.kr/6796",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6796.jpg",
+    "DateAdded": "2026-09-07"
+  },
+  {
+    "key": "6797",
+    "NO": "85180",
+    "구분NO": "85000",
+    "구분": "시공 디스커버리 총서",
+    "저자": "장 피에르 드레주",
+    "도서명": "실크 로드 - 사막을 넘은 모험자들  | 시공 디스커버리 총서 4",
+    "URL": "https://sootax.co.kr/6797",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6797.jpg",
+    "DateAdded": "2026-09-07"
+  },
+  {
+    "key": "6798",
+    "NO": "85190",
+    "구분NO": "85000",
+    "구분": "시공 디스커버리 총서",
+    "저자": "피에르 레베크",
+    "도서명": "그리스문명의 탄생  | 시공 디스커버리 총서 5",
+    "URL": "https://sootax.co.kr/6798",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6798.jpg",
+    "DateAdded": "2026-09-07"
+  },
+  {
+    "key": "6799",
+    "NO": "85200",
+    "구분NO": "85000",
+    "구분": "시공 디스커버리 총서",
+    "저자": "베르트랑 제타",
+    "도서명": "건축의 르네상스  | 시공 디스커버리 총서 48",
+    "URL": "https://sootax.co.kr/6799",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6799.jpg",
+    "DateAdded": "2026-09-07"
+  },
+  {
+    "key": "6800",
+    "NO": "85210",
+    "구분NO": "85000",
+    "구분": "시공 디스커버리 총서",
+    "저자": "가브리엘 반 쥘랑",
+    "도서명": "세계의 정원 - 작은 에덴동산  | 시공 디스커버리 총서 43",
+    "URL": "https://sootax.co.kr/6800",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6800.jpg",
+    "DateAdded": "2026-09-07"
+  },
+  {
+    "key": "6801",
+    "NO": "85220",
+    "구분NO": "85000",
+    "구분": "시공 디스커버리 총서",
+    "저자": "라에네크 위르봉",
+    "도서명": "부두교 - 왜곡된 아프리카의 정신  | 시공 디스커버리 총서 41",
+    "URL": "https://sootax.co.kr/6801",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6801.jpg",
+    "DateAdded": "2026-09-07"
+  },
+  {
+    "key": "6802",
+    "NO": "85230",
+    "구분NO": "85000",
+    "구분": "시공 디스커버리 총서",
+    "저자": "카트린 미셀 오를리아크",
+    "도서명": "이스터섬 - 바위 거인들의 비밀  | 시공 디스커버리 총서 42",
+    "URL": "https://sootax.co.kr/6802",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6802.jpg",
+    "DateAdded": "2026-09-07"
+  },
+  {
+    "key": "6803",
+    "NO": "61830",
+    "구분NO": "60000",
+    "구분": "인문/사회",
+    "저자": "크리스토퍼 셀렌차",
+    "도서명": "이탈리아 르네상스의 지적 세계",
+    "URL": "https://sootax.co.kr/6803",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6803.jpg",
+    "DateAdded": "2026-09-07"
   }
 ]
