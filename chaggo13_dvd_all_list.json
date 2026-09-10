@@ -433,7 +433,7 @@
   },
   {
     "key": 1290,
-    "Genre": "Opera",
+    "Genre": "Ballets",
     "Title": "Prokofiev: The Stone Flower / Grigorovich, Kopilov, Katerina [DVD]",
     "URL": "https://changgo13.tistory.com/1290",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1290.jpg",
@@ -1328,7 +1328,7 @@
     "Title": "Wagner: Tannhäuser / Barenboim, Seiffert, Prudenskaya [DVD]",
     "URL": "https://changgo13.tistory.com/1191",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1191.jpg",
-    "Tags": "['Daniel Barenboim', 'Marina Prudenskaya (', 'Wagner', 'ann petersen', 'peter seiffert']",
+    "Tags": "['Daniel Barenboim', 'Marina Prudenskaya', 'Wagner', 'ann petersen', 'peter seiffert']",
     "DateAdded": "2026-04-01"
   },
   {
@@ -6881,7 +6881,7 @@
     "Title": "Debussy: Pelléas et Mélisande / Altinoglu, Imbrailo, Winters [Blu-ray]",
     "URL": "https://changgo13.tistory.com/563",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/563.jpg",
-    "Tags": "['Alain Altinglu', 'Corinne Winters', 'Jacques Imbrailo', 'debussy']",
+    "Tags": "['Alain Altinoglu', 'Corinne Winters', 'Jacques Imbrailo', 'debussy']",
     "DateAdded": "2023-01-09"
   },
   {
@@ -10144,7 +10144,7 @@
   },
   {
     "key": 195,
-    "Genre": "Opera",
+    "Genre": "Classical",
     "Title": "Brahms: Cycle / Welser-Möst, Cleveland Orchestra [Blu-ray]",
     "URL": "https://changgo13.tistory.com/195",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/195.jpg",
