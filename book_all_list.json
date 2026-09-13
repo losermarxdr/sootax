@@ -13286,5 +13286,38 @@
     "URL": "https://sootax.co.kr/6803",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6803.jpg",
     "DateAdded": "2026-09-07"
+  },
+  {
+    "key": "6807",
+    "NO": "9500010",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "강지은",
+    "도서명": "칸트의 순수이성비판 - 내가 진짜 아는 것은 무엇인가",
+    "URL": "https://sootax.co.kr/6807",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6807.jpg",
+    "DateAdded": "2026-09-13"
+  },
+  {
+    "key": "6808",
+    "NO": "9500020",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "스티븐 샤핀",
+    "도서명": "과학혁명",
+    "URL": "https://sootax.co.kr/6808",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6808.jpg",
+    "DateAdded": "2026-09-13"
+  },
+  {
+    "key": "6809",
+    "NO": "9500030",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "로완 윌리엄스",
+    "도서명": "삶을 선택하라",
+    "URL": "https://sootax.co.kr/6809",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6809.jpg",
+    "DateAdded": "2026-09-13"
   }
 ]
