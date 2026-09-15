@@ -1,5 +1,68 @@
 [
   {
+    "key": 1345,
+    "Genre": "Ballets",
+    "Title": "Lehár: Die Lustige Witwe / Florio, Kain, Meehan [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1345",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1345.jpg",
+    "Tags": "['Ermanno Florio', 'John Meehan', 'Karen Kain', 'lehar']",
+    "DateAdded": "2026-09-15"
+  },
+  {
+    "key": 1344,
+    "Genre": "Ballets",
+    "Title": "Johann Strauss II: La Chauve-Souris / Rhodes, Ferri, Murru [DVD]",
+    "URL": "https://changgo13.tistory.com/1344",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1344.jpg",
+    "Tags": "['Alessandra Ferri', 'Johann Strauss II', 'Kevin Rhodes', 'Massimo Murru']",
+    "DateAdded": "2026-09-15"
+  },
+  {
+    "key": 1343,
+    "Genre": "",
+    "Title": "Roger Waters - Us + Them [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1343",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1343.jpg",
+    "Tags": "['Roger Waters', 'pink floyd']",
+    "DateAdded": "2026-09-15"
+  },
+  {
+    "key": 1342,
+    "Genre": "Jazz_Blues",
+    "Title": "B.B.King - Live in Africa [DVD]",
+    "URL": "https://changgo13.tistory.com/1342",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1342.jpg",
+    "Tags": "['B.B.King']",
+    "DateAdded": "2026-09-15"
+  },
+  {
+    "key": 1341,
+    "Genre": "Rock_Pop",
+    "Title": "Bryan Ferry - Live In Lyon (Nuits De Fourvière) [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1341",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1341.jpg",
+    "Tags": "['Bryan Ferry', 'Roxy Music']",
+    "DateAdded": "2026-09-15"
+  },
+  {
+    "key": 1340,
+    "Genre": "",
+    "Title": "Dave Mason - Live At Sunrise [DVD]",
+    "URL": "https://changgo13.tistory.com/1340",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1340.jpg",
+    "Tags": "['Dave Mason']",
+    "DateAdded": "2026-09-15"
+  },
+  {
+    "key": 1339,
+    "Genre": "Rock_Pop",
+    "Title": "Gregg Allman - Live: Back To Macon, GA [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1339",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1339.jpg",
+    "Tags": "['Gregg Allman', 'The Allman Brothers Band']",
+    "DateAdded": "2026-09-15"
+  },
+  {
     "key": 1338,
     "Genre": "Opera",
     "Title": "Verdi: Aida / Noseda, Lewis, Berti [DVD]",
