@@ -106,7 +106,7 @@ async function loadData() {
     out.innerHTML = '<div style="padding:3rem;text-align:center;color:#c00;">데이터를 불러오지 못했습니다: ' + e.message + '</div>';
     return;
   }
-  loadData();
+  render('original');
 }
 
 function splitNames(s) {
@@ -349,7 +349,7 @@ document.querySelectorAll('.tab').forEach(btn => {
   });
 });
 
-render('original');
+loadData();
 
 const toTopBtn = document.getElementById('toTop');
 window.addEventListener('scroll', () => {
