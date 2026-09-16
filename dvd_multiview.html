@@ -79,8 +79,8 @@
 
   <div id="groupControls" style="display:none; margin-bottom:1rem; font-size:.85rem; color:#5a5040;">
     정렬:
-    <label style="margin-right:.8rem;"><input type="radio" name="sortMode" value="alpha" checked> 가나다순</label>
-    <label style="margin-right:1.5rem;"><input type="radio" name="sortMode" value="count"> 노출많은순+가나다</label>
+    <label style="margin-right:.8rem;"><input type="radio" name="sortMode" value="alpha"> 가나다순</label>
+    <label style="margin-right:1.5rem;"><input type="radio" name="sortMode" value="count" checked> 노출많은순+가나다</label>
     장르:
     <label style="margin-right:.6rem;"><input type="radio" name="genreFilter" value="all" checked> 전체</label>
     <label style="margin-right:.6rem;"><input type="radio" name="genreFilter" value="Opera"> Opera</label>
@@ -113,15 +113,15 @@ function splitNames(s) {
   return s.split(';').map(x => x.trim()).filter(Boolean);
 }
 function link(r) {
-  return `<a href="${r.URL}" target="_blank">key ${r.key}</a>`;
+  return `<a href="${r.URL}" target="_blank">${r.key}</a>`;
 }
 
 const COLS = {
-  composer: ['Work','BlogTitle','Genre','구성','Role1','Role2','Format','URL'],
-  conductor: ['Composer','Work','BlogTitle','Genre','구성','Role2','Format','URL'],
-  vocal: ['Work','BlogTitle','Genre','구성','Role1','Role2','Format','URL'],
-  instrument: ['Work','BlogTitle','Genre','구성','Role1','Role2','Format','URL'],
-  dance: ['Work','BlogTitle','Genre','구성','Role1','Choreographer','Role2','Format','URL']
+  composer: ['URL','Work','BlogTitle','Genre','구성','Role1','Role2','Format'],
+  conductor: ['URL','Composer','Work','BlogTitle','Genre','구성','Role2','Format'],
+  vocal: ['URL','Work','BlogTitle','Genre','구성','Role1','Role2','Format'],
+  instrument: ['URL','Work','BlogTitle','Genre','구성','Role1','Role2','Format'],
+  dance: ['URL','Work','BlogTitle','Genre','구성','Role1','Choreographer','Role2','Format']
 };
 
 function rowCells(view, r) {
@@ -131,20 +131,20 @@ function rowCells(view, r) {
   const role1Text = r.Role1.split(';').map(s => s.trim()).join('<br>');
   const blogTitleDisp = r.BlogTitle.replace(/\s*\[(DVD|Blu-ray)\]\s*$/, '');
   if (view === 'composer') {
-    return [workDisp, blogTitleDisp, r.Genre, r.구성, role1Text, r.Role2, r.Format, link(r)];
+    return [link(r), workDisp, blogTitleDisp, r.Genre, r.구성, role1Text, r.Role2, r.Format];
   } else if (view === 'conductor') {
-    return [composerText, workDisp, blogTitleDisp, r.Genre, r.구성, r.Role2, r.Format, link(r)];
+    return [link(r), composerText, workDisp, blogTitleDisp, r.Genre, r.구성, r.Role2, r.Format];
   } else if (view === 'dance') {
-    return [workDisp, blogTitleDisp, r.Genre, r.구성, role1Text, (r.Choreographer || ''), r.Role2, r.Format, link(r)];
+    return [link(r), workDisp, blogTitleDisp, r.Genre, r.구성, role1Text, (r.Choreographer || ''), r.Role2, r.Format];
   } else {
-    return [workDisp, blogTitleDisp, r.Genre, r.구성, role1Text, r.Role2, r.Format, link(r)];
+    return [link(r), workDisp, blogTitleDisp, r.Genre, r.구성, role1Text, r.Role2, r.Format];
   }
 }
 
 const HEADER_LABELS = {
   key: '번호', Genre: '장르', BlogTitle: '포스팅 제목', Composer: '작곡가',
   Work: '작품명', '구성': '구성', Role1: '지휘자', Choreographer: '안무가', Role2: '출연진',
-  Format: '포맷', URL: '링크'
+  Format: '포맷', URL: '번호'
 };
 const ROLE2_LABEL_BY_VIEW = { vocal: '성악가', instrument: '연주자', dance: '무용수' };
 function headerLabel(col, view) {
@@ -165,6 +165,7 @@ function jumpTo(view, name) {
   if (btn) btn.classList.add('active');
   currentView = view;
   document.getElementById('groupControls').style.display = (view === 'original') ? 'none' : 'block';
+  setGenreFilterUI(DEFAULT_GENRE_BY_VIEW[view] || 'all');
   render(view);
   setTimeout(() => {
     const titles = document.querySelectorAll('.group-title');
@@ -329,8 +330,13 @@ function render(view) {
   });
 }
 
-let groupSortMode = 'alpha';
+let groupSortMode = 'count';
 let groupGenreFilter = 'all';
+const DEFAULT_GENRE_BY_VIEW = { dance: 'Ballets', instrument: 'Classical' };
+function setGenreFilterUI(genre) {
+  groupGenreFilter = genre;
+  document.querySelectorAll('input[name="genreFilter"]').forEach(r => { r.checked = (r.value === genre); });
+}
 document.querySelectorAll('input[name="sortMode"]').forEach(r => {
   r.addEventListener('change', () => { groupSortMode = r.value; render(currentView); });
 });
@@ -345,6 +351,7 @@ document.querySelectorAll('.tab').forEach(btn => {
     btn.classList.add('active');
     currentView = btn.dataset.view;
     document.getElementById('groupControls').style.display = (currentView === 'original') ? 'none' : 'block';
+    setGenreFilterUI(DEFAULT_GENRE_BY_VIEW[currentView] || 'all');
     render(currentView);
   });
 });
