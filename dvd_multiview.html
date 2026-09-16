@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>DVD & Blu-ray 보유목록</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #1c1917; --paper: #faf8f5; --line: #ddd6cc;
+    --accent: #6b4226; --accent-soft: #efe6da;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--paper); color: #222222;
+    font-family: "Noto Sans KR", sans-serif; line-height: 1.5;
+    padding: 2rem 1.2rem;
+  }
+  .wrap { max-width: 1020px; margin: 0 auto; }
+  h1 { font-size: 1.4rem; margin: 0 0 .3rem; }
+  .sub { color: #766b5c; font-size: .88rem; margin-bottom: 1.4rem; }
+  .tabs { display:flex; gap:.5rem; margin-bottom:1.4rem; border-bottom:1px solid var(--line); }
+  .tab { font-family:inherit; font-size:.9rem; background:none; border:none; cursor:pointer;
+    padding:.55rem .8rem; color:#8a7f6e; border-bottom:2px solid transparent; margin-bottom:-1px; }
+  .tab.active { color:var(--accent); border-bottom-color:var(--accent); font-weight:600; }
+  .group-title { font-size:1rem; font-weight:600; color:var(--accent); margin:1.2rem 0 .4rem; }
+  table { width:100%; border-collapse: collapse; font-size:9pt; background:white; table-layout: fixed; }
+  th, td { padding:.4rem .55rem; border-bottom:1px solid var(--line); text-align:left; vertical-align:top; overflow-wrap:break-word; }
+  th { background: var(--accent-soft); font-weight:600; font-size:9pt; }
+  td[data-col="구성"], th[data-col="구성"],
+  td[data-col="Genre"], th[data-col="Genre"],
+  td[data-col="Format"], th[data-col="Format"] { white-space: nowrap; width:5%; }
+  td[data-col="URL"], th[data-col="URL"] { width:6%; white-space:nowrap; }
+  td[data-col="Work"], th[data-col="Work"] { width:16%; }
+  td[data-col="BlogTitle"], th[data-col="BlogTitle"] { width:24%; }
+  td[data-col="Composer"], th[data-col="Composer"],
+  td[data-col="Role1"], th[data-col="Role1"] { width:14%; }
+  td[data-col="Choreographer"], th[data-col="Choreographer"] { width:10%; }
+  td[data-col="Role2"], th[data-col="Role2"] { width:24%; }
+  table.original-table { table-layout: fixed; }
+  table.original-table th[data-col="key"], table.original-table td[data-col="key"] { width:4%; white-space:nowrap; }
+  table.original-table th[data-col="Genre"], table.original-table td[data-col="Genre"] { width:6%; }
+  table.original-table th[data-col="BlogTitle"], table.original-table td[data-col="BlogTitle"] { width:24%; }
+  table.original-table th[data-col="Composer"], table.original-table td[data-col="Composer"] { width:9%; }
+  table.original-table th[data-col="Work"], table.original-table td[data-col="Work"] { width:15%; }
+  table.original-table th[data-col="구성"], table.original-table td[data-col="구성"] { width:4%; }
+  table.original-table th[data-col="Role1"], table.original-table td[data-col="Role1"] { width:13%; }
+  table.original-table th[data-col="Role2"], table.original-table td[data-col="Role2"] { width:19%; }
+  table.original-table th[data-col="Format"], table.original-table td[data-col="Format"] { width:6%; }
+  tr:hover td { background:#f6f1e9; }
+  a { color:var(--accent); }
+  th.sortable { cursor:pointer; user-select:none; }
+  th.sortable:hover { background:#e4d7c4; }
+  .namelink { text-decoration:none; border-bottom:1px dotted var(--accent); }
+  .namelink:hover { background:#f0e4d3; }
+  #toTop {
+    position: fixed; right: 1.4rem; bottom: 1.4rem; z-index: 100;
+    width: 2.6rem; height: 2.6rem; border-radius: 50%;
+    background: #2b2b2b; color: #fff; border: none;
+    font-size: 1.1rem; cursor: pointer; box-shadow: 0 2px 8px rgba(0,0,0,.25);
+    opacity: .9; display: none;
+  }
+  #toTop:hover { opacity: 1; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>DVD & Blu-ray 보유목록</h1>
+  <div class="sub">Opera·Classical·Ballet 보유작을 작곡가·지휘자·출연진 기준으로 다시 묶어봅니다.</div>
+
+  <div class="tabs">
+    <button class="tab active" data-view="original">원본목록</button>
+    <button class="tab" data-view="composer">작곡가별</button>
+    <button class="tab" data-view="conductor">지휘자별</button>
+    <button class="tab" data-view="vocal">성악가별</button>
+    <button class="tab" data-view="instrument">연주자별</button>
+    <button class="tab" data-view="dance">무용수별</button>
+  </div>
+
+  <div id="groupControls" style="display:none; margin-bottom:1rem; font-size:.85rem; color:#5a5040;">
+    정렬:
+    <label style="margin-right:.8rem;"><input type="radio" name="sortMode" value="alpha" checked> 가나다순</label>
+    <label style="margin-right:1.5rem;"><input type="radio" name="sortMode" value="count"> 노출많은순+가나다</label>
+    장르:
+    <label style="margin-right:.6rem;"><input type="radio" name="genreFilter" value="all" checked> 전체</label>
+    <label style="margin-right:.6rem;"><input type="radio" name="genreFilter" value="Opera"> Opera</label>
+    <label style="margin-right:.6rem;"><input type="radio" name="genreFilter" value="Classical"> Classical</label>
+    <label><input type="radio" name="genreFilter" value="Ballets"> Ballets</label>
+  </div>
+
+  <div id="output"></div>
+</div>
+
+<button id="toTop" title="맨 위로">▲</button>
+
+<script>
+let DATA = [];
+async function loadData() {
+  const out = document.getElementById('output');
+  out.innerHTML = '<div style="padding:3rem;text-align:center;color:#888;">불러오는 중...</div>';
+  try {
+    const res = await fetch('https://raw.githubusercontent.com/losermarxdr/sootax/main/dvd_catalog.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    DATA = await res.json();
+  } catch (e) {
+    out.innerHTML = '<div style="padding:3rem;text-align:center;color:#c00;">데이터를 불러오지 못했습니다: ' + e.message + '</div>';
+    return;
+  }
+  loadData();
+}
+
+function splitNames(s) {
+  return s.split(';').map(x => x.trim()).filter(Boolean);
+}
+function link(r) {
+  return `<a href="${r.URL}" target="_blank">key ${r.key}</a>`;
+}
+
+const COLS = {
+  composer: ['Work','BlogTitle','Genre','구성','Role1','Role2','Format','URL'],
+  conductor: ['Composer','Work','BlogTitle','Genre','구성','Role2','Format','URL'],
+  vocal: ['Work','BlogTitle','Genre','구성','Role1','Role2','Format','URL'],
+  instrument: ['Work','BlogTitle','Genre','구성','Role1','Role2','Format','URL'],
+  dance: ['Work','BlogTitle','Genre','구성','Role1','Choreographer','Role2','Format','URL']
+};
+
+function rowCells(view, r) {
+  const workText = r.Work.split(';').map(s => s.trim()).join('<br>');
+  const workDisp = r.Cycle ? `${workText} <span style="color:#a99">(${r.Cycle})</span>` : workText;
+  const composerText = r.Composer.split(';').map(s => s.trim()).join('<br>');
+  const role1Text = r.Role1.split(';').map(s => s.trim()).join('<br>');
+  const blogTitleDisp = r.BlogTitle.replace(/\s*\[(DVD|Blu-ray)\]\s*$/, '');
+  if (view === 'composer') {
+    return [workDisp, blogTitleDisp, r.Genre, r.구성, role1Text, r.Role2, r.Format, link(r)];
+  } else if (view === 'conductor') {
+    return [composerText, workDisp, blogTitleDisp, r.Genre, r.구성, r.Role2, r.Format, link(r)];
+  } else if (view === 'dance') {
+    return [workDisp, blogTitleDisp, r.Genre, r.구성, role1Text, (r.Choreographer || ''), r.Role2, r.Format, link(r)];
+  } else {
+    return [workDisp, blogTitleDisp, r.Genre, r.구성, role1Text, r.Role2, r.Format, link(r)];
+  }
+}
+
+const HEADER_LABELS = {
+  key: '번호', Genre: '장르', BlogTitle: '포스팅 제목', Composer: '작곡가',
+  Work: '작품명', '구성': '구성', Role1: '지휘자', Choreographer: '안무가', Role2: '출연진',
+  Format: '포맷', URL: '링크'
+};
+const ROLE2_LABEL_BY_VIEW = { vocal: '성악가', instrument: '연주자', dance: '무용수' };
+function headerLabel(col, view) {
+  if (col === 'Role2' && ROLE2_LABEL_BY_VIEW[view]) return ROLE2_LABEL_BY_VIEW[view];
+  return HEADER_LABELS[col] || col;
+}
+
+function nameLinks(str, view) {
+  if (!str) return '';
+  return splitNames(str).map(n =>
+    `<a href="javascript:void(0)" class="namelink" data-view="${view}" data-name="${n.replace(/"/g,'&quot;')}">${n}</a>`
+  ).join('; ');
+}
+
+function jumpTo(view, name) {
+  document.querySelectorAll('.tab').forEach(b => b.classList.remove('active'));
+  const btn = document.querySelector(`.tab[data-view="${view}"]`);
+  if (btn) btn.classList.add('active');
+  currentView = view;
+  document.getElementById('groupControls').style.display = (view === 'original') ? 'none' : 'block';
+  render(view);
+  setTimeout(() => {
+    const titles = document.querySelectorAll('.group-title');
+    for (const el of titles) {
+      if (el.textContent.startsWith(name + ' (')) {
+        el.scrollIntoView({ behavior: 'instant', block: 'start' });
+        el.style.textDecoration = 'underline';
+        break;
+      }
+    }
+  }, 0);
+}
+
+const ORIGINAL_COLS = ['key','Genre','BlogTitle','Composer','Work','구성','Role1','Role2','Format'];
+let originalSort = { col: 'key', dir: -1 };
+
+function renderOriginal() {
+  const out = document.getElementById('output');
+  out.innerHTML = '';
+  const rows = DATA.slice().sort((a, b) => {
+    let av = a[originalSort.col], bv = b[originalSort.col];
+    if (originalSort.col === 'key') return (a.key - b.key) * originalSort.dir;
+    av = (av || '').toString(); bv = (bv || '').toString();
+    return av.localeCompare(bv, undefined, { numeric: true, sensitivity: 'base' }) * originalSort.dir;
+  });
+
+  const table = document.createElement('table');
+  table.className = 'original-table';
+  const thead = `<thead><tr>${ORIGINAL_COLS.map(c =>
+    `<th data-col="${c}" class="sortable">${headerLabel(c, 'original')}${originalSort.col === c ? (originalSort.dir === 1 ? ' ▲' : ' ▼') : ''}</th>`
+  ).join('')}</tr></thead>`;
+
+  const role2TypeToView = { '성악':'vocal', '성악(추정)':'vocal', '연주':'instrument', '연주(추정)':'instrument', '무용':'dance' };
+
+  const rowsHtml = rows.map(r => {
+    const role2View = role2TypeToView[r.Role2Type] || 'instrument';
+    const blogTitleDisp = r.BlogTitle.replace(/\s*\[(DVD|Blu-ray)\]\s*$/, '');
+    const workDisp = r.Work.split(';').map(s => s.trim()).join('<br>');
+    const cells = [
+      `<a href="${r.URL}" target="_blank">${r.key}</a>`, r.Genre, blogTitleDisp,
+      nameLinks(r.Composer, 'composer'), workDisp, r.구성,
+      nameLinks(r.Role1, 'conductor'), nameLinks(r.Role2, role2View), r.Format
+    ];
+    return `<tr>${cells.map((c, i) => `<td data-col="${ORIGINAL_COLS[i]}">${c}</td>`).join('')}</tr>`;
+  }).join('');
+
+  table.innerHTML = thead + `<tbody>${rowsHtml}</tbody>`;
+  out.appendChild(table);
+
+  table.querySelectorAll('th.sortable').forEach(th => {
+    th.addEventListener('click', () => {
+      const col = th.dataset.col;
+      if (originalSort.col === col) originalSort.dir *= -1;
+      else { originalSort.col = col; originalSort.dir = 1; }
+      renderOriginal();
+    });
+  });
+  out.querySelectorAll('.namelink').forEach(a => {
+    a.addEventListener('click', () => jumpTo(a.dataset.view, a.dataset.name));
+  });
+}
+
+function render(view) {
+  if (view === 'original') { renderOriginal(); return; }
+  const out = document.getElementById('output');
+  out.innerHTML = '';
+  let groups = {};
+  const sourceData = groupGenreFilter === 'all' ? DATA : DATA.filter(r => r.Genre === groupGenreFilter);
+
+  if (view === 'composer') {
+    sourceData.forEach(r => {
+      const composers = splitNames(r.Composer);
+      if (composers.length === 0) return; // 작곡가 정보 없는 행은 작곡가별 뷰에서 제외
+      const works = splitNames(r.Work);
+      const role1s = splitNames(r.Role1);
+      if (composers.length <= 1) {
+        // 작곡가 1명 - 작품 단위로 쪼개서 개별 행 노출(전집/박스셋 대응)
+        const name = composers[0];
+        if (works.length <= 1) {
+          (groups[name] = groups[name] || []).push(r);
+        } else {
+          works.forEach((w, i) => {
+            const role1ForWork = (role1s.length === works.length) ? role1s[i] : r.Role1;
+            const virtualRow = Object.assign({}, r, { Work: w, Role1: role1ForWork });
+            (groups[name] = groups[name] || []).push(virtualRow);
+          });
+        }
+      } else {
+        // 작곡가 여러 명 - Composer[i]와 Work[i]를 짝짓되, 같은 작곡가가 여러 곡을 가지면 각각 개별 행으로 노출
+        composers.forEach((name, i) => {
+          const virtualRow = Object.assign({}, r, { Work: works[i] || '' });
+          (groups[name] = groups[name] || []).push(virtualRow);
+        });
+      }
+    });
+  } else if (view === 'conductor') {
+    sourceData.forEach(r => {
+      const conductors = splitNames(r.Role1);
+      if (conductors.length === 0) return; // 지휘자 정보 없는 행은 지휘자별 뷰에서 제외
+      const works = splitNames(r.Work);
+      if (conductors.length === 1) {
+        // 지휘자 1명 - 모든 곡이 그 지휘자 것, 통째로 노출
+        (groups[conductors[0]] = groups[conductors[0]] || []).push(r);
+      } else {
+        // 지휘자 여러 명 - Role1[i]와 Work[i]를 짝짓되, 같은 지휘자가 여러 곡을 가지면 한 행으로 모음
+        const byName = {};
+        conductors.forEach((name, i) => {
+          (byName[name] = byName[name] || []).push(works[i] || '');
+        });
+        Object.keys(byName).forEach(name => {
+          const virtualRow = Object.assign({}, r, { Work: byName[name].join('; ') });
+          (groups[name] = groups[name] || []).push(virtualRow);
+        });
+      }
+    });
+  } else {
+    const typeMap = { vocal: ['성악','성악(추정)'], instrument: ['연주','연주(추정)'], dance: ['무용'] };
+    const allowedTypes = typeMap[view] || [];
+    sourceData.forEach(r => {
+      if (!allowedTypes.includes(r.Role2Type)) return;
+      splitNames(r.Role2).forEach(name => { (groups[name]=groups[name]||[]).push(r); });
+    });
+  }
+
+  const keys = Object.keys(groups).sort((a,b) => {
+    if (groupSortMode === 'count') {
+      const diff = groups[b].length - groups[a].length;
+      if (diff !== 0) return diff;
+    }
+    return a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' });
+  });
+  const cols = COLS[view];
+
+  keys.forEach(k => {
+    const gt = document.createElement('div');
+    gt.className = 'group-title';
+    gt.textContent = `${k} (${groups[k].length})`;
+    out.appendChild(gt);
+
+    const GENRE_ORDER = { 'Opera': 0, 'Classical': 1, 'Ballets': 2 };
+    // 장르(Opera→Classical→Ballet) → 사이클 → 작품명 유무 → 작품명(자연 숫자 정렬) → key
+    const naturalCompare = (a, b) => a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' });
+    const sortedRows = groups[k].slice().sort((a,b) => {
+      const ga = GENRE_ORDER[a.Genre] ?? 9, gb = GENRE_ORDER[b.Genre] ?? 9;
+      if (ga !== gb) return ga - gb;
+      const ca = a.Cycle || '\uFFFF', cb = b.Cycle || '\uFFFF';
+      if (ca !== cb) return naturalCompare(ca, cb);
+      const ua = a.Work.startsWith('(') ? 1 : 0, ub = b.Work.startsWith('(') ? 1 : 0;
+      if (ua !== ub) return ua - ub;
+      if (a.Work !== b.Work) return naturalCompare(a.Work, b.Work);
+      return a.key - b.key;
+    });
+
+    const table = document.createElement('table');
+    const thead = `<thead><tr>${cols.map(c=>`<th data-col="${c}">${headerLabel(c, view)}</th>`).join('')}</tr></thead>`;
+    const rowsHtml = sortedRows.map(r => {
+      const cells = rowCells(view, r);
+      return `<tr>${cells.map((c,i)=>`<td data-col="${cols[i]}">${c}</td>`).join('')}</tr>`;
+    }).join('');
+    table.innerHTML = thead + `<tbody>${rowsHtml}</tbody>`;
+    out.appendChild(table);
+  });
+}
+
+let groupSortMode = 'alpha';
+let groupGenreFilter = 'all';
+document.querySelectorAll('input[name="sortMode"]').forEach(r => {
+  r.addEventListener('change', () => { groupSortMode = r.value; render(currentView); });
+});
+document.querySelectorAll('input[name="genreFilter"]').forEach(r => {
+  r.addEventListener('change', () => { groupGenreFilter = r.value; render(currentView); });
+});
+
+let currentView = 'original';
+document.querySelectorAll('.tab').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.tab').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    currentView = btn.dataset.view;
+    document.getElementById('groupControls').style.display = (currentView === 'original') ? 'none' : 'block';
+    render(currentView);
+  });
+});
+
+render('original');
+
+const toTopBtn = document.getElementById('toTop');
+window.addEventListener('scroll', () => {
+  toTopBtn.style.display = window.scrollY > 300 ? 'block' : 'none';
+});
+toTopBtn.addEventListener('click', () => {
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+
+</script>
+</body>
+</html>
