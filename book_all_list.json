@@ -11522,7 +11522,7 @@
     "구분NO": "4000000",
     "구분": "종교",
     "저자": "마르틴 루터",
-    "도서명": "소교리문답&middot;해설",
+    "도서명": "소교리문답·해설",
     "URL": "https://sootax.co.kr/6458",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6458.jpg",
     "DateAdded": "2025-07-27"
@@ -13319,5 +13319,82 @@
     "URL": "https://sootax.co.kr/6809",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6809.jpg",
     "DateAdded": "2026-09-13"
+  },
+  {
+    "key": "3714",
+    "NO": "9500040",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "리처드 도킨스",
+    "도서명": "만들어진 신",
+    "URL": "https://sootax.co.kr/3714",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/3714.jpg",
+    "DateAdded": "2017-11-17"
+  },
+  {
+    "key": "4397",
+    "NO": "9500050",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "뤼시앵 페브르",
+    "도서명": "마르틴 루터 한 인간의 운명",
+    "URL": "https://sootax.co.kr/4397",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/4397.jpg",
+    "DateAdded": "2018-11-25"
+  },
+  {
+    "key": "4470",
+    "NO": "9500060",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "이인호",
+    "도서명": "하루 한자 공부 ━ 내 삶에 지혜와 통찰을 주는 교양한자 365",
+    "URL": "https://sootax.co.kr/4470",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/4470.jpg",
+    "DateAdded": "2019-02-11"
+  },
+  {
+    "key": "4782",
+    "NO": "9500070",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "대니얼 데닛",
+    "도서명": "직관펌프, 생각을 열다 ━ 대니얼 데닛의 77가지 생각도구",
+    "URL": "https://sootax.co.kr/4782",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/4782.jpg",
+    "DateAdded": "2020-08-06"
+  },
+  {
+    "key": "4820",
+    "NO": "9500080",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "제임스 풀처",
+    "도서명": "자본주의 ━ 교유서가 첫단추 시리즈 35",
+    "URL": "https://sootax.co.kr/4820",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/4820.jpg",
+    "DateAdded": "2020-09-28"
+  },
+  {
+    "key": "4900",
+    "NO": "9500090",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "김필영",
+    "도서명": "5분 뚝딱 철학 ━ 생각의 역사",
+    "URL": "https://sootax.co.kr/4900",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/4900.jpg",
+    "DateAdded": "2021-05-03"
+  },
+  {
+    "key": "6158",
+    "NO": "9500100",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "장 자크 루소",
+    "도서명": "사회계약론 외 (책세상)",
+    "URL": "https://sootax.co.kr/6158",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6158.jpg",
+    "DateAdded": "2024-07-29"
   }
 ]
