@@ -13396,5 +13396,38 @@
     "URL": "https://sootax.co.kr/6158",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6158.jpg",
     "DateAdded": "2024-07-29"
+  },
+  {
+    "key": "6819",
+    "NO": "9500010",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "알레산드라 프레골렌트",
+    "도서명": "에르미타슈 미술관",
+    "URL": "https://sootax.co.kr/6819",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6819.jpg",
+    "DateAdded": "2026-09-20"
+  },
+  {
+    "key": "6820",
+    "NO": "9500020",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "다니엘라 타라브라",
+    "도서명": "암스테르담 국립 미술관",
+    "URL": "https://sootax.co.kr/6820",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6820.jpg",
+    "DateAdded": "2026-09-20"
+  },
+  {
+    "key": "6821",
+    "NO": "9500030",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "토마스 아퀴나스",
+    "도서명": "진리론",
+    "URL": "https://sootax.co.kr/6821",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6821.jpg",
+    "DateAdded": "2026-09-20"
   }
 ]
