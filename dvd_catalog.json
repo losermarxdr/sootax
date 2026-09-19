@@ -331,7 +331,7 @@
     "Role1": "Lawrence Foster",
     "Choreographer": "Kim Brandstrup",
     "Role2": "Nicolas Cavallier; Scott Hendricks",
-    "Role2Type": "무용",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/1304"
   },
@@ -539,7 +539,7 @@
     "Role1": "Simon Rattle",
     "Choreographer": "",
     "Role2": "Magdalena Kožená",
-    "Role2Type": "연주",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/1284"
   },
@@ -763,7 +763,7 @@
     "Role1": "Bernard Haitink",
     "Choreographer": "",
     "Role2": "Christine Schäfer; Emanuel Ax",
-    "Role2Type": "연주",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/1270"
   },
@@ -1067,7 +1067,7 @@
     "Role1": "",
     "Choreographer": "",
     "Role2": "José Carreras; Plácido Domingo; Luciano Pavarotti",
-    "Role2Type": "연주",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/1238"
   },
@@ -1096,10 +1096,10 @@
     "Cycle": "",
     "Work": "The Wild Dove, Op. 110 (B198); Taras Bulba",
     "구성": "발췌",
-    "Role1": "",
+    "Role1": "Václav Neumann",
     "Choreographer": "",
-    "Role2": "Václav Neumann",
-    "Role2Type": "연주",
+    "Role2": "",
+    "Role2Type": "",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/1235"
   },
@@ -1131,7 +1131,7 @@
     "Role1": "André Previn",
     "Choreographer": "",
     "Role2": "Thomas Allen; Kyung-Wha Chung",
-    "Role2Type": "연주",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/1230"
   },
@@ -2219,7 +2219,7 @@
     "Role1": "Christian Thielemann",
     "Choreographer": "",
     "Role2": "Klaus Florian Vogt; Renée Fleming",
-    "Role2Type": "연주",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/1030"
   },
@@ -3019,7 +3019,7 @@
     "Role1": "Daniel Harding",
     "Choreographer": "",
     "Role2": "Anna Netrebko; Michael Schade; Patricia Petibon; René Pape",
-    "Role2Type": "연주",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/909"
   },
@@ -3931,7 +3931,7 @@
     "Role1": "Alessandro de Marchi",
     "Choreographer": "John Neumeier",
     "Role2": "Julian Prégardien; Katja Pieweck; Mélissa Petit",
-    "Role2Type": "무용",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/780"
   },
@@ -4219,7 +4219,7 @@
     "Role1": "",
     "Choreographer": "",
     "Role2": "Renée Fleming",
-    "Role2Type": "연주",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/748"
   },
@@ -4571,7 +4571,7 @@
     "Role1": "Alain Altinoglu",
     "Choreographer": "",
     "Role2": "Alexander Tsymbalyuk; Arnold Rutkowski; Marion Barbeau; Sonya Yoncheva",
-    "Role2Type": "무용",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/717"
   },
@@ -4651,7 +4651,7 @@
     "Role1": "Ion Marin",
     "Choreographer": "",
     "Role2": "Renée Fleming",
-    "Role2Type": "연주",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/708"
   },
@@ -4731,7 +4731,7 @@
     "Role1": "",
     "Choreographer": "",
     "Role2": "Luciano Pavarotti",
-    "Role2Type": "연주",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/696"
   },
@@ -4907,7 +4907,7 @@
     "Role1": "Thomas Hengelbrock",
     "Choreographer": "Pina Bausch",
     "Role2": "Julia Kleiter; Maria Riccarda Wesseling; Marie-Agnès Gillot; Sunhae Im; Yann Bridard",
-    "Role2Type": "무용",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/684"
   },
@@ -5720,10 +5720,10 @@
     "Cycle": "",
     "Work": "(리사이틀/편집반)",
     "구성": "발췌",
-    "Role1": "",
+    "Role1": "Simon Rattle",
     "Choreographer": "",
-    "Role2": "Simon Rattle",
-    "Role2Type": "연주",
+    "Role2": "",
+    "Role2Type": "",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/597"
   },
@@ -6027,7 +6027,7 @@
     "Role1": "",
     "Choreographer": "",
     "Role2": "Luciano Pavarotti",
-    "Role2Type": "연주",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/557"
   },
@@ -6123,7 +6123,7 @@
     "Role1": "",
     "Choreographer": "",
     "Role2": "Ana Maria Martinez; Plácido Domingo",
-    "Role2Type": "연주",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/529"
   },
@@ -6747,7 +6747,7 @@
     "Role1": "Valery Gergiev",
     "Choreographer": "",
     "Role2": "Diana Vishneva; Vladimir Shklyarov",
-    "Role2Type": "성악",
+    "Role2Type": "무용",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/443"
   },
@@ -7467,7 +7467,7 @@
     "Role1": "",
     "Choreographer": "",
     "Role2": "Cecilia Bartoli",
-    "Role2Type": "연주",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/390"
   },
@@ -7963,7 +7963,7 @@
     "Role1": "",
     "Choreographer": "",
     "Role2": "Anna Netrebko; Plácido Domingo; Rolando Villazon",
-    "Role2Type": "연주",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/350"
   },
@@ -8075,7 +8075,7 @@
     "Role1": "",
     "Choreographer": "",
     "Role2": "José Carreras",
-    "Role2Type": "연주",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/343"
   },
@@ -8619,7 +8619,7 @@
     "Role1": "",
     "Choreographer": "",
     "Role2": "Thomas Quasthoff; Daniel Barenboim",
-    "Role2Type": "연주",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/275"
   },
@@ -9483,7 +9483,7 @@
     "Role1": "Franz Welser-Möst",
     "Choreographer": "",
     "Role2": "Julia Fischer; Yefim Bronfman",
-    "Role2Type": "성악",
+    "Role2Type": "연주",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/195"
   },
@@ -9979,7 +9979,7 @@
     "Role1": "",
     "Choreographer": "",
     "Role2": "Anna Netrebko; Elina Garanca",
-    "Role2Type": "연주",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/150"
   },
@@ -10875,7 +10875,7 @@
     "Role1": "Fabio Luisi",
     "Choreographer": "",
     "Role2": "Georg Zeppenfeld; Krassimira Stoyanova; Veronica Simeoni",
-    "Role2Type": "무용",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/45"
   },
@@ -11019,7 +11019,7 @@
     "Role1": "",
     "Choreographer": "",
     "Role2": "Andrea Bocelli",
-    "Role2Type": "연주",
+    "Role2Type": "성악",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/22"
   },
