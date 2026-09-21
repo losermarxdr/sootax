@@ -1,5 +1,59 @@
 [
   {
+    "key": 1355,
+    "Genre": "Rock_Pop",
+    "Title": "Eric Clapton - Crossroads Guitar Festival [DVD]",
+    "URL": "https://changgo13.tistory.com/1355",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1355.jpg",
+    "Tags": "['Eric Clapton', '개별 Blu-ray 구매목록/2026년 구매목록']",
+    "DateAdded": "2026-09-22"
+  },
+  {
+    "key": 1354,
+    "Genre": "Rock_Pop",
+    "Title": "Europe - The Final Countdown Tour 1986 - Live In Sweden [DVD]",
+    "URL": "https://changgo13.tistory.com/1354",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1354.jpg",
+    "Tags": "['Europe', '개별 Blu-ray 구매목록/2026년 구매목록']",
+    "DateAdded": "2026-09-22"
+  },
+  {
+    "key": 1353,
+    "Genre": "Rock_Pop",
+    "Title": "Judas Priest - Rising In The East [DVD]",
+    "URL": "https://changgo13.tistory.com/1353",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1353.jpg",
+    "Tags": "['Judas Priest', '개별 Blu-ray 구매목록/2026년 구매목록']",
+    "DateAdded": "2026-09-22"
+  },
+  {
+    "key": 1352,
+    "Genre": "Rock_Pop",
+    "Title": "Paul Simon - Live At The Tower Theatre October 7, 1980 [DVD]",
+    "URL": "https://changgo13.tistory.com/1352",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1352.jpg",
+    "Tags": "['Paul Simon', '개별 Blu-ray 구매목록/2026년 구매목록']",
+    "DateAdded": "2026-09-22"
+  },
+  {
+    "key": 1351,
+    "Genre": "Rock_Pop",
+    "Title": "Smokey Robinson - Standing Room Only [DVD]",
+    "URL": "https://changgo13.tistory.com/1351",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1351.jpg",
+    "Tags": "['Smokey Robinson', '개별 Blu-ray 구매목록/2026년 구매목록']",
+    "DateAdded": "2026-09-22"
+  },
+  {
+    "key": 1350,
+    "Genre": "Rock_Pop",
+    "Title": "Black Sabbath - The Best Of MusikLaden Live [DVD]",
+    "URL": "https://changgo13.tistory.com/1350",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1350.jpg",
+    "Tags": "['BLACK SABBATH', '개별 Blu-ray 구매목록/2026년 구매목록']",
+    "DateAdded": "2026-09-22"
+  },
+  {
     "key": 1349,
     "Genre": "Rock_Pop",
     "Title": "The Best Of Musikladen Volume 1 & Volume 2 [DVD]",
