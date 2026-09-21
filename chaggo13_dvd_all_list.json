@@ -1,5 +1,32 @@
 [
   {
+    "key": 1349,
+    "Genre": "Rock_Pop",
+    "Title": "The Best Of Musikladen Volume 1 & Volume 2 [DVD]",
+    "URL": "https://changgo13.tistory.com/1349",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1349.jpg",
+    "Tags": "['개별 Blu-ray 구매목록/2026년 구매목록']",
+    "DateAdded": "2026-09-22"
+  },
+  {
+    "key": 1348,
+    "Genre": "Rock_Pop",
+    "Title": "Deep Purple - Concerto For Group And Orchestra [DVD]",
+    "URL": "https://changgo13.tistory.com/1348",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1348.jpg",
+    "Tags": "['Deep Purple', '개별 Blu-ray 구매목록/2026년 구매목록']",
+    "DateAdded": "2026-09-22"
+  },
+  {
+    "key": 1347,
+    "Genre": "Jazz_Blues",
+    "Title": "Chick Corea, Gary Burton / Carla Bley, Steve Swallow - Famous Jazz Duets - Live in Concert [DVD]",
+    "URL": "https://changgo13.tistory.com/1347",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1347.jpg",
+    "Tags": "['Carla Bley', 'Gary Burton', 'Steve Swallow', 'chick corea', '개별 Blu-ray 구매목록/2026년 구매목록']",
+    "DateAdded": "2026-09-22"
+  },
+  {
     "key": 1345,
     "Genre": "Ballets",
     "Title": "Lehár: Die Lustige Witwe / Florio, Kain, Meehan [Blu-ray]",
