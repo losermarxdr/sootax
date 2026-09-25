@@ -11207,7 +11207,7 @@
     "Composer": "",
     "Cycle": "",
     "Work": "(리사이틀/편집반)",
-    "구성": "전곡",
+    "구성": "발췌",
     "Role1": "",
     "Choreographer": "",
     "Role2": "Anna Netrebko",
@@ -11239,7 +11239,7 @@
     "Composer": "",
     "Cycle": "",
     "Work": "(리사이틀/편집반)",
-    "구성": "전곡",
+    "구성": "발췌",
     "Role1": "",
     "Choreographer": "",
     "Role2": "Barbara Bonney",
@@ -11303,7 +11303,7 @@
     "Composer": "",
     "Cycle": "",
     "Work": "(리사이틀/편집반)",
-    "구성": "전곡",
+    "구성": "발췌",
     "Role1": "",
     "Choreographer": "",
     "Role2": "Anna Netrebko",
@@ -11342,5 +11342,21 @@
     "Role2Type": "연주",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/1002"
+  },
+  {
+    "key": 106,
+    "Genre": "Classical",
+    "Format": "DVD",
+    "BlogTitle": "Piano Extravaganza - 2003 The Verbier Festival & Academy 10th Anniversary [DVD]",
+    "Composer": "",
+    "Cycle": "",
+    "Work": "(리사이틀/편집반)",
+    "구성": "전곡",
+    "Role1": "",
+    "Choreographer": "",
+    "Role2": "Martha Argerich",
+    "Role2Type": "연주",
+    "확인필요": "N",
+    "URL": "https://changgo13.tistory.com/106"
   }
 ]
