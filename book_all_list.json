@@ -13429,5 +13429,49 @@
     "URL": "https://sootax.co.kr/6821",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6821.jpg",
     "DateAdded": "2026-09-20"
+  },
+  {
+    "key": "6827",
+    "NO": "9500040",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "거자오광",
+    "도서명": "중국사상사 1",
+    "URL": "https://sootax.co.kr/6827",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6827.jpg",
+    "DateAdded": "2026-09-28"
+  },
+  {
+    "key": "6828",
+    "NO": "9500050",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "크리스토프 하인리히",
+    "도서명": "클로드 모네 | 베이식 아트 2.0",
+    "URL": "https://sootax.co.kr/6828",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6828.jpg",
+    "DateAdded": "2026-09-28"
+  },
+  {
+    "key": "6829",
+    "NO": "9500060",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "서정형",
+    "도서명": "空 · 반야심경 읽기",
+    "URL": "https://sootax.co.kr/6829",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6829.jpg",
+    "DateAdded": "2026-09-28"
+  },
+  {
+    "key": "6830",
+    "NO": "9500070",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "모나 D. 후커",
+    "도서명": "복음의 결말",
+    "URL": "https://sootax.co.kr/6830",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6830.jpg",
+    "DateAdded": "2026-09-28"
   }
 ]
