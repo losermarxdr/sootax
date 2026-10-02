@@ -4,7 +4,7 @@ GitHub losermarxdr/sootax (main) 루트에 두고 스킬이 내려받아 쓴다.
 사용법: version | audit | summary [연도] | month 목록 [연도] | years 목록 | totals | detail 목록 YYYY-MM
 목록 = 세금 · 도서 · DVD · 강의노트 · 음반   (모든 통계는 게시일 기준, 음반은 아이튠즈 추가일)
 """
-VERSION = '2026.09.29-2'
+VERSION = '2026.10.02-1'
 import json, re, time, html, subprocess, urllib.parse, collections, os
 
 RAW = 'https://raw.githubusercontent.com/losermarxdr/sootax/main/'
@@ -181,10 +181,15 @@ def audit():
             lo = -1 if i == 0 else a                      # 가장 오래된 구간은 그 이전 해까지 포함
             j = sum(v for y, v in years.items() if lo <= y <= e) if lo >= 0 else sum(v for y, v in years.items() if y <= e)
             line('도서 · ' + name, n, f'DateAdded {a if i else "~"}–{e}', j, n == j)
-        yb = so.get('연도별 책 밑줄긋기')
+        # 2026.10.02 카테고리 정리: 책 2023-26 + 책 2012-22 → 「읽은 책」, 연도별 책 밑줄긋기 → 「연도별 정리」
+        rb = so.get('읽은 책')
+        if rb is not None:
+            line('도서 · 읽은 책', rb, '', len(by['도서']), rb == len(by['도서']))
+        ybn = '연도별 정리' if '연도별 정리' in so else '연도별 책 밑줄긋기'
+        yb = so.get(ybn)
         tb = so.get('책 밑줄긋기')
         if tb is not None:
-            line('도서 · 책 밑줄긋기 합계', tb, f'−연도별 책 밑줄긋기 {yb}', len(by['도서']), tb - (yb or 0) == len(by['도서']))
+            line('도서 · 책 밑줄긋기 합계', tb, f'−{ybn} {yb}', len(by['도서']), tb - (yb or 0) == len(by['도서']))
         # --- 강의노트 ---
         lb = so.get('강의노트')
         if lb is not None:
@@ -252,7 +257,7 @@ def audit():
         if not lst or (lst, k) in have:
             continue
         why = ''
-        if '월별세무일정안내' in cat or '연도별 책 밑줄긋기' in cat or '모아보기' in title:
+        if '월별세무일정안내' in cat or '연도별 책 밑줄긋기' in cat or '연도별 정리' in cat or '모아보기' in title:
             why = '(제외 대상 — 정상)'
         elif '목차' in title and lst == '강의노트':
             why = '(목차정리 — 제외목록에 있으면 정상)'
