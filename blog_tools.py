@@ -4,7 +4,7 @@ GitHub losermarxdr/sootax (main) 루트에 두고 스킬이 내려받아 쓴다.
 사용법: version | audit | summary [연도] | month 목록 [연도] | years 목록 | totals | detail 목록 YYYY-MM
 목록 = 세금 · 도서 · DVD · 강의노트 · 음반   (모든 통계는 게시일 기준, 음반은 아이튠즈 추가일)
 """
-VERSION = '2026.10.04-1'
+VERSION = '2026.10.05-1'
 import json, re, time, html, subprocess, urllib.parse, collections, os
 
 RAW = 'https://raw.githubusercontent.com/losermarxdr/sootax/main/'
@@ -17,7 +17,8 @@ UA = 'Mozilla/5.0'
 TAX_FILES_NEW = [('tax-business.json', '사업자 세금'),
                  ('tax-property.json', '재산 세금'),
                  ('tax-cases.json', '예규·판례')]
-TAX_CATS_NEW = ['세무 실무', '세금 해설', '부동산', '상속·증여', '예규·판례']
+# 예규·판례의 분류는 재산 세금과 이름이 겹치므로(부동산·상속·증여) 「예규 · 」를 붙여 구분 (2026.10.05)
+TAX_CATS_NEW = ['세무 실무', '세금 해설', '부동산', '상속·증여', '예규 · 사업자', '예규 · 부동산', '예규 · 상속·증여']
 # 정리 전 구조 (새 JSON이 아직 없을 때만 씀)
 TAX_FILES_OLD = [('structured-basic-list.json', '기초세금'),
                  ('structured-tax-links.json', '분야별 세금'),
@@ -61,9 +62,10 @@ def load_all():
         TAX_MODE['new'] = False; TAX_CATS = TAX_CATS_OLD
     for data, grp in tax_src:
         for c in data:
+            cat = ('예규 · ' + c['category']) if (grp == '예규·판례' and c['category'] != '예규·판례') else c['category']
             for it in c['items']:
                 rows.append(dict(list='세금', key=int(it['url'].rstrip('/').rsplit('/', 1)[1]),
-                                 date=it.get('date', ''), cat=c['category'], group=grp,
+                                 date=it.get('date', ''), cat=cat, group=grp,
                                  title=it['title']))
     for b in get_json('book_all_list.json'):
         rows.append(dict(list='도서', key=int(b['key']), date=str(b['DateAdded'])[:10],
