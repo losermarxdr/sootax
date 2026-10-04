@@ -4,7 +4,7 @@ GitHub losermarxdr/sootax (main) 루트에 두고 스킬이 내려받아 쓴다.
 사용법: version | audit | summary [연도] | month 목록 [연도] | years 목록 | totals | detail 목록 YYYY-MM
 목록 = 세금 · 도서 · DVD · 강의노트 · 음반   (모든 통계는 게시일 기준, 음반은 아이튠즈 추가일)
 """
-VERSION = '2026.10.02-1'
+VERSION = '2026.10.04-1'
 import json, re, time, html, subprocess, urllib.parse, collections, os
 
 RAW = 'https://raw.githubusercontent.com/losermarxdr/sootax/main/'
@@ -12,11 +12,21 @@ SOOTAX = 'https://sootax.co.kr'
 CHANGGO = 'https://changgo13.tistory.com'
 UA = 'Mozilla/5.0'
 
-TAX_FILES = [('structured-basic-list.json', '기초세금'),
-             ('structured-tax-links.json', '분야별 세금'),
-             ('structured-case-list.json', '예규와 판례')]
-TAX_CATS = ['세무기장대행', '부동산 기초세금', '상속세와 증여세', '기업경영과 세금',
-            '주제별 세금해설', '기업경영 관련 예규·판례', '부동산 관련 예규·판례']
+# 2026.10.04 세금 재구성: 블로그 「세금노트」 > 사업자 세금 · 재산 세금 · 예규·판례 (· 월별세무일정은 목록 아님)
+#   JSON 3개 = 하위 카테고리 3개. 파일 안의 category = 분류(자료구분)
+TAX_FILES_NEW = [('tax-business.json', '사업자 세금'),
+                 ('tax-property.json', '재산 세금'),
+                 ('tax-cases.json', '예규·판례')]
+TAX_CATS_NEW = ['세무 실무', '세금 해설', '부동산', '상속·증여', '예규·판례']
+# 정리 전 구조 (새 JSON이 아직 없을 때만 씀)
+TAX_FILES_OLD = [('structured-basic-list.json', '기초세금'),
+                 ('structured-tax-links.json', '분야별 세금'),
+                 ('structured-case-list.json', '예규와 판례')]
+TAX_CATS_OLD = ['세무기장대행', '부동산 기초세금', '상속세와 증여세', '기업경영과 세금',
+                '주제별 세금해설', '기업경영 관련 예규·판례', '부동산 관련 예규·판례']
+TAX_BLOG_SUBS = TAX_CATS_OLD + [g for _, g in TAX_FILES_NEW]   # 블로그 세금 하위 카테고리(옛·새) — 합계 대조용
+TAX_MODE = {'new': True}
+TAX_CATS = TAX_CATS_NEW
 DVD_GENRES = ['Rock_Pop', 'Jazz_Blues', 'Opera', 'Classical', 'Ballets', 'Theater']
 
 
@@ -42,8 +52,15 @@ def get_json(name):
 def load_all():
     """다섯 목록을 공통 모양 [{list, key, date, cat, title}]으로"""
     rows = []
-    for f, grp in TAX_FILES:
-        for c in get_json(f):
+    global TAX_CATS
+    try:
+        tax_src = [(get_json(f), grp) for f, grp in TAX_FILES_NEW]
+        TAX_MODE['new'] = True; TAX_CATS = TAX_CATS_NEW
+    except RuntimeError:                                   # 새 JSON이 아직 없음 → 옛 구조
+        tax_src = [(get_json(f), grp) for f, grp in TAX_FILES_OLD]
+        TAX_MODE['new'] = False; TAX_CATS = TAX_CATS_OLD
+    for data, grp in tax_src:
+        for c in data:
             for it in c['items']:
                 rows.append(dict(list='세금', key=int(it['url'].rstrip('/').rsplit('/', 1)[1]),
                                  date=it.get('date', ''), cat=c['category'], group=grp,
@@ -138,7 +155,8 @@ def cell(v):
 #  검수 (audit)
 # ======================================================================
 EXPECTED_LECTURE_EXCLUDED = 13     # 2026.09.28 기준 제외목록 행 수 (목차정리 12 + 모아보기 6825)
-TAX_EXTRA = {'기업경영과 세금': (1, '분야별 세금 모아보기 6430')}   # 블로그에만 있고 목록에서 뺀 글
+TAX_EXTRA = {'기업경영과 세금': (1, '세금 모아보기 6430'),       # 블로그에만 있고 목록에서 뺀 글
+             '사업자 세금': (1, '세금 모아보기 6430')}
 
 
 def audit():
@@ -160,14 +178,31 @@ def audit():
         out.append(['sootax 카테고리', '읽기 실패', '', '', '✗', '블로그 접속 확인 필요'])
         bad.append('sootax 접속')
     else:
-        tcnt = collections.Counter(r['cat'] for r in by['세금'])
-        for c in TAX_CATS:
-            b = so.get(c)
-            extra, why = TAX_EXTRA.get(c, (0, ''))
-            if b is None:
-                line('세금 · ' + c, '없음', '', tcnt[c], False, '블로그 카테고리 이름 확인')
-                continue
-            line('세금 · ' + c, b, (f'−{extra} ({why})' if extra else ''), tcnt[c], b - extra == tcnt[c])
+        blog_new = '사업자 세금' in so
+        if TAX_MODE['new'] and blog_new:                     # 정리 후: 하위 카테고리 3개 ↔ JSON 3개
+            gcnt = collections.Counter(r['group'] for r in by['세금'])
+            for _, g in TAX_FILES_NEW:
+                b = so.get(g)
+                extra, why = TAX_EXTRA.get(g, (0, ''))
+                if b is None:
+                    line('세금 · ' + g, '없음', '', gcnt[g], False, '블로그 카테고리 이름 확인'); continue
+                line('세금 · ' + g, b, (f'−{extra} ({why})' if extra else ''), gcnt[g], b - extra == gcnt[g])
+            olds = [c for c in TAX_CATS_OLD if so.get(c)]
+            if olds:
+                line('세금 · 옛 카테고리에 남은 글', sum(so[c] for c in olds), '0이어야 함', 0, False, ', '.join(f'{c} {so[c]}' for c in olds))
+        elif not TAX_MODE['new'] and not blog_new:           # 정리 전: 옛 7개 ↔ 옛 JSON
+            tcnt = collections.Counter(r['cat'] for r in by['세금'])
+            for c in TAX_CATS_OLD:
+                b = so.get(c)
+                extra, why = TAX_EXTRA.get(c, (0, ''))
+                if b is None:
+                    line('세금 · ' + c, '없음', '', tcnt[c], False, '블로그 카테고리 이름 확인')
+                    continue
+                line('세금 · ' + c, b, (f'−{extra} ({why})' if extra else ''), tcnt[c], b - extra == tcnt[c])
+        # 합계는 언제나 대조 (정리 도중에도 맞아야 함): 블로그 세금 하위 카테고리 합 − 6430 = JSON 전체
+        tb = sum(so.get(c, 0) for c in TAX_BLOG_SUBS)
+        note = '' if (TAX_MODE['new'] == blog_new) else ('정리 중 — 시트·JSON은 ' + ('새' if TAX_MODE['new'] else '옛') + ' 구조, 블로그는 ' + ('새' if blog_new else '옛') + ' 구조')
+        line('세금 · 합계', tb, '−1 (세금 모아보기 6430)', len(by['세금']), tb - 1 == len(by['세금']), note)
         # --- 도서: 「책 YYYY-YY」 하위 카테고리 ↔ DateAdded 연도 ---
         ranges = []
         for name, n in so.items():
@@ -253,11 +288,11 @@ def audit():
     late = []
     for k, cat, title, pub in rss_items():
         head = cat.split('/')[0]
-        lst = {'기초세금': '세금', '분야별세금': '세금', '책 밑줄긋기': '도서', '강의노트': '강의노트'}.get(head)
+        lst = {'세금노트': '세금', '기초세금': '세금', '분야별세금': '세금', '책 밑줄긋기': '도서', '강의노트': '강의노트'}.get(head)
         if not lst or (lst, k) in have:
             continue
         why = ''
-        if '월별세무일정안내' in cat or '연도별 책 밑줄긋기' in cat or '연도별 정리' in cat or '모아보기' in title:
+        if '월별세무일정' in cat or '월별세무일정' in title or '연도별 책 밑줄긋기' in cat or '연도별 정리' in cat or '모아보기' in title:
             why = '(제외 대상 — 정상)'
         elif '목차' in title and lst == '강의노트':
             why = '(목차정리 — 제외목록에 있으면 정상)'
