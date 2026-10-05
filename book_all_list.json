@@ -13473,5 +13473,49 @@
     "URL": "https://sootax.co.kr/6830",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6830.jpg",
     "DateAdded": "2026-09-28"
+  },
+  {
+    "key": "6837",
+    "NO": "9500010",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "루카 모자티",
+    "도서명": "대영 박물관 | 마로니에북스 세계미술관 기행 7",
+    "URL": "https://sootax.co.kr/6837",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6837.jpg",
+    "DateAdded": "2026-10-06"
+  },
+  {
+    "key": "6838",
+    "NO": "9500020",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "모나 D. 후커",
+    "도서명": "복음의 시작",
+    "URL": "https://sootax.co.kr/6838",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6838.jpg",
+    "DateAdded": "2026-10-06"
+  },
+  {
+    "key": "6839",
+    "NO": "9500030",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "올리버 지몬스",
+    "도서명": "한권으로 읽는 문학이론",
+    "URL": "https://sootax.co.kr/6839",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6839.jpg",
+    "DateAdded": "2026-10-06"
+  },
+  {
+    "key": "6840",
+    "NO": "9500040",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "존 베어",
+    "도서명": "그리고 신학이 시작되었다",
+    "URL": "https://sootax.co.kr/6840",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6840.jpg",
+    "DateAdded": "2026-10-06"
   }
 ]
