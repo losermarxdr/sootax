@@ -13517,5 +13517,82 @@
     "URL": "https://sootax.co.kr/6840",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6840.jpg",
     "DateAdded": "2026-10-06"
+  },
+  {
+    "key": "6852",
+    "NO": "9500050",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "에르베르 토마",
+    "도서명": "인류의 기원 - 화석 인류를 찾아서  | 시공 디스커버리 총서 44",
+    "URL": "https://sootax.co.kr/6852",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6852.jpg",
+    "DateAdded": "2026-10-20"
+  },
+  {
+    "key": "6853",
+    "NO": "9500060",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "알랭 에르랑드 브랑당뷔르",
+    "도서명": "성당 - 빛과 색이 있는 건축물  | 시공 디스커버리 총서 45",
+    "URL": "https://sootax.co.kr/6853",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6853.jpg",
+    "DateAdded": "2026-10-20"
+  },
+  {
+    "key": "6854",
+    "NO": "9500070",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "브뤼노 다강",
+    "도서명": "앙코르 - 장엄한 성벽도시  | 시공 디스커버리 총서 46",
+    "URL": "https://sootax.co.kr/6854",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6854.jpg",
+    "DateAdded": "2026-10-20"
+  },
+  {
+    "key": "6855",
+    "NO": "9500080",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "올리비에 크리스텡",
+    "도서명": "종교개혁 - 루터와 칼뱅, 프로테스탄트의 탄생 | 시공 디스커버리 총서 82",
+    "URL": "https://sootax.co.kr/6855",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6855.jpg",
+    "DateAdded": "2026-10-20"
+  },
+  {
+    "key": "6856",
+    "NO": "9500090",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "재니스 헨드릭슨",
+    "도서명": "로이 리히텐슈타인 | 베이식 아트 2.0",
+    "URL": "https://sootax.co.kr/6856",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6856.jpg",
+    "DateAdded": "2026-10-20"
+  },
+  {
+    "key": "6857",
+    "NO": "9500100",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "한스 게오르크 가다머",
+    "도서명": "진리와 방법 1",
+    "URL": "https://sootax.co.kr/6857",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6857.jpg",
+    "DateAdded": "2026-10-20"
+  },
+  {
+    "key": "6858",
+    "NO": "9500110",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "한스 게오르크 가다머",
+    "도서명": "진리와 방법 2",
+    "URL": "https://sootax.co.kr/6858",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6858.jpg",
+    "DateAdded": "2026-10-20"
   }
 ]
