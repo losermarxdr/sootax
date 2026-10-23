@@ -1,5 +1,32 @@
 [
   {
+    "key": 1361,
+    "Genre": "Opera",
+    "Title": "Verdi: La Traviata / Maazel, Ciofi, Saccà [DVD]",
+    "URL": "https://changgo13.tistory.com/1361",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1361.jpg",
+    "Tags": "['Lorin Maazel', 'Patrizia Ciofi', 'Roberto Sacc&agrave;', 'Verdi']",
+    "DateAdded": "2026-10-24"
+  },
+  {
+    "key": 1360,
+    "Genre": "Opera",
+    "Title": "Rameau: Les Paladins / Christie, Lehtipuu, d’Oustrac [DVD]",
+    "URL": "https://changgo13.tistory.com/1360",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1360.jpg",
+    "Tags": "['Rameau', 'Topi Lehtipuu', 'William Christie', 'St&eacute;phanie D’oustrac']",
+    "DateAdded": "2026-10-24"
+  },
+  {
+    "key": 1359,
+    "Genre": "Rock_Pop",
+    "Title": "Julieta Venegas - MTV Unplugged [DVD]",
+    "URL": "https://changgo13.tistory.com/1359",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1359.jpg",
+    "Tags": "['Julieta Venegas']",
+    "DateAdded": "2026-10-24"
+  },
+  {
     "key": 1356,
     "Genre": "Rock_Pop",
     "Title": "Larry Coryell, Badi Assad, John Abercrombie - Three Guitars [DVD]",
