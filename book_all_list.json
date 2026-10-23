@@ -13594,5 +13594,38 @@
     "URL": "https://sootax.co.kr/6858",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6858.jpg",
     "DateAdded": "2026-10-20"
+  },
+  {
+    "key": "6863",
+    "NO": "9500010",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "어니스트 베커",
+    "도서명": "죽음의 부정",
+    "URL": "https://sootax.co.kr/6863",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6863.jpg",
+    "DateAdded": "2026-10-24"
+  },
+  {
+    "key": "6864",
+    "NO": "9500020",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "존 바턴",
+    "도서명": "성서의 역사",
+    "URL": "https://sootax.co.kr/6864",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6864.jpg",
+    "DateAdded": "2026-10-24"
+  },
+  {
+    "key": "6865",
+    "NO": "9500030",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "찰스 테일러",
+    "도서명": "헤겔",
+    "URL": "https://sootax.co.kr/6865",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6865.jpg",
+    "DateAdded": "2026-10-24"
   }
 ]
