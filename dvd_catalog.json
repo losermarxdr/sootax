@@ -11358,5 +11358,37 @@
     "Role2Type": "연주",
     "확인필요": "N",
     "URL": "https://changgo13.tistory.com/106"
+  },
+  {
+    "key": 1360,
+    "Genre": "Opera",
+    "Format": "DVD",
+    "BlogTitle": "Rameau: Les Paladins / Christie, Lehtipuu, d’Oustrac [DVD]",
+    "Composer": "Rameau",
+    "Cycle": "",
+    "Work": "Les Paladins",
+    "구성": "전곡",
+    "Role1": "William Christie",
+    "Choreographer": "",
+    "Role2": "Topi Lehtipuu; St&eacute; Phanie D’oustrac",
+    "Role2Type": "성악",
+    "확인필요": "N",
+    "URL": "https://changgo13.tistory.com/1360"
+  },
+  {
+    "key": 1361,
+    "Genre": "Opera",
+    "Format": "DVD",
+    "BlogTitle": "Verdi: La Traviata / Maazel, Ciofi, Saccà [DVD]",
+    "Composer": "Verdi",
+    "Cycle": "",
+    "Work": "La Traviata",
+    "구성": "전곡",
+    "Role1": "Lorin Maazel",
+    "Choreographer": "",
+    "Role2": "Patrizia Ciofi; Roberto Saccà",
+    "Role2Type": "성악",
+    "확인필요": "N",
+    "URL": "https://changgo13.tistory.com/1361"
   }
 ]
