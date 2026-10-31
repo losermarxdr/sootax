@@ -13627,5 +13627,71 @@
     "URL": "https://sootax.co.kr/6865",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6865.jpg",
     "DateAdded": "2026-10-24"
+  },
+  {
+    "key": "6869",
+    "NO": "9500040",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "발레리 베린스탱",
+    "도서명": "무굴 제국 - 인도이슬람왕조 | 시공 디스커버리 총서 81",
+    "URL": "https://sootax.co.kr/6869",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6869.jpg",
+    "DateAdded": "2026-11-01"
+  },
+  {
+    "key": "6870",
+    "NO": "9500050",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "장 피에르 모리",
+    "도서명": "갈릴레오 - 불경한 천문학자의 이야기 | 시공 디스커버리 총서 95",
+    "URL": "https://sootax.co.kr/6870",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6870.jpg",
+    "DateAdded": "2026-11-01"
+  },
+  {
+    "key": "6871",
+    "NO": "9500060",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "알프레드 바알",
+    "도서명": "축구의 역사 | 시공 디스커버리 총서 96",
+    "URL": "https://sootax.co.kr/6871",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6871.jpg",
+    "DateAdded": "2026-11-01"
+  },
+  {
+    "key": "6872",
+    "NO": "9500070",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "조르주 뒤비",
+    "도서명": "지도로 보는 세계사",
+    "URL": "https://sootax.co.kr/6872",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6872.jpg",
+    "DateAdded": "2026-11-01"
+  },
+  {
+    "key": "6873",
+    "NO": "9500080",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "다나카 쿠미코",
+    "도서명": "도해 서양화",
+    "URL": "https://sootax.co.kr/6873",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6873.jpg",
+    "DateAdded": "2026-11-01"
+  },
+  {
+    "key": "6874",
+    "NO": "9500090",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "더글러스 호프스태터",
+    "도서명": "괴델, 에셔, 바흐 - 영원한 황금 노끈",
+    "URL": "https://sootax.co.kr/6874",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6874.jpg",
+    "DateAdded": "2026-11-01"
   }
 ]
