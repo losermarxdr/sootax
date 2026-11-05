@@ -1,5 +1,77 @@
 [
   {
+    "ID": 4389,
+    "장르": "B 2026-2",
+    "아티스트": "Mumford & Sons",
+    "앨범": "Babel",
+    "DateAdded": "2026-11-05T00:00:00Z",
+    "앨범커버URL": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/cdlist/4389.jpg"
+  },
+  {
+    "ID": 4388,
+    "장르": "B 2026-2",
+    "아티스트": "Travis",
+    "앨범": "The Invisible Band",
+    "DateAdded": "2026-11-05T00:00:00Z",
+    "앨범커버URL": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/cdlist/4388.jpg"
+  },
+  {
+    "ID": 4387,
+    "장르": "B 2026-2",
+    "아티스트": "Travis",
+    "앨범": "Where You Stand",
+    "DateAdded": "2026-11-05T00:00:00Z",
+    "앨범커버URL": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/cdlist/4387.jpg"
+  },
+  {
+    "ID": 4386,
+    "장르": "B 2026-2",
+    "아티스트": "이상은",
+    "앨범": "1991-1999 Best Album : Don't Say That Was Yesterday",
+    "DateAdded": "2026-11-05T00:00:00Z",
+    "앨범커버URL": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/cdlist/4386.jpg"
+  },
+  {
+    "ID": 4385,
+    "장르": "B 2026-2",
+    "아티스트": "Santana",
+    "앨범": "The Game Of Love [Single]",
+    "DateAdded": "2026-11-05T00:00:00Z",
+    "앨범커버URL": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/cdlist/4385.jpg"
+  },
+  {
+    "ID": 4384,
+    "장르": "B 2026-2",
+    "아티스트": "Lacrimosa",
+    "앨범": "Lichtgestalt",
+    "DateAdded": "2026-11-05T00:00:00Z",
+    "앨범커버URL": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/cdlist/4384.jpg"
+  },
+  {
+    "ID": 4383,
+    "장르": "B 2026-2",
+    "아티스트": "劉德華",
+    "앨범": "愛意",
+    "DateAdded": "2026-11-05T00:00:00Z",
+    "앨범커버URL": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/cdlist/4383.jpg"
+  },
+  {
+    "ID": 4382,
+    "장르": "B 2026-2",
+    "아티스트": "葉蒨文",
+    "앨범": "與你又過一天",
+    "DateAdded": "2026-11-05T00:00:00Z",
+    "앨범커버URL": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/cdlist/4382.jpg"
+  },
+  {
+    "ID": 4381,
+    "장르": "B 2026-2",
+    "아티스트": "陳慧琳",
+    "앨범": "星夢情真",
+    "DateAdded": "2026-11-05T00:00:00Z",
+    "앨범커버URL": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/cdlist/4381.jpg"
+  },
+  {
     "ID": 4380,
     "장르": "B 2026-1",
     "아티스트": "ABBA",
@@ -166,77 +238,5 @@
     "앨범": "J60 Berlioz: Les Nuits d’été & Mélodies",
     "DateAdded": "2026-09-28T00:00:00Z",
     "앨범커버URL": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/cdlist/4360.jpg"
-  },
-  {
-    "ID": 4359,
-    "장르": "Gardiner – The Complete Recordings on Erato",
-    "아티스트": "John Eliot Gardiner",
-    "앨범": "J59 Gluck: Orphée et Eurydice [Disc 2]",
-    "DateAdded": "2026-09-28T00:00:00Z",
-    "앨범커버URL": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/cdlist/4359.jpg"
-  },
-  {
-    "ID": 4358,
-    "장르": "Gardiner – The Complete Recordings on Erato",
-    "아티스트": "John Eliot Gardiner",
-    "앨범": "J58 Gluck: Orphée et Eurydice [Disc 1]",
-    "DateAdded": "2026-09-28T00:00:00Z",
-    "앨범커버URL": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/cdlist/4358.jpg"
-  },
-  {
-    "ID": 4357,
-    "장르": "Gardiner – The Complete Recordings on Erato",
-    "아티스트": "John Eliot Gardiner",
-    "앨범": "J57 Carissimi: Judicium Extremum; Jonas; Jephte",
-    "DateAdded": "2026-09-28T00:00:00Z",
-    "앨범커버URL": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/cdlist/4357.jpg"
-  },
-  {
-    "ID": 4356,
-    "장르": "Gardiner – The Complete Recordings on Erato",
-    "아티스트": "John Eliot Gardiner",
-    "앨범": "J56 Ravel & Duparc: Mélodies",
-    "DateAdded": "2026-09-28T00:00:00Z",
-    "앨범커버URL": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/cdlist/4356.jpg"
-  },
-  {
-    "ID": 4355,
-    "장르": "Gardiner – The Complete Recordings on Erato",
-    "아티스트": "John Eliot Gardiner",
-    "앨범": "J55 Couperin: Le Parnasse; Concerts",
-    "DateAdded": "2026-09-28T00:00:00Z",
-    "앨범커버URL": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/cdlist/4355.jpg"
-  },
-  {
-    "ID": 4354,
-    "장르": "Gardiner – The Complete Recordings on Erato",
-    "아티스트": "John Eliot Gardiner",
-    "앨범": "J54 Offenbach: Les Brigands [Disc 2]",
-    "DateAdded": "2026-09-28T00:00:00Z",
-    "앨범커버URL": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/cdlist/4354.jpg"
-  },
-  {
-    "ID": 4353,
-    "장르": "Gardiner – The Complete Recordings on Erato",
-    "아티스트": "John Eliot Gardiner",
-    "앨범": "J53 Offenbach: Les Brigands [Disc 1]",
-    "DateAdded": "2026-09-28T00:00:00Z",
-    "앨범커버URL": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/cdlist/4353.jpg"
-  },
-  {
-    "ID": 4352,
-    "장르": "Gardiner – The Complete Recordings on Erato",
-    "아티스트": "John Eliot Gardiner",
-    "앨범": "J52 Purcell: Timon of Athens; Dioclesian [Disc 2]",
-    "DateAdded": "2026-09-28T00:00:00Z",
-    "앨범커버URL": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/cdlist/4352.jpg"
-  },
-  {
-    "ID": 4351,
-    "장르": "Gardiner – The Complete Recordings on Erato",
-    "아티스트": "John Eliot Gardiner",
-    "앨범": "J51 Purcell: Timon of Athens; Dioclesian [Disc 1]",
-    "DateAdded": "2026-09-28T00:00:00Z",
-    "앨범커버URL": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/cdlist/4351.jpg"
   }
 ]
