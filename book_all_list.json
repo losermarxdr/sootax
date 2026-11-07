@@ -13693,5 +13693,38 @@
     "URL": "https://sootax.co.kr/6874",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6874.jpg",
     "DateAdded": "2026-11-01"
+  },
+  {
+    "key": "6881",
+    "NO": "9500100",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "존 폴킹혼",
+    "도서명": "쿼크, 카오스, 그리스도교",
+    "URL": "https://sootax.co.kr/6881",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6881.jpg",
+    "DateAdded": "2026-11-08"
+  },
+  {
+    "key": "6882",
+    "NO": "9500110",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "이케가미 쇼타",
+    "도서명": "중세 유럽의 문화",
+    "URL": "https://sootax.co.kr/6882",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6882.jpg",
+    "DateAdded": "2026-11-08"
+  },
+  {
+    "key": "6883",
+    "NO": "9500120",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "고트프리트 빌헬름 라이프니츠",
+    "도서명": "모나드론 외",
+    "URL": "https://sootax.co.kr/6883",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6883.jpg",
+    "DateAdded": "2026-11-08"
   }
 ]
