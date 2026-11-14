@@ -1,5 +1,68 @@
 [
   {
+    "key": 1368,
+    "Genre": "Classical",
+    "Title": "Martha Argerich & Friends [DVD]",
+    "URL": "https://changgo13.tistory.com/1368",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1368.jpg",
+    "Tags": "['Martha Argerich', 'Mischa Maisky', 'Mozart', 'Rachmaninoff', 'Ravel', 'Schumann', 'Chopin', 'Debussy']",
+    "DateAdded": "2026-11-15"
+  },
+  {
+    "key": 1367,
+    "Genre": "Opera",
+    "Title": "Puccini: La Rondine / Rizzi Brignoli, Alieva, Castronovo [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1367",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1367.jpg",
+    "Tags": "['Charles Castronovo', 'Dinara Alieva', 'Puccini', 'Roberto Rizzi Brignoli']",
+    "DateAdded": "2026-11-15"
+  },
+  {
+    "key": 1366,
+    "Genre": "Opera",
+    "Title": "Verdi: Nabucco / Levine, Pons, Guleghina [DVD]",
+    "URL": "https://changgo13.tistory.com/1366",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1366.jpg",
+    "Tags": "['James Levine', 'Juan Pons', 'Maria Guleghina', 'Samuel Ramey', 'Verdi']",
+    "DateAdded": "2026-11-15"
+  },
+  {
+    "key": 1365,
+    "Genre": "Rock_Pop",
+    "Title": "The Black Eyed Peas - Live From Sydney To Vegas [DVD]",
+    "URL": "https://changgo13.tistory.com/1365",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1365.jpg",
+    "Tags": "['The Black Eyed Peas']",
+    "DateAdded": "2026-11-15"
+  },
+  {
+    "key": 1364,
+    "Genre": "Rock_Pop",
+    "Title": "Dream Theater - Live At Budokan [DVD]",
+    "URL": "https://changgo13.tistory.com/1364",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1364.jpg",
+    "Tags": "['Dream Theater']",
+    "DateAdded": "2026-11-15"
+  },
+  {
+    "key": 1363,
+    "Genre": "Rock_Pop",
+    "Title": "Grateful Dead - Anthem To Beauty [DVD]",
+    "URL": "https://changgo13.tistory.com/1363",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1363.jpg",
+    "Tags": "['Grateful Dead']",
+    "DateAdded": "2026-11-15"
+  },
+  {
+    "key": 1362,
+    "Genre": "Rock_Pop",
+    "Title": "The Best Of Musikladen - Ladies Of Rock [DVD]",
+    "URL": "https://changgo13.tistory.com/1362",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1362.jpg",
+    "Tags": "['Bonnie Tyler', 'Heart', 'Suzi Quatro', 'The Motels']",
+    "DateAdded": "2026-11-15"
+  },
+  {
     "key": 1361,
     "Genre": "Opera",
     "Title": "Verdi: La Traviata / Maazel, Ciofi, Saccà [DVD]",
