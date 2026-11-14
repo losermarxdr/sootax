@@ -13726,5 +13726,38 @@
     "URL": "https://sootax.co.kr/6883",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6883.jpg",
     "DateAdded": "2026-11-08"
+  },
+  {
+    "key": "6892",
+    "NO": "9500010",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "존 파커, 리처드 래스본",
+    "도서명": "아프리카 역사",
+    "URL": "https://sootax.co.kr/6892",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6892.jpg",
+    "DateAdded": "2026-11-15"
+  },
+  {
+    "key": "6893",
+    "NO": "9500020",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "대한성서공회",
+    "도서명": "요한복음서 | 사복음서 시리즈",
+    "URL": "https://sootax.co.kr/6893",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6893.jpg",
+    "DateAdded": "2026-11-15"
+  },
+  {
+    "key": "6894",
+    "NO": "9500030",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "장 자크 루소",
+    "도서명": "에밀 | 고전의 세계 리커버",
+    "URL": "https://sootax.co.kr/6894",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6894.jpg",
+    "DateAdded": "2026-11-15"
   }
 ]
