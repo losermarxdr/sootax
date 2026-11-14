@@ -1,5 +1,59 @@
 [
   {
+    "key": 1374,
+    "Genre": "Opera",
+    "Title": "Wagner: Parsifal / Heras-Casado, Schager, Garanča [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1374",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1374.jpg",
+    "Tags": "['Andreas Schager', 'Elina Garanca', 'Georg Zeppenfeld', 'Pablo Heras-Casado', 'Wagner']",
+    "DateAdded": "2026-11-15"
+  },
+  {
+    "key": 1373,
+    "Genre": "Opera",
+    "Title": "Johann Strauss II: Die Fledermaus / Böhm, Janowitz, Wächter [DVD]",
+    "URL": "https://changgo13.tistory.com/1373",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1373.jpg",
+    "Tags": "['Eberhard W&auml;chter', 'Johann Strauss II', 'Karl B&ouml;hm', 'Renate Holm', 'Gundula Janowitz']",
+    "DateAdded": "2026-11-15"
+  },
+  {
+    "key": 1372,
+    "Genre": "Opera",
+    "Title": "Tchaikovsky: Eugene Onegin / Gergiev, Fleming, Hvorostovsky [DVD]",
+    "URL": "https://changgo13.tistory.com/1372",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1372.jpg",
+    "Tags": "['Ram&oacute;n Vargas', 'Renée Fleming', 'Tchaikovsky', 'Valery Gergiev']",
+    "DateAdded": "2026-11-15"
+  },
+  {
+    "key": 1371,
+    "Genre": "Opera",
+    "Title": "Bellini: La Sonnambula / Pidò, Dessay, Flórez [DVD]",
+    "URL": "https://changgo13.tistory.com/1371",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1371.jpg",
+    "Tags": "['Bellini', 'Evelino Pid&ograve;', 'Juan Diego Florez', 'Natalie Dessay']",
+    "DateAdded": "2026-11-15"
+  },
+  {
+    "key": 1370,
+    "Genre": "Rock_Pop",
+    "Title": "Indigo Girls - Watershed (10 Years Of Underground Video) [DVD]",
+    "URL": "https://changgo13.tistory.com/1370",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1370.jpg",
+    "Tags": "['Indigo Girls']",
+    "DateAdded": "2026-11-15"
+  },
+  {
+    "key": 1369,
+    "Genre": "Rock_Pop",
+    "Title": "Dream Theater - Metropolis 2000: Scenes From New York [DVD]",
+    "URL": "https://changgo13.tistory.com/1369",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1369.jpg",
+    "Tags": "['Dream Theater']",
+    "DateAdded": "2026-11-15"
+  },
+  {
     "key": 1368,
     "Genre": "Classical",
     "Title": "Martha Argerich & Friends [DVD]",
