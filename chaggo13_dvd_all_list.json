@@ -1,5 +1,41 @@
 [
   {
+    "key": 1378,
+    "Genre": "Opera",
+    "Title": "Wagner: Götterdämmerung / Barenboim, Jerusalem, Evans [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1378",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1378.jpg",
+    "Tags": "['Anne Evans', 'Bodo Brinkmann', 'Daniel Barenboim', 'Eva-Maria Bundschuh', 'Philip Kang', 'Siegfried Jerusalem', 'Wagner', 'Waltraud Meier']",
+    "DateAdded": "2026-11-15"
+  },
+  {
+    "key": 1377,
+    "Genre": "Opera",
+    "Title": "Wagner: Siegfried / Barenboim, Jerusalem, Evans [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1377",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1377.jpg",
+    "Tags": "['Anne Evans', 'Daniel Barenboim', 'G&uuml;nter von Kannen', 'Graham Clark', 'John Tomlinson', 'Siegfried Jerusalem', 'Wagner']",
+    "DateAdded": "2026-11-15"
+  },
+  {
+    "key": 1376,
+    "Genre": "Opera",
+    "Title": "Wagner: Die Walküre / Barenboim, Tomlinson, Evans [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1376",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1376.jpg",
+    "Tags": "['Anne Evans', 'Daniel Barenboim', 'John Tomlinson', 'Nadine Secunde', 'Poul Elming', 'Wagner']",
+    "DateAdded": "2026-11-15"
+  },
+  {
+    "key": 1375,
+    "Genre": "Opera",
+    "Title": "Wagner: Das Rheingold / Barenboim, Tomlinson, Clark [Blu-ray]",
+    "URL": "https://changgo13.tistory.com/1375",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/dvdlist/1375.jpg",
+    "Tags": "['Daniel Barenboim', 'G&uuml;nter von Kannen', 'Graham Clark', 'John Tomlinson', 'Wagner']",
+    "DateAdded": "2026-11-15"
+  },
+  {
     "key": 1374,
     "Genre": "Opera",
     "Title": "Wagner: Parsifal / Heras-Casado, Schager, Garanča [Blu-ray]",
