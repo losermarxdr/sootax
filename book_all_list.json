@@ -13759,5 +13759,38 @@
     "URL": "https://sootax.co.kr/6894",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6894.jpg",
     "DateAdded": "2026-11-15"
+  },
+  {
+    "key": "6901",
+    "NO": "9500040",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "에른스트 카시러",
+    "도서명": "인문학의 구조 내에서 상징형식 개념 외",
+    "URL": "https://sootax.co.kr/6901",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6901.jpg",
+    "DateAdded": "2026-11-22"
+  },
+  {
+    "key": "6902",
+    "NO": "9500050",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "한스 게오르크 가다머",
+    "도서명": "과학 시대의 이성",
+    "URL": "https://sootax.co.kr/6902",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6902.jpg",
+    "DateAdded": "2026-11-22"
+  },
+  {
+    "key": "6903",
+    "NO": "9500060",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "크레이그 벤저민",
+    "도서명": "제국과 네트워크 2",
+    "URL": "https://sootax.co.kr/6903",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6903.jpg",
+    "DateAdded": "2026-11-22"
   }
 ]
