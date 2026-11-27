@@ -13792,5 +13792,38 @@
     "URL": "https://sootax.co.kr/6903",
     "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6903.jpg",
     "DateAdded": "2026-11-22"
+  },
+  {
+    "key": "6914",
+    "NO": "9500070",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "아베로에스",
+    "도서명": "결정적 논고  | 고전의 세계 리커버",
+    "URL": "https://sootax.co.kr/6914",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6914.jpg",
+    "DateAdded": "2026-11-27"
+  },
+  {
+    "key": "6915",
+    "NO": "9500080",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "존 듀이",
+    "도서명": "경험으로서의 예술",
+    "URL": "https://sootax.co.kr/6915",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6915.jpg",
+    "DateAdded": "2026-11-27"
+  },
+  {
+    "key": "6916",
+    "NO": "9500090",
+    "구분NO": "9500000",
+    "구분": "미분류",
+    "저자": "하야카와 타다노리",
+    "도서명": "신국 일본의 어처구니없는 결전생활",
+    "URL": "https://sootax.co.kr/6916",
+    "Image": "https://sphrgkgodnqsseekphky.supabase.co/storage/v1/object/public/booklist/6916.jpg",
+    "DateAdded": "2026-11-27"
   }
 ]
